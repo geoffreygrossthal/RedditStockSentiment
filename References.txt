@@ -1,0 +1,12 @@
+Python Libraries
+pip install praw
+
+Websites
+https://www.reddit.com/prefs/apps
+
+
+https://pypi.org/project/praw/
+PRAW, an acronym for “Python Reddit API Wrapper”, is a Python package that allows for simple 
+access to Reddit’s API. PRAW aims to be easy to use and internally follows all of 
+Reddit’s API rules. With PRAW there’s no need to introduce sleep calls in your code. 
+Give your client an appropriate user agent and you’re set.
