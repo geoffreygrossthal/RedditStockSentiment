@@ -1,19 +1,18 @@
 import praw
 import datetime
 
-# Define a data model for the Reddit submission
+# Define a data model for the Reddit Post
 class RedditPost:
-    def __init__(self, title, score, url, content, created_utc):
+    def __init__(self, title, score, url, content, created_utc, subreddit_name, comments):
         self.title = title
         self.score = score
         self.url = url
         self.content = content
         self.created_utc = created_utc
-        self.created_date = self.convert_created_date()
-
-    def convert_created_date(self):
-        return datetime.datetime.fromtimestamp(self.created_utc, datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+        self.created_date = datetime.datetime.fromtimestamp(created_utc, datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+        self.subreddit_name = subreddit_name
+        self.comments = comments
 
     def __repr__(self):
-        return (f"RedditPost(title={self.title}, score={self.score}, "
-                f"url={self.url}, created_date={self.created_date})")
+        return (f"RedditPost(title={self.title}, score={self.score}, url={self.url}, "
+                f"created_date={self.created_date}, subreddit_name={self.subreddit_name})")

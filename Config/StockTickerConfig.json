@@ -1,0 +1,56 @@
+{
+    "stock_tickers": [
+        {
+            "ticker": "MSFT",
+            "name": "Microsoft Corporation"
+        },
+        {
+            "ticker": "AMZN",
+            "name": "Amazon.com Inc."
+        },
+        {
+            "ticker": "GOOGL",
+            "name": "Alphabet Inc. (Class A)"
+        },
+        {
+            "ticker": "FB",
+            "name": "Meta Platforms, Inc."
+        },
+        {
+            "ticker": "NFLX",
+            "name": "Netflix Inc."
+        },
+        {
+            "ticker": "NVDA",
+            "name": "NVIDIA Corporation"
+        },
+        {
+            "ticker": "BRK.B",
+            "name": "Berkshire Hathaway Inc. (Class B)"
+        },
+        {
+            "ticker": "JPM",
+            "name": "JPMorgan Chase & Co."
+        },
+        {
+            "ticker": "V",
+            "name": "Visa Inc."
+        },
+        {
+            "ticker": "PG",
+            "name": "Procter & Gamble Co."
+        },
+        {
+            "ticker": "DIS",
+            "name": "The Walt Disney Company"
+        },
+        {
+            "ticker": "PYPL",
+            "name": "PayPal Holdings Inc."
+        },
+        {
+            "ticker": "INTC",
+            "name": "Intel Corporation"
+        }
+    ]
+}

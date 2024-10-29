@@ -1,0 +1,9 @@
+{
+    "reddit": {
+      "client_id": "wbqrtipDWMwrK-pIRyEr0A",
+      "client_secret": "jCG35SefQR1WnwNvPCOD85lrDfLfmw",
+      "user_agent": "YOUR_USER_AGENT SentimentGather/1.0 by RedditStockSentiment",
+      "subreddit_name": "wallstreetbets"
+    }
+  }
+  
