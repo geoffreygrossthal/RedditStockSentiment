@@ -35,6 +35,6 @@ if __name__ == "__main__":
     )
 
     # Define your parameters
-    subreddit_name = "wallstreetbets"  # Replace with the desired subreddit
-    time_filter = "week"                # Replace with your preferred time filter
-    limit = 100                         # Set
+    subreddit_name = "wallstreetbets"  
+    time_filter = "week"               
+    limit = 100                         
