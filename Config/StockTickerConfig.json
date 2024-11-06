@@ -1,6 +1,14 @@
 {
     "stock_tickers": [
         {
+            "ticker": "AAPL",
+            "name": "Aapple"
+        },
+        {
+            "ticker": "TSLA",
+            "name": "Tesla"
+        },
+        {
             "ticker": "MSFT",
             "name": "Microsoft Corporation"
         },
