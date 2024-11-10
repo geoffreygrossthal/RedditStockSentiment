@@ -67,7 +67,6 @@ def get_posts_for_specific_date(subreddit_name="wallstreetbets", target_date=dat
         post for post in posts
         if start_of_day <= post.created_utc <= end_of_day
     ]
-
     return filtered_posts
 
 # Function to insert the RedditPost into the folder structure and save as JSON
