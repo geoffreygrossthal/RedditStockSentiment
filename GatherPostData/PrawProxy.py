@@ -151,7 +151,7 @@ def post_saved(reddit_post, stock_ticker):
 subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
 
 for subreddit_name in subreddit_names:
-    posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='all', limit=3000)
+    posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='Month', limit=3000)
     if posts_for_date:
         print(f"Found {len(posts_for_date)} posts for {subreddit_name}.")
     else:
