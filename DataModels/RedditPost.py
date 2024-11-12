@@ -22,3 +22,12 @@ class RedditPost:
             "subreddit_name": self.subreddit_name,
             "comments": self.comments
         }
+    
+    def to_string(self):
+        return (f"Title: {self.title}\n"
+                f"Score: {self.score}\n"
+                f"URL: {self.url}\n"
+                f"Content: {self.content}\n"
+                f"Created: {self.created_utc}\n"
+                f"Subreddit: {self.subreddit_name}\n"
+                f"Comments: {self.comments}\n")

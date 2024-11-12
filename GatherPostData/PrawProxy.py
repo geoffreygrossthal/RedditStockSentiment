@@ -28,8 +28,6 @@ reddit = praw.Reddit(
     user_agent=config['reddit']['user_agent'],
 )
 
-import re
-
 # Define the list of stock tickers
 stock_tickers = [
     {"ticker": "AAPL", "name": "Apple"},
@@ -58,11 +56,14 @@ def contains_stock_ticker(post, stock_tickers):
     return []
 
 # Function to fetch posts based on subreddit and time filter
-def get_posts(subreddit_name, time_filter="day", limit=300):
+def get_posts(subreddit_name, time_filter="2022", limit=1000):
+    time_filter = "all"
     valid_time_filters = {"all", "day", "hour", "month", "week", "year"}
     if time_filter not in valid_time_filters:
         raise ValueError(f"Invalid time_filter: {time_filter}. Must be one of {valid_time_filters}.")
     subreddit = reddit.subreddit(subreddit_name)
+
+    #Filter subreddit based off of interval
     if time_filter == "all":
         submissions = list(subreddit.top(limit=limit))
     elif time_filter == "day":
@@ -76,7 +77,6 @@ def get_posts(subreddit_name, time_filter="day", limit=300):
     else:
         submissions = list(subreddit.top(time_filter="hour", limit=limit))
     print(f"Found {len(submissions)} posts.")
-    posts = []
     for submission in submissions:
         post = RedditPost(
             title=submission.title,
@@ -87,7 +87,6 @@ def get_posts(subreddit_name, time_filter="day", limit=300):
             subreddit_name=subreddit_name,
             comments=submission.num_comments
         )
-        posts.append(post)
         matched_tickers = contains_stock_ticker(post, stock_tickers)
         if matched_tickers:
             for ticker in matched_tickers:
@@ -97,18 +96,6 @@ def get_posts(subreddit_name, time_filter="day", limit=300):
                     print(f"Post for {ticker} already saved.")
         else:
             print("No relevant ticker found in post.")
-    return posts
-
-# Adjusted function to fetch posts for a specific date
-def get_posts_for_specific_date(subreddit_name, target_date, limit=300):
-    posts = get_posts(subreddit_name=subreddit_name, time_filter="day", limit=limit)
-    start_of_day = datetime(target_date.year, target_date.month, target_date.day, 0, 0).timestamp()
-    end_of_day = datetime(target_date.year, target_date.month, target_date.day, 23, 59, 59).timestamp()
-    filtered_posts = [
-        post for post in posts
-        if start_of_day <= post.created_utc <= end_of_day
-    ]
-    return filtered_posts
 
 # Function to insert the RedditPost into the folder structure and save as JSON
 def insert_reddit_post_into_folders(reddit_post, stock_ticker):
@@ -169,13 +156,11 @@ current_date = start_date
 while current_date >= end_date:
     print(f"Fetching posts for {current_date.date()}...")
     for subreddit_name in subreddit_names:
-        posts_for_date = get_posts_for_specific_date(subreddit_name=subreddit_name, target_date=current_date, limit=300)
+        posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter=current_date, limit=300)
         if posts_for_date:
             print(f"Found {len(posts_for_date)} posts for {subreddit_name} on {current_date.date()}.")
         else:
             print(f"No posts found for {subreddit_name} on {current_date.date()}.")
         time.sleep(1)
         print()
-    print("Waiting for 15 seconds to respect API rate limits...")
-    time.sleep(10)
     current_date -= timedelta(days=1)
