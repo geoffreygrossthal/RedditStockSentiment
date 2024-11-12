@@ -32,38 +32,42 @@ reddit = praw.Reddit(
 stock_tickers = [
     {"ticker": "AAPL", "name": "Apple"},
     {"ticker": "TSLA", "name": "Tesla"},
-    {"ticker": "MSFT", "name": "Microsoft Corporation"},
-    {"ticker": "AMZN", "name": "Amazon.com Inc."},
-    {"ticker": "GOOGL", "name": "Alphabet Inc. (Class A)"},
-    {"ticker": "FB", "name": "Meta Platforms, Inc."},
-    {"ticker": "NFLX", "name": "Netflix Inc."},
-    {"ticker": "NVDA", "name": "NVIDIA Corporation"},
-    {"ticker": "BRK.B", "name": "Berkshire Hathaway Inc. (Class B)"},
-    {"ticker": "JPM", "name": "JPMorgan Chase & Co."},
-    {"ticker": "V", "name": "Visa Inc."},
-    {"ticker": "PG", "name": "Procter & Gamble Co."},
-    {"ticker": "DIS", "name": "The Walt Disney Company"},
-    {"ticker": "PYPL", "name": "PayPal Holdings Inc."},
-    {"ticker": "INTC", "name": "Intel Corporation"}
+    {"ticker": "MSFT", "name": "Microsoft"},
+    {"ticker": "AMZN", "name": "Amazon"},
+    {"ticker": "GOOGL", "name": "Alphabet"},
+    {"ticker": "FB", "name": "Meta"},
+    {"ticker": "NFLX", "name": "Netflix"},
+    {"ticker": "NVDA", "name": "NVIDIA"},
+    {"ticker": "BRK.B", "name": "Berkshire"},
+    {"ticker": "JPM", "name": "JPMorgan"},
+    {"ticker": "V", "name": "Visa"},
+    {"ticker": "PG", "name": "Procter & Gamble"},
+    {"ticker": "DIS", "name": "Disney"},
+    {"ticker": "PYPL", "name": "PayPal"},
+    {"ticker": "INTC", "name": "Intel"}
 ]
 
 # Function to check if a post contains any of the stock tickers
 def contains_stock_ticker(post, stock_tickers):
     tickers = [ticker["ticker"] for ticker in stock_tickers]
-    ticker_pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, tickers)) + r')\b', re.IGNORECASE)
+    names = [ticker["name"] for ticker in stock_tickers]
+    search_terms = tickers + names
+    ticker_pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, search_terms)) + r')\b', re.IGNORECASE)
+    matched_tickers = []
     if ticker_pattern.search(post.title) or ticker_pattern.search(post.content):
-        return [ticker for ticker in tickers if ticker_pattern.search(post.title) or ticker_pattern.search(post.content)]
-    return []
+        matched_tickers = [ticker["ticker"] for ticker in stock_tickers if ticker_pattern.search(post.title) or ticker_pattern.search(post.content)]
+    return matched_tickers
 
 # Function to fetch posts based on subreddit and time filter
-def get_posts(subreddit_name, time_filter="2022", limit=1000):
-    time_filter = "all"
+def get_posts(subreddit_name, time_filter, limit):
+    
+    # Get valid time filter
     valid_time_filters = {"all", "day", "hour", "month", "week", "year"}
     if time_filter not in valid_time_filters:
         raise ValueError(f"Invalid time_filter: {time_filter}. Must be one of {valid_time_filters}.")
     subreddit = reddit.subreddit(subreddit_name)
 
-    #Filter subreddit based off of interval
+    # Filter subreddit based off of interval
     if time_filter == "all":
         submissions = list(subreddit.top(limit=limit))
     elif time_filter == "day":
@@ -107,7 +111,6 @@ def insert_reddit_post_into_folders(reddit_post, stock_ticker):
     folder_path = os.path.join(base_dir, stock_ticker, str(year), f"{month:02d}", f"{day:02d}")
     file_path = os.path.join(folder_path, "RedditPosts.json")
     os.makedirs(folder_path, exist_ok=True)
-    
     if os.path.exists(file_path):
         with open(file_path, 'r+', encoding='utf-8') as f:
             try:
@@ -118,14 +121,11 @@ def insert_reddit_post_into_folders(reddit_post, stock_ticker):
             f.seek(0)
             json.dump(data, f, ensure_ascii=False, indent=4)
         print(f"Reddit post for {stock_ticker} appended to {file_path}")
-        time.sleep(1)
-        print()
     else:
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump([reddit_post.to_dict()], f, ensure_ascii=False, indent=4)
         print(f"Reddit post for {stock_ticker} saved as new JSON at {file_path}")
-        time.sleep(1)
-        print()
+    time.sleep(1)
 
 # Function to see if the data has already been saved
 def post_saved(reddit_post, stock_ticker):
@@ -156,7 +156,7 @@ current_date = start_date
 while current_date >= end_date:
     print(f"Fetching posts for {current_date.date()}...")
     for subreddit_name in subreddit_names:
-        posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter=current_date, limit=300)
+        posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='all', limit=2000)
         if posts_for_date:
             print(f"Found {len(posts_for_date)} posts for {subreddit_name} on {current_date.date()}.")
         else:
