@@ -49,14 +49,21 @@ stock_tickers = [
 
 # Function to check if a post contains any of the stock tickers
 def contains_stock_ticker(post, stock_tickers):
-    tickers = [ticker["ticker"] for ticker in stock_tickers]
-    names = [ticker["name"] for ticker in stock_tickers]
-    search_terms = tickers + names
-    ticker_pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, search_terms)) + r')\b', re.IGNORECASE)
+    ticker_set = {ticker['ticker'] for ticker in stock_tickers}
+    ticker_pattern = re.compile(r'\b(?:' + '|'.join(re.escape(ticker['ticker']) for ticker in stock_tickers) + r')\b', re.IGNORECASE)
     matched_tickers = []
-    if ticker_pattern.search(post.title) or ticker_pattern.search(post.content):
-        matched_tickers = [ticker["ticker"] for ticker in stock_tickers 
-                           if ticker_pattern.search(post.title) or ticker_pattern.search(post.content)]
+    print(post.to_string())
+
+    # Search for tickers in the title or content once
+    post_text = post.title + " " + post.content
+    if ticker_pattern.search(post_text):
+        for ticker in ticker_set:
+            # Only check for individual tickers if the pattern matched
+            if re.search(r'\b' + re.escape(ticker) + r'\b', post_text, re.IGNORECASE):
+                if ticker not in matched_tickers:
+                    matched_tickers.append(ticker)
+                    print(f'Matched ticker: {ticker}')
+
     return matched_tickers
 
 # Function to fetch posts based on subreddit and time filter
@@ -126,7 +133,7 @@ def insert_reddit_post_into_folders(reddit_post, stock_ticker):
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump([reddit_post.to_dict()], f, ensure_ascii=False, indent=4)
         print(f"Reddit post for {stock_ticker} saved as new JSON at {file_path}")
-    time.sleep(1)
+    time.sleep(0.5)
 
 # Function to see if the data has already been saved
 def post_saved(reddit_post, stock_ticker):
@@ -152,10 +159,4 @@ def post_saved(reddit_post, stock_ticker):
 subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
 
 for subreddit_name in subreddit_names:
-    posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='week', limit=3000)
-    if posts_for_date:
-        print(f"Found {len(posts_for_date)} posts for {subreddit_name}.")
-    else:
-        print(f"No posts found for {subreddit_name}.")
-    time.sleep(1)
-    print()
+    get_posts(subreddit_name=subreddit_name, time_filter='month', limit=3000)

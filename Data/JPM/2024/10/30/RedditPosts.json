@@ -52,5 +52,14 @@
         "created_utc": 1730305479.0,
         "subreddit_name": "stocks",
         "comments": 89
+    },
+    {
+        "title": "Platform Question: Benchmarking Against Indices",
+        "score": 3,
+        "url": "https://www.reddit.com/r/investing/comments/1gfvrx2/platform_question_benchmarking_against_indices/",
+        "content": "Hiya folks!\n\nIt seems I have been modestly successful at individual stock picks and figuring if this is the case or if I am wrong seems important to me (duh).\n\nMy challenge is this: I want to create logical cohorts/groupings of my tax lots to analyze their performance against something like the SPY500. This will immediately highlight how much my individual picks are deviating from the market, but more importantly, how my broader hedged portfolio is doing versus the easy safe bet.\n\nI had reached out to JPM Chase about their Developer API platform noting that I do not see a way to access tax lot information programmatically (seems so silly). I not jokingly threatened to write a Chrome Driver to get this information by web scraping.\n\nNaturally, I imagine this is a very basic feature present on professional platforms or even just in platforms for accredited investors. My question is: am I about to waste a bunch of time, as in, does this exist in any retail brokerage platforms? If so, I think I will happily just move my money elsewhere and 'vote with my wallet' for stronger tool offerings.",
+        "created_utc": 1730318456.0,
+        "subreddit_name": "investing",
+        "comments": 10
     }
 ]

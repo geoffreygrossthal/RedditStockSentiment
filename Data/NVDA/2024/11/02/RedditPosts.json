@@ -34,5 +34,41 @@
         "created_utc": 1730571638.0,
         "subreddit_name": "stocks",
         "comments": 9
+    },
+    {
+        "title": "Why I think TSM/INTC will outpace NVDA/AMD growth in the next decade. ",
+        "score": 1156,
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/",
+        "content": "Tech giants like Amazon, Google, Microsoft, and Meta are spending billions of CapEx on AI. Lets just look at their last 2 quarters spending:\n\n* **Amazon**: Increased CapEx from $60 billion in Q2 2024 to $70 billion in Q3 2024.\n* **Google**: Increased CapEx from $44 billion to $49 billion in the same period.\n* **Microsoft**: Increased CapEx from $44 billion to $49 billion.\n* **Meta**: Increased CapEx from $29 billion to $31 billion.\n\nHowever not all that CapEx is going to third party AI solutions like Nvidia/AMD. Each and every company listed above has or is developing it's own custom AI silicon.\n\nLets look how they are transitioning from 3rd party to In-House AI silicon:\n\n**Amazon**: Developed AWS Inferentia and Tranium chips for AI processing (manufactured by TSM & INTC).\n\n**Google**: Developed Tensor Processing Unite (TPU) and Axion chip for AI processing (manufactured by TSM).\n\n**Microsoft**: Developed Azure Maia AI chip and Azure Cobalt for AI processing (manufactured by TSM & INTC).\n\n**Meta**: Developed Meta trading and Inference Accelerator (MTIA) for AI processing (manufactured by TSM).\n\nAll those developments reduce dependence on external GPU suppliers, allow more customized/efficient AI processing and most importantly huge cost savings.\n\nJust to understand the level of savings (and why would they invest huge R&D budget on this):\n\nA **regular Nvidia H100 GPU**, cost approximately **$3,320** to manufacture from TSMC. However it is being sold at **$25,000 to $30,000** each!\n\nThat's almost 800%-900% profit margins that has to be paid by the companies above, when they opt not to choose In-House Silicon.\n\nAs more of the AI CapEx goes to custom silicon (will never be 100%, but expect that percentage only to grow larger over time, driven by cost savings)  TSMC and Intel foundries will benefit directly from this trend (both have EUV capabilities, INTC will mass produce 18A EUV chips next year, with Amazon as first client)\n\nAnd this will position TSMC and INTC for substantial growth, because **the rate limiting factor for AI growth will be how much silicon can TSMC or INTC manufacture** for the entire world's AI demand.  \n  \n\n\n\n\n",
+        "created_utc": 1730560665.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 249
+    },
+    {
+        "title": "May 2022 down 75%, tossed it all into NVDA/ Now up 767%",
+        "score": 616,
+        "url": "https://www.reddit.com/gallery/1ghzonq",
+        "content": "",
+        "created_utc": 1730563258.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 35
+    },
+    {
+        "title": "Dow Jones Industrial Average (DOW) Adding NVIDIA (NVDA) replacing Intel (INTC) on Novmeber 8th",
+        "score": 210,
+        "url": "https://www.spglobal.com/spdji/en/documents/indexnews/announcements/20241101-1475162/1475162_djiadjuaintcdowaes.pdf",
+        "content": "",
+        "created_utc": 1730510885.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 32
+    },
+    {
+        "title": "NVDA To Join Dow Jones Industrial Average",
+        "score": 219,
+        "url": "https://www.reddit.com/r/investing/comments/1ghmlfr/nvda_to_join_dow_jones_industrial_average/",
+        "content": "\n\nNvidia is replacing rival chipmaker Intel\n in the Dow Jones Industrial Average, a shakeup to the blue-chip index that reflects the boom in artificial intelligence and a major shift in the semiconductor industry.  \n\nThe switch will take place on Nov. 8. Also, Sherwin Williams will replace Dow Inc\nin the index, S&P Dow Jones said in a statement.\n\nNvidia shares have climbed over 170% so far in 2024 after jumping roughly 240% last year, as investors have rushed to get a piece of the AI chipmaker. Nvidia’s market cap has swelled to $3.3 trillion, second only to Apple. \n\nhttps://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html",
+        "created_utc": 1730514541.0,
+        "subreddit_name": "investing",
+        "comments": 64
     }
 ]

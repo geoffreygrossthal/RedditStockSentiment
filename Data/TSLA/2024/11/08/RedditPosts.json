@@ -196,5 +196,14 @@
         "created_utc": 1731078352.0,
         "subreddit_name": "wallstreetbets",
         "comments": 5
+    },
+    {
+        "title": "Creating a Python library for Mandelbrot's metrics, doubts with Hurst Exponent/Scale",
+        "score": 7,
+        "url": "https://www.reddit.com/r/investing/comments/1gmpzpr/creating_a_python_library_for_mandelbrots_metrics/",
+        "content": "Sorry if I am off-topic, I am new to this world and to get feedback I had to start somewhere (send me to the proper subreddit if I'm wrong).\n\nI have just finished reading The Misbehaviour of Markets by Mandelbrot, and I immediately started looking for libraries in Python to do data analysis using his suggested metrics.\n\nTo my surprise, I couldn't find any. So, first question, did I not search properly? What do you use?\n\nTherefore, I started developing mine :)  \nBut I am having problems with the Hurst exponent/scalability (it is utilized to evaluate the extent of long-term reliance in market predictability), I don't understand how to interpret the results or there is a bug in the code (less likely, or in the data).\n\n[https://github.com/packmad/Riskstats](https://github.com/packmad/Riskstats)\n\nI am posting here the results of some well known assets, ordered by the exponent:\n\n|ticker|name|hurst\\_scale\\_factor|hurst\\_exponent|\n|:-|:-|:-|:-|\n|NVDA|NVIDIA Corporation (NVDA)|0.0583817|1.37871|\n|BTC-USD|Bitcoin USD (BTC-USD)|0.0881427|1.30595|\n|TSLA|Tesla, Inc. (TSLA)|0.0889597|1.29036|\n|IVV|iShares Core S&P 500 ETF (IVV)|0.534948|0.758518|\n|VWCE|Vanguard FTSE All-World UCITS ETF USD Acc|0.86076|0.659583|\n\nSo, I really do not understand why assets that behave like roller coasters (e.g., BTC-USD)  have these scale factors. Shouldn't they be extremely high? \n\nCheers!",
+        "created_utc": 1731091916.0,
+        "subreddit_name": "investing",
+        "comments": 0
     }
 ]

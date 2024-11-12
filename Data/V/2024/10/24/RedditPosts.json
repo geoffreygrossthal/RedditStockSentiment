@@ -52,5 +52,14 @@
         "created_utc": 1729798274.0,
         "subreddit_name": "stocks",
         "comments": 90
+    },
+    {
+        "title": "Explain how Fiverr exists in a world with AI agents",
+        "score": 1157,
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1gb5c9e/explain_how_fiverr_exists_in_a_world_with_ai/",
+        "content": "I’ve been thinking on it, and there’s no way a company that is based on hiring freelancers to do coding (and steal IPs) can stay at their current valuations when AI agents become main stream. I mean, I made a Reddit scanner to look for certain keywords in comments on posts in an hour, works perfectly. It’s like 250 lines of code, and it was free. I have zero coding experience.\n\nSomeone explain why I shouldn’t go all in on puts against them and low-level development companies like Appian. Because to me, they seems like the next Chegg.\n\nFor context, I’ve already purchased some deep OTM puts a year or so out on Fiverr, Appian, and a couple consulting companies.\n\nEdit: Because a lot of people don’t seem to know what release I’m taking about, or know its abilities, you can watch and read more [here](https://m.youtube.com/watch?v=ODaHJzOyVCQ&embeds_referring_euri=https%3A%2F%2Fcointelegraph.com%2F&source_ve_path=MjM4NTE). \nYou can basically share your screen with the AI, allowing it to click around for you if you are using their API. Meaning that code that it wrote? It can put it into action, your average consumer doesn’t need to know how to do that anymore. Now picture this in 6 months to a year, given how much we’ve moved forward in that same time period. \n\nTL;DR: Fiverr, Appian, SaaS companies are going to lose revenue.\n\n\nEdit 2: Since I’ve got you all here: The [White House](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/) just put out a statement that they’re going all in on AI too, which I think is pretty neat\n\nEdit 3: Okay, thank you all. Maybe Fiverr as of 10/24/2024 isn’t the play, but it will be some day ",
+        "created_utc": 1729783662.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 473
     }
 ]

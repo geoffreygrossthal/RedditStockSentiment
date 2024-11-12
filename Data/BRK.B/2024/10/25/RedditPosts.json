@@ -25,5 +25,14 @@
         "created_utc": 1729848611.0,
         "subreddit_name": "stocks",
         "comments": 156
+    },
+    {
+        "title": "Berkshire Hathaway as proxy cash holding?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1gc1s9w/berkshire_hathaway_as_proxy_cash_holding/",
+        "content": "Disclaimer: I don't hold any BRK at this time (because I own A LOT of Apple).\n\n* BRK.B is 983B USD, out of which, 277B USD is cash \n* That's \\~70% in solid business and \\~30% in cash.\n* Cash grows \\~5% per year.\n\nLet's assume BRK stock holdings drop by 10% in a given year.\n\n* BRK 10% drop in the stock holdings is 7% of their total holdings.\n   * adjusted drop 7%.\n* BRK cash grows \\~5% per year, which is 1.5% of their total holdings.\n   * adjusted drop 5.5%.\n* BRK gets \\~5B USD in dividends every year, which is 0.5% of their total holdings: adjusted drop 5%\n\nNow, with a loss of 5%, BRK maybe realize some losses in order to offset capital gains, which would bring the actual loss even lower, let's say it drops another 0.5%, which makes the loss 4.5%.\n\nNow, if BRK's holdings drop 4.5% and let's say you need to take 30% of the money from it:  \n\\- Now, BRK will buy more of their holdings.  \n\\- In order to recover the 4.5% of the 30% of the original money you've taken, the stock only needs to recover \\~7% (which is not a lot, considering it just dropped 10%).\n\n",
+        "created_utc": 1729882542.0,
+        "subreddit_name": "investing",
+        "comments": 4
     }
 ]
