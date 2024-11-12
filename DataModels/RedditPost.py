@@ -1,6 +1,3 @@
-import praw
-import datetime
-
 # Define a data model for the Reddit Post
 class RedditPost:
     def __init__(self, title, score, url, content, created_utc, subreddit_name, comments):

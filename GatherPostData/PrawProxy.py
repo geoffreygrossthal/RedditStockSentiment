@@ -148,19 +148,13 @@ def post_saved(reddit_post, stock_ticker):
     return False
 
 # Loop through each day from Nov 8, 2024, going back 10 years
-subreddit_names = ["wallstreetbets", "investing", "stocks"]
-end_date = datetime(2014, 11, 8)
-start_date = datetime(2023, 11, 8)
-current_date = start_date
+subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
 
-while current_date >= end_date:
-    print(f"Fetching posts for {current_date.date()}...")
-    for subreddit_name in subreddit_names:
-        posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='all', limit=2000)
-        if posts_for_date:
-            print(f"Found {len(posts_for_date)} posts for {subreddit_name} on {current_date.date()}.")
-        else:
-            print(f"No posts found for {subreddit_name} on {current_date.date()}.")
-        time.sleep(1)
-        print()
-    current_date -= timedelta(days=1)
+for subreddit_name in subreddit_names:
+    posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='all', limit=3000)
+    if posts_for_date:
+        print(f"Found {len(posts_for_date)} posts for {subreddit_name}.")
+    else:
+        print(f"No posts found for {subreddit_name}.")
+    time.sleep(1)
+    print()
