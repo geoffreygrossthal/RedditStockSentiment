@@ -55,7 +55,8 @@ def contains_stock_ticker(post, stock_tickers):
     ticker_pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, search_terms)) + r')\b', re.IGNORECASE)
     matched_tickers = []
     if ticker_pattern.search(post.title) or ticker_pattern.search(post.content):
-        matched_tickers = [ticker["ticker"] for ticker in stock_tickers if ticker_pattern.search(post.title) or ticker_pattern.search(post.content)]
+        matched_tickers = [ticker["ticker"] for ticker in stock_tickers 
+                           if ticker_pattern.search(post.title) or ticker_pattern.search(post.content)]
     return matched_tickers
 
 # Function to fetch posts based on subreddit and time filter
@@ -151,7 +152,7 @@ def post_saved(reddit_post, stock_ticker):
 subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
 
 for subreddit_name in subreddit_names:
-    posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='month', limit=3000)
+    posts_for_date = get_posts(subreddit_name=subreddit_name, time_filter='week', limit=3000)
     if posts_for_date:
         print(f"Found {len(posts_for_date)} posts for {subreddit_name}.")
     else:
