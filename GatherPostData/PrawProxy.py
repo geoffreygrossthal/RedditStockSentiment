@@ -34,16 +34,9 @@ stock_tickers = [
     {"ticker": "TSLA", "name": "Tesla"},
     {"ticker": "MSFT", "name": "Microsoft"},
     {"ticker": "AMZN", "name": "Amazon"},
-    {"ticker": "GOOGL", "name": "Alphabet"},
-    {"ticker": "FB", "name": "Meta"},
     {"ticker": "NFLX", "name": "Netflix"},
     {"ticker": "NVDA", "name": "NVIDIA"},
-    {"ticker": "BRK.B", "name": "Berkshire"},
-    {"ticker": "JPM", "name": "JPMorgan"},
-    {"ticker": "V", "name": "Visa"},
-    {"ticker": "PG", "name": "Procter & Gamble"},
     {"ticker": "DIS", "name": "Disney"},
-    {"ticker": "PYPL", "name": "PayPal"},
     {"ticker": "INTC", "name": "Intel"}
 ]
 
