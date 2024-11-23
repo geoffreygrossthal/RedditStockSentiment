@@ -34,7 +34,9 @@ stock_tickers = [
     {
         "ticker": "AAPL",
         "keywords": [
-            "AAPL", "aaple", "apple", "iphone", "Apple", "TimCook", "iPhone", "iPad", "MacBook", "AppleWatch", "AirPods", "AppleTV", 
+            "AAPL", "aaple", "apple", "NVDA", "iphone", "spy", "SPY", "FAANG", "faang", "Apple", "TimCook", 
+            "iPhone", "nvda",
+            "QQQ", "qqq", "iPad", "MacBook", "AppleWatch", "AirPods", "AppleTV", 
             "iOS", "macOS", "iCloud", "AppStore", "ApplePay", "AppleCard", "AppleMusic", "AppleArcade", 
             "AppleFitness", "AppleNews", "AppleBooks", "iTunes", "AppleRetail", "AppleSilicon", 
             "M1Chip", "M2Chip", "iMac", "MacMini", "MacPro", "HomePod", "AirTags", "AppleCampus", 
@@ -152,11 +154,10 @@ def post_saved(reddit_post, stock_ticker):
 # ]
 # Subreddit names (finance + stock-related + popular news + tech)
 subreddit_names = [
-    "apple", "stocks", "wallstreetbets", "investing",
-    "worldnews", "news", "technology", "mac", "gadgets", 
-    "technews", "futurethink", "tech", "startups", "entrepreneur"
+    "stocks", "wallstreetbets", "apple",
+    "worldnews", "news", "technology"
 ]
 
 
 for subreddit_name in subreddit_names:
-    get_posts(subreddit_name=subreddit_name, time_filter='month', limit=1000)
+    get_posts(subreddit_name=subreddit_name, time_filter='year', limit=500)

@@ -565,5 +565,41 @@
         "created_utc": 1730191477.0,
         "subreddit_name": "gadgets",
         "comments": 19
+    },
+    {
+        "title": "r/Stocks Daily Discussion & Technicals Tuesday - Oct 29, 2024",
+        "score": 11,
+        "url": "https://www.reddit.com/r/stocks/comments/1geqi2z/rstocks_daily_discussion_technicals_tuesday_oct/",
+        "content": "This is the daily discussion, so anything stocks related is fine, but the theme for today is on technical analysis (TA), but if TA is not your thing then just ignore the theme.\n\nSome helpful day to day links, including news:\n\n* [Finviz](https://finviz.com/quote.ashx?t=spy) for charts, fundamentals, and aggregated news on individual stocks\n* [Bloomberg market news](https://www.bloomberg.com/markets)\n* StreetInsider news:\n  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips\n  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news\n\n-----\n\n**Technical analysis (TA)** uses historical price movements, real time data, indicators based on math and/or statistics, and charts; all of which help **measure the trajectory of a security.**  TA can also be used to interpret the actions of other market participants and predict their actions.\n        \nThe main benefit to TA is that everything shows up in the price (commonly known as **\"priced in\"**):  All news, investor sentiment, and changes to fundamentals are reflected in a security's price.\n\nTA can be useful on any timeframe, both short and long term.\n\nIntro to technical analysis by [Stockcharts chartschool](https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:introduction_to_technical_indicators_and_oscillators#benefits_and_drawbacks_of_leading_indicators) and their [article on candlesticks](https://stockcharts.com/school/doku.php?id=chart_school:chart_analysis:introduction_to_candlesticks)\n\nIf you have questions, please see the following word cloud and click through for the wiki:\n\n[Indicator - Trade Signals - Lagging Indicator - Leading Indicator - Oversold - Overbought - Divergence - Whipsaw - Resistance - Support - Breakout/Breakdown - Alerts - Trend line - Market Participants - Moving average - RSI - VWAP - MACD - ATR - Bollinger Bands - Ichimoku clouds - Methods - Trend Following - Fading - Channels - Patterns - Pivots](https://www.reddit.com/r/stocks/wiki/ta-themed-post)\n\nSee our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&restrict_sr=on&sort=new&t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&restrict_sr=on&include_over_18=on&sort=new&t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&restrict_sr=on&include_over_18=on&sort=new&t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&restrict_sr=on&include_over_18=on&sort=new&t=all) Friday.",
+        "created_utc": 1730194208.0,
+        "subreddit_name": "stocks",
+        "comments": 267
+    },
+    {
+        "title": "What happens if your PMCC short is assigned in an IRA?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/stocks/comments/1gezdp1/what_happens_if_your_pmcc_short_is_assigned_in_an/",
+        "content": "I’m new to this strategy. I have a deep itm QQQ 2026. I want to sell to open a call a month out. What if QQQ goes past strike price and I get assigned? I don’t have enough cash to buy and sell. Since it’s IRA account, I can only have limited margin account which doesn’t let me borrow. Also does fidelity automatically exercise for buyer it ITM? Can someone also explain how that makes sense, why would they wanna exercise below breakeven? I’m assuming it’s so it doesn’t expire worthless?\n\nI understand I can buy back to close the option. I don’t own the actual shares",
+        "created_utc": 1730220753.0,
+        "subreddit_name": "stocks",
+        "comments": 13
+    },
+    {
+        "title": "118% on $SPY 0DTE call. ",
+        "score": 99,
+        "url": "https://www.reddit.com/gallery/1gex8a6",
+        "content": "",
+        "created_utc": 1730215385.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 40
+    },
+    {
+        "title": "Is my asset allocation okay for my dad who is retiring soon?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/investing/comments/1gf2r76/is_my_asset_allocation_okay_for_my_dad_who_is/",
+        "content": "(Note: Apologies for the formatting, I am on mobile.)\n\nHey all, my dad asked me a few weeks ago to look into investing for him. My dad is 63, debt free, owns several rental properties, a few HYSAs (cash totaling ~400k) and is wanting to invest about 50-75k if possible (we will likely start out smaller though).\n\nThe thing is, my dad is an immigrant who did not go to high school or college & does not speak a lot of English so a lot of these finance things (such as HYSA, Roth IRA, etc) he did not know about until way later in his life and there are not as many good resources on investing in Spanish (especially US-specific advice) as there are in English.\n\nAdmittedly, I’m not well versed in investing at all (22F, I went to business school in university, but unless you’re a finance major, everything was kind of brushed over). My dad has never contributed to his Roth IRA (I know, I know) so I was thinking of maxing that out first and then doing the rest in a brokerage. I tried to do research from lots of different sources and here is an asset allocation I came up with, please let me know your thoughts:\n\n\nEquities (Index Funds & ETFS): 60%\n- For about 45%, I’d probably do a mixture of VOO, FXAIX, and FSKAX. Generally stable and have some growth potential\n- For the remaining 15%, I was thinking something like QQQ. A little more volatile hence why I’m allocating a lower percentage but stronger growth potential\n\nBonds (ETFs or Short Term Bonds): 40%\n- For about 25%, I was thinking of doing a total bond market ETF (such as BND) to balance out equity market risks\n- For about 15%, I was thinking Short Term Bonds like VGSH or SHY. More liquid and adding more stability to make the portfolio less sensitive to rate changes\n\n\nIs this optimal? Or should I do a different allocation in the Roth IRA? Another option I was thinking possibly to also do purely Equities in the Roth IRA since it has tax advantages, and the allocation above for the remaining amount in the brokerage account. \n\nSo that’s what I was able to gather keeping my dad’s age in mind. My dad’s goal isn’t necessarily to make crazy insane gains, mostly just to keep more of his money moving and get a decent ROI, preferably better than his HYSAs. My brother tried him on Crypto in 2021 (thankfully only about $1k invested) and he lost about 1/3 of his investment after 3 years so I really don’t wanna fuck this up for him. I wish I learned more about investing sooner (and I’m still learning by the day), but it all just seemed like so much to wrap my head around with a big learning curve, so it intimidated me and I didn’t know where to look back then. \n\nLet me know your thoughts on the asset allocation and thanks for reading til here! \n",
+        "created_utc": 1730229094.0,
+        "subreddit_name": "investing",
+        "comments": 22
     }
 ]

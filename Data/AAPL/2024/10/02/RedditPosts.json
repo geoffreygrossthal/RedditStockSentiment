@@ -25,5 +25,14 @@
         "created_utc": 1727870464.0,
         "subreddit_name": "apple",
         "comments": 221
+    },
+    {
+        "title": "Nvidia CEO Jensen Huang: “Demand for Blackwell is Insane”",
+        "score": 597,
+        "url": "https://www.reddit.com/r/stocks/comments/1futbrv/nvidia_ceo_jensen_huang_demand_for_blackwell_is/",
+        "content": "Nvidia (NASDAQ:NVDA) CEO Jensen Huang indicated the demand for its latest GPU, Blackwell, remains on track.\n\n\n\"Blackwell is in full production,\" Huang said Wednesday during an interview with CNBC. \"Blackwell is as planned, and the demand for Blackwell is insane. Everybody wants to have the most, and everybody wants to be first.\"\n\n\nThe Blackwell GPUs are already being released to data centers and industrial customers for artificial intelligence applications. They will be available for consumers in 2025.\n\n\n\"The thing that we have done with Blackwell, and what we have announced, is there is new Al infrastructure generation every year,\" Huang said. \"So, we're updating our platform every single year. If we can increase the performance, like we've done for Hopper and Blackwell ... we're effectively increasing the revenue or throughput for our customers on these infrastructures by a couple to three times each year.\"\n\n\nHyperscalers are expected to spend about $160B in 2024 on Al infrastructure. Every frontier large language model requires many times more compute power than the one prior.\n\n\n\"At a time when technology is moving so fast, it gives us an opportunity to triple down and to really drive the innovation cycle so that we can increase capabilities, increase our throughput, decrease our costs, decrease our energy consumption,\" Huang added.",
+        "created_utc": 1727909486.0,
+        "subreddit_name": "stocks",
+        "comments": 142
     }
 ]

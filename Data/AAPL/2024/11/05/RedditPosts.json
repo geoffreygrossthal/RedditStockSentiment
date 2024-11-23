@@ -340,5 +340,59 @@
         "created_utc": 1730770051.0,
         "subreddit_name": "mac",
         "comments": 3
+    },
+    {
+        "title": "Vanguard deposes BlackRock as provider of world’s second-largest ETF",
+        "score": 242,
+        "url": "https://www.reddit.com/r/stocks/comments/1gkjlaq/vanguard_deposes_blackrock_as_provider_of_worlds/",
+        "content": "Inflows to VOO look set to smash records as observers predict it will soon overtake SPY to become the biggest\n\nVanguard has deposed its rival BlackRock, the world’s largest asset manager, from its position as manager of the second-largest exchange traded fund in the world.\n\nIn a rare setback for the fund giant, BlackRock’s iShares Core S&P 500 ETF (IVV) has been overtaken by Vanguard’s equivalent S&P 500 ETF (VOO), which had assets of $540.76bn at Friday’s close, according to data from Morningstar, marginally ahead of IVV’s $540.66bn.\n\n“I expect VOO to catch SPY and become the largest ETF in the world in 2025, or 2026, at the latest,” Bryan Armour, director of passive strategies research for North America at Morningstar added. “VOO is set to smash the single-year inflows record, having already pulled in $85bn this year. In contrast, SPY has seen $5bn in outflows. The $125bn gap between the two ETFs [VOO and SPY] has shrunk to under $50bn in 2024. Were that pace to continue, VOO would easily be crowned king in 2025.”\n\n[**Financial Times**](https://www.ft.com/content/3067c4ce-8d0e-4307-8b1a-a7edd21639ff)\n",
+        "created_utc": 1730846587.0,
+        "subreddit_name": "stocks",
+        "comments": 33
+    },
+    {
+        "title": "r/Stocks Daily Discussion & Technicals Tuesday - Nov 05, 2024",
+        "score": 4,
+        "url": "https://www.reddit.com/r/stocks/comments/1gk3ojg/rstocks_daily_discussion_technicals_tuesday_nov/",
+        "content": "This is the daily discussion, so anything stocks related is fine, but the theme for today is on technical analysis (TA), but if TA is not your thing then just ignore the theme.\n\nSome helpful day to day links, including news:\n\n* [Finviz](https://finviz.com/quote.ashx?t=spy) for charts, fundamentals, and aggregated news on individual stocks\n* [Bloomberg market news](https://www.bloomberg.com/markets)\n* StreetInsider news:\n  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips\n  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news\n\n-----\n\n**Technical analysis (TA)** uses historical price movements, real time data, indicators based on math and/or statistics, and charts; all of which help **measure the trajectory of a security.**  TA can also be used to interpret the actions of other market participants and predict their actions.\n        \nThe main benefit to TA is that everything shows up in the price (commonly known as **\"priced in\"**):  All news, investor sentiment, and changes to fundamentals are reflected in a security's price.\n\nTA can be useful on any timeframe, both short and long term.\n\nIntro to technical analysis by [Stockcharts chartschool](https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:introduction_to_technical_indicators_and_oscillators#benefits_and_drawbacks_of_leading_indicators) and their [article on candlesticks](https://stockcharts.com/school/doku.php?id=chart_school:chart_analysis:introduction_to_candlesticks)\n\nIf you have questions, please see the following word cloud and click through for the wiki:\n\n[Indicator - Trade Signals - Lagging Indicator - Leading Indicator - Oversold - Overbought - Divergence - Whipsaw - Resistance - Support - Breakout/Breakdown - Alerts - Trend line - Market Participants - Moving average - RSI - VWAP - MACD - ATR - Bollinger Bands - Ichimoku clouds - Methods - Trend Following - Fading - Channels - Patterns - Pivots](https://www.reddit.com/r/stocks/wiki/ta-themed-post)\n\nSee our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&restrict_sr=on&sort=new&t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&restrict_sr=on&include_over_18=on&sort=new&t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&restrict_sr=on&include_over_18=on&sort=new&t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&restrict_sr=on&include_over_18=on&sort=new&t=all) Friday.",
+        "created_utc": 1730802610.0,
+        "subreddit_name": "stocks",
+        "comments": 186
+    },
+    {
+        "title": "Covered calls 0DTE Rollover",
+        "score": 4,
+        "url": "https://www.reddit.com/r/investing/comments/1gkhe95/covered_calls_0dte_rollover/",
+        "content": "I’ve been selling a CC SPY 0DTE OTM for about $1 per contract and then if SPY increases, rolling over to the next day for a $100 credit. For example:\n \n1. bought CC for $1 \n2. If SPY decreases, no action. Let expire. +$100\n3. If SPY increases CC, goes to $1.5 (possibly ITM). Don’t want my shares called away. \n4. Rollover to next day OTM CC, $2.5. Place limit order for $100 credit. \n5. Repeat.\n\nAlmost seems too easy to make $100/day.\n\nIs there anything I should be concerned about doing this or am missing in my analysis? \n\nIs there a way to make more profit?",
+        "created_utc": 1730840921.0,
+        "subreddit_name": "investing",
+        "comments": 4
+    },
+    {
+        "title": "VTI/VXUS/BND vs. SCHG/SCHD/IAU vs. SPY+Covered Calls",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1gjw1g0/vtivxusbnd_vs_schgschdiau_vs_spycovered_calls/",
+        "content": "Considering best approach for long-term investment (~15-20 years) to build taxable investment holdings for use before retirement / support early semi-retirement \n\nTraditional 3 fund VTI/VXUS/BND, but already have this in my retirement setup\n\nAlternative 3 fund SCHG/SCHD/IAU\n\nOr build SPY position and enhance return with covered call strategy \n\nWhat do you think?",
+        "created_utc": 1730772668.0,
+        "subreddit_name": "investing",
+        "comments": 7
+    },
+    {
+        "title": "sector rotation (objective)",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1gjzbz3/sector_rotation_objective/",
+        "content": "When trump was in office healthcare stocks were strong 140% better then biden at 16%. When biden was in office energy did better at 86% waay better then trump at -36%. All the support trump has for oil and the support biden has for health insurance has a totally inverse effect on prices. What are your thoughts on a harris administration? \n\nsources:\nequal weighted spy sector etfs 2017-2021 and 2021-2024.",
+        "created_utc": 1730783527.0,
+        "subreddit_name": "investing",
+        "comments": 10
+    },
+    {
+        "title": "Fisker EVs Hired an IT Spy Who Funneled Millions to N. Korea's Missile Program",
+        "score": 1785,
+        "url": "https://www.torquenews.com/1084/fisker-evs-hired-it-spy-who-funneled-millions-north-koreas-missile-program-case-fbi",
+        "content": "",
+        "created_utc": 1730841242.0,
+        "subreddit_name": "technology",
+        "comments": 22
     }
 ]

@@ -493,5 +493,59 @@
         "created_utc": 1731943367.0,
         "subreddit_name": "gadgets",
         "comments": 10
+    },
+    {
+        "title": "r/Stocks Daily Discussion Monday - Nov 18, 2024",
+        "score": 16,
+        "url": "https://www.reddit.com/r/stocks/comments/1gu1svl/rstocks_daily_discussion_monday_nov_18_2024/",
+        "content": "These daily discussions run from Monday to Friday including during our themed posts.\n\nSome helpful links:\n\n* [Finviz](https://finviz.com/quote.ashx?t=spy) for charts, fundamentals, and aggregated news on individual stocks\n* [Bloomberg market news](https://www.bloomberg.com/markets)\n* StreetInsider news:\n  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips\n  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news\n\nIf you have a basic question, for example \"what is EPS,\" then google \"investopedia EPS\" and click the investopedia article on it; do this for everything until you have a more in depth question or just want to share what you learned.\n\nPlease discuss your portfolios in the [Rate My Portfolio sticky.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%22Rate+My+Portfolio%22&restrict_sr=on&sort=new&t=all).\n\nSee our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&restrict_sr=on&sort=new&t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&restrict_sr=on&include_over_18=on&sort=new&t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&restrict_sr=on&include_over_18=on&sort=new&t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&restrict_sr=on&include_over_18=on&sort=new&t=all) Friday.",
+        "created_utc": 1731925810.0,
+        "subreddit_name": "stocks",
+        "comments": 207
+    },
+    {
+        "title": "Tax Loss Harvesting",
+        "score": 11,
+        "url": "https://www.reddit.com/r/stocks/comments/1gu75r0/tax_loss_harvesting/",
+        "content": "Question regarding hedging with tax loss harvesting. What are the pros and cons of this strategy? What am I missing? \n\nSay I buy $50,000 worth of VOOG today. \n\nIf it drops 6% and I sell, causing a $3k loss, I get to write that off on my taxes. Then, I would immediately purchase $47,000 in QQQ to avoid wash. 6% is mild correction territory, not a huge collapse, so I’d expect it to go back up soon after purchasing the QQQ and then I’m back to where I started plus $3k in negative capital gains to help my tax situation. \n\nIf VOOG goes up, then I happily hold onto the shares and let them rise. ",
+        "created_utc": 1731943362.0,
+        "subreddit_name": "stocks",
+        "comments": 20
+    },
+    {
+        "title": "YOLO 0DTE until I’m retired.",
+        "score": 123,
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1guj31g/yolo_0dte_until_im_retired/",
+        "content": "[Day trading SPY 0DTE is nerve wracking](https://imgur.com/a/lt6uFvz)\n\nI’m the same dude that turned $348 into $8,705 throughout the week after the election. See you regards at $1m.",
+        "created_utc": 1731972972.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 111
+    },
+    {
+        "title": "SPY CALLS",
+        "score": 36,
+        "url": "https://i.redd.it/02t702uxuo1e1.jpeg",
+        "content": "So far so good 💪🏼",
+        "created_utc": 1731948117.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 14
+    },
+    {
+        "title": "Basic investing using webull ",
+        "score": 3,
+        "url": "https://www.reddit.com/r/investing/comments/1gu8op7/basic_investing_using_webull/",
+        "content": "Hello! I’m 28 and just starting investing admittedly I should’ve have  5-6 years ago. \n\nI’m 100% debt free and live in Latin America as an American. I make around $6,000/month and live off of 2500 or so. \n\nMy goal is to put $40,000 or so (roughly 40% of my net worth) into the sp500 and then monthly recurring payments of 750 and just keep this up for a long time! 15+ years. \n\nI tried signing up for vanguard and supposedly because I’m abroad I need to print a void check and mail it to them and do that anytime I want to put $ in? Which seems really over the top and impossible to put in monthly payments as I’d  need  to travel to the USA to do this.\n\nWebull allows me to invest,so far I’ve just put $1,000 into the SPY sp500 ETF. \n\nAccording to friends and ChatGPT there’s not a whole lot of difference between investing in the sp500 using vanguard and investing in it via ETFs using the webull app. \n\nIs this accurate? \n\nThanks! ",
+        "created_utc": 1731947218.0,
+        "subreddit_name": "investing",
+        "comments": 2
+    },
+    {
+        "title": "Approaching my $100k milestone.",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1guaot9/approaching_my_100k_milestone/",
+        "content": "23 y.o male making about $115k a year. I’ve been investing pretty aggressively, allocating about $2,700 into investments/savings a month. I’m lucky to still be living with my parent and don’t have any car payments yet. I should be on track to hit $100k networth within the next two months (currently @ $96k now) and I’m wondering if I should then start to introduce new things into my portfolio. Currently, my portfolio consists of:\nVOO\nQQQ\nVTSAX\n401k\nLife insurance\nHYSA\nIndividual Stocks (blue chips)\n\nAny recommendations would be appreciated, I’m learning as I go. Sooner than later I will be having to purchase a car, until then, I want to invest as aggressively as possible. Thanks in advance!\n\n",
+        "created_utc": 1731952061.0,
+        "subreddit_name": "investing",
+        "comments": 41
     }
 ]

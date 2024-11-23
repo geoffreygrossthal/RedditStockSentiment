@@ -322,5 +322,23 @@
         "created_utc": 1731219219.0,
         "subreddit_name": "mac",
         "comments": 17
+    },
+    {
+        "title": "Nasdaq 100 Financials (IXF) - can't find any ETF which is based on this. Anyone know why not??",
+        "score": 2,
+        "url": "https://www.reddit.com/r/investing/comments/1gobpm8/nasdaq_100_financials_ixf_cant_find_any_etf_which/",
+        "content": "I couldn't find any ETF that tracks the Nasdaq 100 Financial index (IXF).\n\nWhy is this?\n\nQQQ is replicating the index and let's you invest in it. There is no equivalent to IXF index.\n\nI cant figure out why. when the Nasdaq indices were created in the 80s they just created a financial and non-financial index, and yet nowadays it's like IXF is invisible to funds.",
+        "created_utc": 1731274805.0,
+        "subreddit_name": "investing",
+        "comments": 2
+    },
+    {
+        "title": "Excel Sheet for Tax Calculation",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1go74nu/excel_sheet_for_tax_calculation/",
+        "content": "Hi,\n\nI need an Excel sheet that can calculate taxes related to ETF / Stock investments.\n\nThere should be a page for buying activity and another for selling activity. The tax calculation should use the First In First Out (FIFO) principle. For example, if I've bought 10 ETFs (like QQQ) on the first day of the month,  bought 3 more 5 days later, sold 7 ETFs 10 days later and sold 5 more 4 days later, my gains should be calculated by considering these dates (the profit/loss from the second sale of 5 ETFs should be calculated by substrcting the first 3 from the first buying price, but the remaining 2 from the second buying price). Also, my local government requires everything to be calculated in our local currency, so the buying and selling prices should first be converted to their value in local currency at the dates when the buying and selling activities have been performed).\n\nHow much of this activity can be performed on Excel and can it be automated to check for currency rates at the specific dates?\n\n  \nThanks...",
+        "created_utc": 1731263007.0,
+        "subreddit_name": "investing",
+        "comments": 4
     }
 ]
