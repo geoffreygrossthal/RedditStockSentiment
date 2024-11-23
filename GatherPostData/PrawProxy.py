@@ -149,13 +149,14 @@ def post_saved(reddit_post, stock_ticker):
 
 # Subreddit names (finance + stock-related + popular news + tech)
 subreddit_names = [
-    "AAPL"
+    "aapl", "stocks", "wallstreetbets", "apple", "Daytrading",
+    "worldnews", "news", "technology"
 ]
-# subreddit_names = [
-#     "stocks", "wallstreetbets", "apple", "Daytrading"
-#     "worldnews", "news", "technology"
-# ]
 
+# Time filters (all, year, month, week, day)
+time_filters = ['all', 'year', 'month', 'week', 'day']
 
+# Loop through subreddits and time filters
 for subreddit_name in subreddit_names:
-    get_posts(subreddit_name=subreddit_name, time_filter='all', limit=3000)
+    for time_filter in time_filters:
+        get_posts(subreddit_name=subreddit_name, time_filter=time_filter, limit=3000)

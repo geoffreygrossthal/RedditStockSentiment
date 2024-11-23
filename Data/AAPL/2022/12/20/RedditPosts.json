@@ -7,5 +7,14 @@
         "created_utc": 1671539442.0,
         "subreddit_name": "apple",
         "comments": 862
+    },
+    {
+        "title": "I Need Help! Robinhood says I need to deposit $4.4MILLION",
+        "score": 33404,
+        "url": "https://i.redd.it/9wr8pwckz07a1.jpg",
+        "content": "Okay, this all started when I was going to trade credit spreads on the $SPY last week. \n\nI started off with 32k. I was selling puts on DWAC for a couple weeks and that was gaining me about $500-$1000/wk. i then started selling puts on the SPY and realized I could do an iron condor and sell credit spreads on calls as well. I sold spreads $1 apart in strike and put up $100 in collateral for each iron condor chain. \n\nOn Tuesday I had an iron condor which closed OTM on both sides but robinhood still closed my position for a loss of 9k before expiration (when I was due to collect all premium). I let this go, because I realized it was an oversight on my part to not realize robinhood would close them out. \n\nWednesday, I made back 25k\n\nThursday, the s and p dropped and my spreads became deep ITM. At this point I was only selling put credit spreads, no longer doing iron condors. By end of day Thursday, my account dropped below 25k. I deposited an additional 10k\n\nOn Friday, I received a notification that because my account dropped below 25k Thursday, that my instant deposit limit was reduced from 25k to 10k.I started rolling my spreads from 12/16 to 12/23 for either a 0.0 credit or 0.2 debit. Mid way through this, they put a restriction on my account and did not let me trade until I closed out my 12/16 and accepted the loss of collateral, rather than roll the positions. I spent hours on chat support.\n\nI sold my position. And cleared up the call.\n\nToday, after market I received this email stating I need to deposit $4.4MILLION or close all my positions by 12/20 eod. When my deposit from last week, clears on their end 12/21. My app says I only am in a deficit of $776. I don’t know how I’m in a deficit at all. All my positions are covered and nothing has been exercised.\n\nI will any more information requested.",
+        "created_utc": 1671512069.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 4655
     }
 ]

@@ -61,5 +61,14 @@
         "created_utc": 1701873081.0,
         "subreddit_name": "AAPL",
         "comments": 3
+    },
+    {
+        "title": "XXXX is now available (4x leverage SP500)",
+        "score": 253,
+        "url": "https://www.reddit.com/r/stocks/comments/18c8ia7/xxxx_is_now_available_4x_leverage_sp500/",
+        "content": "So there is now a 4x leverage SP500 with ticker \"XXXX\"[https://www.maxetns.com/product/XXXX.P/](https://www.maxetns.com/product/XXXX.P/)\n\nI'm trying to understand what the downside is. Leverage makes sense mathematically in the below scenario\n\n**Person A with $100k portfolio in SPY/SPX**\n\nIf SPY/SPX falls -10%, they will lose $10k but with no cash to buy the dip remaining\n\n**Person B with $25k portfolio in XXXX and $75k cash**\n\nIf XXXX falls -40% (SPY falls -10%), they will also lose $10k but now has $75k still to buy the dip (in regular SPY/SPX or anything else)\n\nThis works especially well in IRA where cash and capital is limited. The only downside I see is the 0.95% fee and leveraged ETF decay which might not make it exactly 1:4 ratio? Anything else?\n\n***** EDIT *****\n\nThanks for the comments everyone but some of you may have read my post wrong.\n\nI just want to clarify, I am comparing a portfolio with 25% in XXXX vs a portfolio with 100% in SPY/SPX… since it’s 4x leveraged, the daily gains and loss should be the similar for both portfolios. But with 25% in XXXX, this means I will still have 75% cash left to buy dips, even if XXXX goes to 0. Compared to 100% in SPY/SPX, there would be no cash left even if market drops\n\nBut yes i agree with everyone, it would be a disaster if 100% of portfolio was in XXXX. Though that is not what my post is asking about",
+        "created_utc": 1701882109.0,
+        "subreddit_name": "stocks",
+        "comments": 168
     }
 ]
