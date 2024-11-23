@@ -1,0 +1,20 @@
+[
+    {
+        "title": "We made an automatic stock screener and portfolio tracker to help making decisions",
+        "score": 1509,
+        "url": "https://www.reddit.com/r/stocks/comments/ifh97i/we_made_an_automatic_stock_screener_and_portfolio/",
+        "content": "Hey everyone, my friend and I are very into stocks. We have created spreadsheets to screen stocks and track our portfolios. We spent weekends working on automating them and making them usable for everyone here (inspired by u/mau2509’s awesome spreadsheet - thanks for sharing here!).\n\nHere is the [spreadsheet](https://docs.google.com/spreadsheets/d/1AIC22xJtitg8leYTOsIYUBXgzIBAm6gAi8EccViEGrY/edit#gid=0)\n\nYou can go to *“File” > “Make a copy”* to save it. *Gray cells are the ones that take user input*, all other ones are automatically filled out.\n\nThere are 3 tables in the spreadsheet (all in “Main” sheet):\n\n1. **“Purchased”**: enter the stock tickers you own with the number of shares. This helps you look at the total value of your position in a stock, total portfolio value and how much % is in each stock.\n2. **“Investment Tracker”**: enter your desired % allocation for each category (US stocks, International Stocks, Bonds) if you don’t like the default values. We find this useful to take into consideration how diversified our portfolio is before making buy/sell decisions, so that our portfolio is more robust to downturns specific to a certain category.\n3. **“Decision Making”**: enter any stock ticker you’re screening to buy/sell. It will automatically fill out several metrics: current price; category and sector; total return over 1, 3, 5, 10 years; recommendation; 30-day trend; current, average and maximum P/E ratio (w/ % of how far the current value is from the average and from max); VWAP; RSI; current and forecasted EPS.\n\nWe added comments to explain most metrics and color-coded based on our subjective opinions on what numbers are good/bad for buying decisions (green for good, red for bad, yellow for neutral). You can also use this sheet for selling decisions with different conditions.\n\nThe “**Decision Making**” table can be used independently of the other ones for stock screening.\n\nWe hope this is helpful!\n\n&#x200B;\n\nEDIT 1: So glad people are finding this helpful. Let us know if you have any questions or feedback!\n\nEDIT 2: some people don't see the option \"File > Make a copy.\" On desktop, it might be the case that your URL has a \"htmlview\" part, then you need to remove this whole part from your URL: \"/htmlview?pru=AAABdEXlNIo\\*a9I\\_UER\\_uzpprj34gFQuNw\"",
+        "created_utc": 1598238766.0,
+        "subreddit_name": "stocks",
+        "comments": 170
+    },
+    {
+        "title": "Judge in Epic vs Apple case says she is “inclined” to NOT grant relief for the Fornite removal (as in, to not force Apple to put it back on the App Store,) but IS “inclined” to not let Apple block Epic from developing/distributing Unreal Engine. Inclined is not a decision.",
+        "score": 4110,
+        "url": "https://twitter.com/markgurman/status/1298020762536669184?s=21",
+        "content": "",
+        "created_utc": 1598307349.0,
+        "subreddit_name": "apple",
+        "comments": 719
+    }
+]

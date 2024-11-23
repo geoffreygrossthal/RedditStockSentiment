@@ -43,5 +43,104 @@
         "created_utc": 1730597824.0,
         "subreddit_name": "news",
         "comments": 135
+    },
+    {
+        "title": "Apple reportedly releasing ‘total redesign’ for MacBook Pro in 2026",
+        "score": 2975,
+        "url": "https://9to5mac.com/2024/11/03/apple-macbook-pro-redesign-2026/",
+        "content": "",
+        "created_utc": 1730640892.0,
+        "subreddit_name": "apple",
+        "comments": 887
+    },
+    {
+        "title": "Gurman: iOS 18.2 releasing slightly earlier than usual",
+        "score": 698,
+        "url": "https://9to5mac.com/2024/11/03/gurman-ios-18-2-with-releasing-slightly-earlier-than-usual/",
+        "content": "",
+        "created_utc": 1730640813.0,
+        "subreddit_name": "apple",
+        "comments": 192
+    },
+    {
+        "title": "Kuo: Cheaper ‘Apple Vision’ headset delayed beyond 2027",
+        "score": 522,
+        "url": "https://9to5mac.com/2024/11/03/cheaper-apple-vision-delayed/",
+        "content": "",
+        "created_utc": 1730639583.0,
+        "subreddit_name": "apple",
+        "comments": 157
+    },
+    {
+        "title": "What to Expect From Apple's M4 Ultra Chip Next Year",
+        "score": 461,
+        "url": "https://www.macrumors.com/2024/11/03/what-to-expect-from-m4-ultra-chip/",
+        "content": "",
+        "created_utc": 1730664306.0,
+        "subreddit_name": "apple",
+        "comments": 140
+    },
+    {
+        "title": "I created a personal finance app that lets you track your savings, debts, and expenses privately with iCloud",
+        "score": 239,
+        "url": "https://www.reddit.com/r/apple/comments/1gimkml/i_created_a_personal_finance_app_that_lets_you/",
+        "content": "[Image](https://imgur.com/a/jlsaeX7?s=sms)\n\n**Screenshots & UI:** [View Gallery](https://www.reddit.com/r/iOSProgramming/s/JfJjruelgR)\n\n**App Store Link:** [DownPay for iOS](https://apps.apple.com/app/apple-store/id6474574024?pt=126403444&ct=rapplepost&mt=8)\n\nHi r/apple!\n\nMy first app is a debt and savings tracker that lets you log your debts and savings goals. The UI becomes a dashboard to monitor those debts and savings, with many charts, projections, and calculators integrated into the debts. \n\nAll entered data is saved *only* on the device and in iCloud and is *100% private*. It doesn’t have logins or synchronization with bank accounts, it works offline and doesn’t have a signup to use. \n\n*Current Features:*\n\n**Debt Manager:**\n\n   - Log 14 types of debt in one place, including credit cards, student loans, auto loans, mortgages, and more.\n   - Easily add and log debt activity, view detailed progress reports, and plan repayment with a user-friendly interface.\n   - See detailed Amortization, Debt Payoff dates, and interest estimations for most debts\n   - Asset metadata for Debts: log mortgages to Houses, Cars to loans, student loans to degrees, etc\n\n**Savings Manager:**\n\n   - Log savings goals for downpayments, emergency funds, weddings, home renovations, cars, and much more.\n   - Each savings can have multiple sources of funds to log across more than one place (such as savings account, gifts from family or brokerage + savings + physical cash, etc) \n   - Some savings types allow “downpayment” logic. For example, when you save for a car/house, you can save 10,20,50,100% of the total purchase price. \n\n**No Data Tracking:**\n\n   - DownPay collects no data whatsoever from users, no 3rd party ads, no analytics, etc\n\n**No Subscription:**\n\n   - Free, or One-time Lifetime unlock for unlimited\n\n*Free Version:*\n\n- Log 3 Debts\n- Log 2 Savings Goals\n\nIn-App Purchases: DownPay Pro\n\n- One-time $15\n- Monthly $0.99\n\n\n**New features built recently:**\n\n- [Detailed Amortization tables & charts](https://www.reddit.com/r/iosapps/s/u58Mvf0LTc)\n- [Paycheck Allocator for debts & expenses](https://www.reddit.com/r/SwiftUI/s/1SoSvCPdmP)\n- [Vehicle Search - USA & International](https://www.reddit.com/r/DownPayApp/s/xUlcbtjcej)\n- Hide balances & [*over 20+ currencies*](https://www.reddit.com/r/SwiftUI/s/8JcJBSPpJE)\n- In-app requests for new features, currencies, icons, and more\n\n**What I'm building now:**\n\n- Detailed timeline charts\n- Enhanced breakdowns\n- Expenses & Budgeting\n- and more, [view my Roadmap](https://lifeutilityapps.com/downpay/roadmap?isNativeEmbed=true)\n\nIf you have any feedback, suggestions, or questions, please comment below 😃 I love implementing suggestions from other Redditors, you all give great feedback! If you enjoy my app please drop an App Store rating, it helps a lot ❤️\n\nThanks so much!\n\nGet for free on the App Store: [https://apps.apple.com/app/apple-store/id6474574024](https://apps.apple.com/app/apple-store/id6474574024?pt=126403444&ct=rapplepost&mt=8)",
+        "created_utc": 1730639677.0,
+        "subreddit_name": "apple",
+        "comments": 106
+    },
+    {
+        "title": "Apple will soon be selling a top head strap for Apple Vision Pro's Solo Knit band",
+        "score": 238,
+        "url": "https://9to5mac.com/2024/11/02/apple-vision-pro-top-head-strap/",
+        "content": "",
+        "created_utc": 1730603326.0,
+        "subreddit_name": "apple",
+        "comments": 16
+    },
+    {
+        "title": "LogIT – The Fishing Journal  \nThe iOS app for anglers, by anglers. Get the Lifetime Pro version for free in the next 72 hours, no subscription required!\n",
+        "score": 38,
+        "url": "https://www.reddit.com/r/apple/comments/1gisfr4/logit_the_fishing_journal_the_ios_app_for_anglers/",
+        "content": "Hello r/apple!\n\nToday, we, Maik and Daniel, would like to introduce our self-developed app [LogIT](https://apps.apple.com/de/app/logit-the-fishing-journal/id6667102943?l=en-GB). Like many anglers, we also record our fishing days and catches to look back later and learn from them. A handwritten catch diary has always been a hassle, and the existing apps didn't really convince us. So, we decided to develop our own solution in our free time. After about 7 months of hard work, the first version of LogIT is finally available for iPhones and iPads.\n\n\n\nWhat makes LogIT special?\n\n \\- 📒 Organized diary view instead of chaotic catch lists  \n\n\\- 📊 Visual statistics – Insightful analysis of your catches  \n\n\\- 🖱️ Easy to use and intuitive design  \n\n\\- 🌦️ Automatic logging of weather data  \n\n\\- ☁️ Data backup – iCloud backup and synchronization  \n\n\\- 🚫 No registration required – Start right away, without tedious sign-up processes \n\n\\- ❌ No mandatory subscription  \n\n\\- 🛑 Ad-free – No annoying banners or pop-ups  \n\n\\- 🎨 Customizable color scheme  \n\n\\- 🌙 Dark mode – For comfortable use even at night  \n\n\\- 🐟 Quick recording of bycatches in seconds  \n\n\\- 🔒 No unnecessary data collection – We respect our users' privacy  \n\n\n\n The best part: The lifetime Pro version of LogIT is completely free for 72 hours! We hope the app will become a helpful companion for many anglers. If you are not into fishing but you may know someone who would benefit from a free logbook feel free to share. Numerous updates and new features are already in the pipeline, and we're excited to hear your feedback!\n\n Try out LogIT and let us know what you think. A positive review in the App Store would be a huge motivation boost and the cherry on top! Feel free to share the app with your friends. Thanks in advance.\n\n Tight lines and best wishes, Maik and Daniel 🎣  \n\n P.S. There’s a small bug: On iOS 17, the “Dive in” button doesn’t work sometimes when the app is first launched. However, closing and reopening the app should fix this. There are no issues on iOS 18. A new update is already published and will soon be online.\n\nApp Store link: [https://apps.apple.com/de/app/logit-the-fishing-journal/id6667102943?l=en-GB](https://apps.apple.com/de/app/logit-the-fishing-journal/id6667102943?l=en-GB)",
+        "created_utc": 1730655554.0,
+        "subreddit_name": "apple",
+        "comments": 9
+    },
+    {
+        "title": "Daily Advice Thread - November 03, 2024",
+        "score": 2,
+        "url": "https://www.reddit.com/r/apple/comments/1gikcs3/daily_advice_thread_november_03_2024/",
+        "content": "Welcome to the Daily Advice Thread for /r/Apple. This thread can be used to ask for technical advice regarding Apple software and hardware, to ask questions regarding the buying or selling of Apple products or to post other short questions.\n\nHave a question you need answered? Ask away! Please remember to adhere to our rules, which can be found in the sidebar.\n\nJoin our Discord and IRC chat rooms for support:\n\n* [Discord](https://discord.gg/apple)\n* [IRC](https://kiwiirc.com/client/irc.snoonet.org/apple?nick=CHANGE_ME)\n\nNote: Comments are sorted by /new for your convenience.\n\n[Here is an archive](https://www.reddit.com/r/apple/search?q=author%3A%22AutoModerator%22+title%3A%22Daily+Advice+Thread%22+or+title%3A%22Daily+Tech+Support+Thread%22&sort=new&t=all) of all previous Daily Advice Threads. This is best viewed on a browser. If on mobile, type in the search bar \\[author:\"AutoModerator\" title:\"Daily Advice Thread\" or title:\"Daily Tech Support Thread\"\\] (without the brackets, and including the quotation marks around the titles and author.)\n\n**The Daily Advice Thread is posted each day at 06:00 AM EST (**[Click HERE for other timezones](https://www.wolframalpha.com/input/?i=6+AM+USA+EST)**) and then the old one is archived.** It is advised to wait for the new thread to post your question if this time is nearing for quickest answer time.",
+        "created_utc": 1730631629.0,
+        "subreddit_name": "apple",
+        "comments": 32
+    },
+    {
+        "title": "MacBook Mini and MacBook Pro M4 - Why upgrading might save you money /w Joswiak and Ternus",
+        "score": 0,
+        "url": "https://youtu.be/TfXP8b0tuZk",
+        "content": "",
+        "created_utc": 1730616087.0,
+        "subreddit_name": "apple",
+        "comments": 11
+    },
+    {
+        "title": "Apple Finally Finds Its Gaming Console With the New Mac Mini",
+        "score": 0,
+        "url": "https://www.bloomberg.com/news/newsletters/2024-11-03/apple-finally-finds-its-game-console-rival-with-the-new-m4-and-m4-pro-mac-minis-m31na57p",
+        "content": "",
+        "created_utc": 1730641592.0,
+        "subreddit_name": "apple",
+        "comments": 82
+    },
+    {
+        "title": "I Created an App to Help Effortlessly Extend Your MacBook's Battery Life by 10-15%",
+        "score": 0,
+        "url": "https://www.reddit.com/r/apple/comments/1ginx2u/i_created_an_app_to_help_effortlessly_extend_your/",
+        "content": "Hello!\n\nI'd like to introduce my first Mac app - **Dreamless**.\n\nThe concept is simple: it automatically turns off Wi-Fi/Bluetooth when your Mac goes to sleep and turns them back on when it wakes up.\n\nYou may wonder why such an app is needed. The answer is simple: it saves your MacBook's battery life, helping keep it in good condition for as long as possible. It also prevents unwanted connections/processes from running without your knowledge when your Mac is asleep.\n\n**Features:**\n\n\\- Ability to toggle Wi-Fi and Bluetooth separately.\n\n\\- All controls are in the menu bar - just two buttons!\n\n\\- Uses minimal resources on your Mac. Overall, the use of system resources is close to zero.\n\n\\- Option to add to auto-start.\n\nWorks on Apple Silicon and Intel. Requires macOS 13+.\n\n**Downsides:**\n\n\\- Despite my efforts to streamline this, due to macOS security, you’ll need to enter your admin password a few times during installation. This isn't to grant access to critical system services but simply to create folders, copy a few essential files, and run the program in the background for proper functionality.\n\n\\- Disabling Wi-Fi may affect the Find My feature.\n\nI use Dreamless daily, both with an external monitor and without any peripherals. With an external monitor, if I wake up my Mac by any means (I use a USB mouse), Bluetooth devices like the keyboard and trackpad connect in a few seconds. Without peripherals, it runs flawlessly.\n\nIn the end, I’ve created a handy utility I've been using for over a year.\n\nFor your safety, the app is signed and notarized, meaning it’s been verified by Apple for malware.\n\nTo celebrate the launch, I’m offering a **75% discount** with the promo code **APPLE**, bringing the price down to just $1. The promo code will be valid for a month, until December 3rd. All future updates will be free.\n\nCheck out the app here: [https://dreamless.app](https://dreamless.app). \n\nI’d love to hear your feedback.\n\nThanks for your attention, and have a great day.",
+        "created_utc": 1730643669.0,
+        "subreddit_name": "apple",
+        "comments": 15
     }
 ]

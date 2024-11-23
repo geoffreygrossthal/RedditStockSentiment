@@ -1,0 +1,11 @@
+[
+    {
+        "title": "When macOS Mojave comes out, do us a favor: use Safari.",
+        "score": 4665,
+        "url": "https://www.reddit.com/r/apple/comments/8pkyii/when_macos_mojave_comes_out_do_us_a_favor_use/",
+        "content": "As many of you may have heard, [Apple is making a big push to making Safari a more powerful privacy tool](https://www.fastcompany.com/40581691/all-the-people-apple-just-pissed-off-to-better-protect-your-privacy) by anonymizing your data as much as possible. Basically, they're restricting what information about your machine companies can see by only allowing Safari to show them the most bare-bones basic info about your Mac. It's like the difference between a report describing \"a dark, glossy blue Ford Fusion with tinted windows and numberplate *555-LOL*,\" and \"a dark Ford sedan.\" It won't stop companies from tracking you, or trying to at least, but it will make it harder to personally identify you in particular.\n\nI watched the WWDC keynote, but it didn't really click until today that Mojave's Safari is [basically implementing something similar to TOR-style anonymizing](https://www.torproject.org/about/overview), minus the triple-encrypted routing to a separate node. The biggest thing about TOR's effectiveness (and the reason it was made public): [the more people that use it, the more that everyone using it blends in](https://youtu.be/mUP0tx7Ib2w?t=2m18s). Same case with Safari's ad-fingerprint disabling, the more people who use it, the more everyone using it blends in, because the more the people using it, the more they look like everyone else using it.\n\nSo Mac users, please do us a favour, when Mojave is released, switch to Safari if you haven't already. For your sake and that of everyone else using it.\n\nTL;DR: Safari's ad-tracking disabling works better when more people use it, so if you're on macOS Majave, you can help make Safari's ad-tracking disabling more effective just by using Safari.\n\n_____\n\nHoly hell this blew up. I did not expect to get this much attention. Glad to help!\n\n_____\n\nThis post is on the Front Page. Welp, I could retire from reddit happy now.\n\nAlso, RIP my inbox.",
+        "created_utc": 1528472791.0,
+        "subreddit_name": "apple",
+        "comments": 856
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Dear Apple: Please ban \"generic\" release notes for apps.",
+        "score": 4021,
+        "url": "https://www.reddit.com/r/apple/comments/50i7x4/dear_apple_please_ban_generic_release_notes_for/",
+        "content": "Seriously. I really feel like Facebook started the whole trend of \"We update our app regularly\" boilerplate text that appears in place of proper release notes every time a new version is released, but it's spreading like wildfire and more and more developers have adopted this stupid, extremely lazy practice. Expedia seems to be the latest convert:\n\n> With your travel needs in mind, we're regularly updating our app to make it even better than the award-winning app you're used to! Make sure to download the latest version to take advantage of it all. \n\n***THESE ARE NOT RELEASE NOTES. THIS IS IN NO WAY HELPFUL OR USEFUL INFORMATION DESCRIBING THE UPDATES/FIXES IN A NEW SOFTWARE VERSION.***\n\nI understand that policing content like this would be pretty difficult, but before long I can see every single app in the app store just copying and pasting the same text for every version increment, making the release notes completely useless. This really needs to be nipped in the bud ASAP. ",
+        "created_utc": 1472662649.0,
+        "subreddit_name": "apple",
+        "comments": 655
+    }
+]

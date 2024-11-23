@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Got tired of taking low-res screenshots of my 4k videos for sharing. So I made an app to extract full-resolution frames from videos and Live Photos. Simple, free and open source.",
+        "score": 4057,
+        "url": "https://www.reddit.com/r/apple/comments/fbcfxj/got_tired_of_taking_lowres_screenshots_of_my_4k/",
+        "content": "I shoot many videos and often want to save a cool moment as a photo to my photo library. Or share with friends or post on Instagram. I used to take screenshots but was never happy with them since they are low resolution and don't carry any metadata.\n\n[Basically, I was tired of this](https://i.imgur.com/H1ZbCqR.jpg). So I made [Frame Grabber (App Store Link)](https://apps.apple.com/app/frame-grabber/id1434703541) to extract full-resolution frames from videos and Live Photos. It does its job quickly and is dead-simple to use.\n\nThe app is completely free and you don't need to unlock anything. Privacy is important to me so no ads either, no analytics, just app.\n\nIf you're interested in the source code, [check it out here](https://github.com/arthurhammer/FrameGrabber). It's my first app and I learned a ton making it! I open-sourced it so other beginners can hopefully learn something from it.\n\nAny feedback about app or code is highly appreciated! :)\n\nLinks:\n\n**App Store**: [https://apps.apple.com/app/frame-grabber/id1434703541](https://apps.apple.com/app/frame-grabber/id1434703541)\n\n**Source Code**: [https://github.com/arthurhammer/FrameGrabber](https://github.com/arthurhammer/FrameGrabber)",
+        "created_utc": 1582982615.0,
+        "subreddit_name": "apple",
+        "comments": 224
+    }
+]

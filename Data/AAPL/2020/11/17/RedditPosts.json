@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Blizzard has announced native Apple Silicon support to World of Warcraft on day 1",
+        "score": 6031,
+        "url": "https://us.forums.blizzard.com/en/wow/t/mac-support-update-november-16/722775",
+        "content": "",
+        "created_utc": 1605589813.0,
+        "subreddit_name": "apple",
+        "comments": 661
+    },
+    {
+        "title": "M1 MacBook Pro and Air review: Apple delivers",
+        "score": 4419,
+        "url": "https://www.youtube.com/watch?time_continue=3&v=OEaKQ0pxQsg&feature=emb_title",
+        "content": "",
+        "created_utc": 1605621713.0,
+        "subreddit_name": "apple",
+        "comments": 1211
+    },
+    {
+        "title": "Hey, Apollo for Reddit app guy here back with the results of the iPhone 12 Pro/Max/Mini commenter giveaway that ended yesterday. Thanks to all that entered, that was a ton of comments! So without further ado, the winner is… 🥁🥁🥁",
+        "score": 4085,
+        "url": "https://www.reddit.com/r/apple/comments/jw40ai/hey_apollo_for_reddit_app_guy_here_back_with_the/",
+        "content": "Hey,\n\nSo [two days ago](https://www.reddit.com/r/apple/comments/juv6tu/im_giving_away_an_iphone_12_promaxmini_to_a/) now I started up the annual Apollo for Reddit iPhone giveaway. This year I was celebrating Apollo's massive iOS 14 update with a bunch of home screen widgets, PiP video, and more. If you didn't catch that thread, tl;dr you had 24 hours to leave a comment on the thread and I'd choose a random commenter to win an iPhone. That concluded last night, and spanned across 3 threads due to a limit of 100K comments per thread, and I spent today writing up a script (which turned into a tiny iPhone app) because picking a random comment from a quarter million comments is actually a somewhat difficult programming challenge.\n\n### And the winner is… 🥁🥁🥁\n\nu/amazing_sheep with [this comment](https://www.reddit.com/r/apple/comments/juv6tu/im_giving_away_an_iphone_12_promaxmini_to_a/gcg2jhq/?context=3)! It looks like it'll be their first iPhone or even first Apple product, which is pretty cool! I've PMed them on Reddit to work out getting the iPhone 12 to them, and they have 5 days to check at which point if they haven't responded I'll select a new winner. So a big congratulations to our sheep friend! 🐑\n\n### Fun Nerdy Shit\n\nSo as it turns out, choosing a random comment from a pool of approximately 250,000 isn't super easy. There's no Reddit API for \"choose a random comment\" (and even if there was there's three separate threads). The \"Contest Mode\" functionality is close, but again 3 threads, plus that didn't seem to really weigh replies to comments the same as top-level comments.\n\nThere's a cool [Python library](https://github.com/lilfruini/CommentGathering-MillionaireMakers) for picking a winner up on GitHub that I was alerted to (thanks to @Smith_Jansen on Twitter) and u/The_White_Light showed me a cool Python script using the [PushShift API](https://pushshift.io), and I used both of these as inspiration to create a little Swift script (I'm an iOS developer after all) using the PushShift API to collect all the comments and pick a random one.\n\nEven then I could only analyze 100 comments at a time, so it still took ages for the script to run, so I ended up building it into a cute lil iPhone app ([picture of it here](https://i.imgur.com/be0EyGO.jpg)) so I could monitor the script running as I walked around the house. The top bit shows the logs of the script running and the bottom outputs the winner. Here, [I even open-sourced it](https://github.com/christianselig/WinnyPicky) in case someone else is in a similar situation.\n\nSince there's always conspiracy theorists out there, I even recorded the iPhone running the script so I could show it choosing the winner rather than a random friend of mine or something. (The script takes over an hour to run each time) Here: https://i.imgur.com/Vr3J6F2.gifv\n\n##### Stats\n\n**Total time to run script**: 4,602 seconds (77 minutes)\n\n**Total comments in draw**: 223,691\n\n**Total people removed (duplicate entries)**: 6,507\n\n**Random number drawn**: 167,233\n\n**ID of winning comment**: gcg2jhq\n\n### Thanks!\n\nHope you enjoyed the giveaway, and I hope u/amazing_sheep enjoys the iPhone, I'll do my best to get them to post proof they receive it as well. \n\nAnd if you're looking for an awesome Reddit app for iPhone that all the cool people love, [don't forget Apollo](https://itunes.apple.com/app/id979274575). ;) [Narwhal](https://apps.apple.com/ca/app/narwhal-for-reddit/id845422455) is cool though too and has a slightly better iPad UI currently, but I'm working on Apollo's iPad update currently and I'll blow yas away! Lots of even more great stuff coming, stay tuned. :)\n\nStay safe out there, and happy iPhone/Apple Silicon/Xbox/PS5 season! See ya next year with the iPhone 12S? 13? XIII?\n\n\\- Christian",
+        "created_utc": 1605654934.0,
+        "subreddit_name": "apple",
+        "comments": 226
+    }
+]

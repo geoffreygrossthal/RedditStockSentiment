@@ -61,5 +61,59 @@
         "created_utc": 1730014749.0,
         "subreddit_name": "technology",
         "comments": 1241
+    },
+    {
+        "title": "Gurman: Apple smart home display will include iMac-like stand",
+        "score": 815,
+        "url": "https://9to5mac.com/2024/10/27/homepod-with-display-imac-stand-gurman/",
+        "content": "> “The screen is positioned at an angle on a small base, making it reminiscent of the circular bottom of the iMac G3 from a couple of decades ago.”",
+        "created_utc": 1730037392.0,
+        "subreddit_name": "apple",
+        "comments": 258
+    },
+    {
+        "title": "Apple Set to Give the Mac Its Long-Awaited M4 Chip Overhaul",
+        "score": 522,
+        "url": "https://www.bloomberg.com/news/newsletters/2024-10-27/apple-m4-macbook-pro-mac-mini-imac-launch-details-ios-18-2-chatgpt-testing-m2rl1vws",
+        "content": "",
+        "created_utc": 1730035035.0,
+        "subreddit_name": "apple",
+        "comments": 130
+    },
+    {
+        "title": "Narwhal 2 for Reddit now has settings sync and better GIF/video handling!",
+        "score": 334,
+        "url": "https://www.reddit.com/r/apple/comments/1gde7bl/narwhal_2_for_reddit_now_has_settings_sync_and/",
+        "content": "Hey all, I'm the dev of Narwhal 2 for Reddit. I've been continually trying to make my passion project better over time and I just released another large update. I still have so many things to work on, but your feedback is invaluable to me as I try to make the best possible app for Reddit. Thanks for all of your support!\n\n### New Features \n\n- GIFs/Videos in Big Preview Mode will only start playing when they are mostly on screen. No more scrolling and seeing GIFs that are already halfway done playing!\n- Settings (including themes!) are now synced to your iCloud account so that if you get a new device or have to re-install, everything will still be customized to your liking.\n- Adds setting to automatically unmute GIFs/videos in Big Preview mode as you scroll in Settings > Posts\n- Adds favorites button as an option for the action bar\n- Adds setting to control mute behavior on GIF posts\n- App icons will now respond correctly to dark mode. I also added a new orangered and new blue icon.\n- Adds setting to control the gesture for how comments are collapsed: single tap, double tap, two finger tap, or disabled altogether\n\n### Improved\n\n- When opening a GIF/Video from Big Preview Mode, the post will show the GIF/Video at the same place on the timeline. For those of you who may not like this behavior, there is now a setting to always start GIFs/Videos from the beginning in Settings > Posts\n- GIFs and videos that are unmuted in Big Preview mode will stay un-muted when you open the post\n\n### Fixed\n\n- Fixes issue where iOS dictation would insert a weird character that is displayed on reddit.com\n- Changed some icons for the action bar to ensure continuity in the visual style\n- Fixes issue where placeholders would be shown with thumbnails turned off\n\nIf anyone has any questions around Narwhal 2, iOS programming, what it's like to work on an app like this, etc., I am happy to answer!\n\nhttps://apps.apple.com/us/app/narwhal-2-for-reddit/id845422455\n\nhttps://narwhal.app",
+        "created_utc": 1730044755.0,
+        "subreddit_name": "apple",
+        "comments": 168
+    },
+    {
+        "title": "I built a task manager that finally separates \"Do\" & \"Due\" dates",
+        "score": 20,
+        "url": "https://www.reddit.com/r/apple/comments/1gdax6g/i_built_a_task_manager_that_finally_separates_do/",
+        "content": "Hi, r/apple \n\nI’m excited to announce a major update for Zesfy, a productivity that app I’ve been developing over the past few years. This app is designed to seamlessly integrate your tasks with your calendar, allowing you to transform your to-do lists into actionable events in just seconds. Here are some of its key features:\n\n* **Task Progress:** Automatically update your progress based on subtasks completed\n* **Step:** Create step-by-step breakdown of the subtask\n* **Target:** Organize tasks with due date\n* **Session:** Insert multiple tasks to calendar event\n* **Space:** Filter event from specific sets of calendars\n\nThis update introduces new features that often missing from other productivity apps: the ability to set both “Do” and “Due” dates. With these features, you can effortlessly plan your tasks for the day while keeping track the upcoming due dates. What makes Zesfy unique is it separates tasks you’ve planned and those that are already scheduled in your calendar, giving you a more organized and flexible workflow. \n\nLet me know what your thought about these new features.\n\n**App Store:** [Zesfy - Planner & Calendar](https://apps.apple.com/us/app/zesfy-schedule-planner/id6479947874)\n\n**Subreddit:**  r/zesfy",
+        "created_utc": 1730035584.0,
+        "subreddit_name": "apple",
+        "comments": 59
+    },
+    {
+        "title": "🎾 Tennis Alley - Your Ultimate Companion for Tennis Progress!",
+        "score": 7,
+        "url": "https://www.reddit.com/r/apple/comments/1gd8ton/tennis_alley_your_ultimate_companion_for_tennis/",
+        "content": "Hey everyone! I’m excited to share [**Tennis Alley**](https://apps.apple.com/app/tennis-alley/id6636478563), an iOS app designed to help beginners, kids, and even parents keep the tennis momentum alive! 🏆 Whether you're just starting or looking to level up, Tennis Alley makes tracking progress fun, motivating, and easy.\n\n**📲 Key Features:**\n\n* **Create & Maintain Your Profile:** Log daily play sessions, frequency, and progress details.\n* **Streak Challenges:** Complete short-term streaks, set new milestones, and earn rewards for practices, rallies, serves, and more.\n* **Game Tracking:** Track game scores and analyze wins/losses.\n* **Play Calendar:** Stay on top of your play and rest days.\n* **iCloud Sync:** Keep your data secure and accessible across devices.\n\nThis app is designed to encourage regular play, which can be tough when motivation dips. I've built it keeping real experiences in mind (like encouraging my own kid to stick with tennis! 😊).\n\nIf you're interested, download it from the [App Store](https://apps.apple.com/app/tennis-alley/id6636478563). I’d love to hear your thoughts!  \nHappy swinging! 🥇",
+        "created_utc": 1730028336.0,
+        "subreddit_name": "apple",
+        "comments": 8
+    },
+    {
+        "title": "Daily Advice Thread - October 27, 2024",
+        "score": 5,
+        "url": "https://www.reddit.com/r/apple/comments/1gd7m5j/daily_advice_thread_october_27_2024/",
+        "content": "Welcome to the Daily Advice Thread for /r/Apple. This thread can be used to ask for technical advice regarding Apple software and hardware, to ask questions regarding the buying or selling of Apple products or to post other short questions.\n\nHave a question you need answered? Ask away! Please remember to adhere to our rules, which can be found in the sidebar.\n\nJoin our Discord and IRC chat rooms for support:\n\n* [Discord](https://discord.gg/apple)\n* [IRC](https://kiwiirc.com/client/irc.snoonet.org/apple?nick=CHANGE_ME)\n\nNote: Comments are sorted by /new for your convenience.\n\n[Here is an archive](https://www.reddit.com/r/apple/search?q=author%3A%22AutoModerator%22+title%3A%22Daily+Advice+Thread%22+or+title%3A%22Daily+Tech+Support+Thread%22&sort=new&t=all) of all previous Daily Advice Threads. This is best viewed on a browser. If on mobile, type in the search bar \\[author:\"AutoModerator\" title:\"Daily Advice Thread\" or title:\"Daily Tech Support Thread\"\\] (without the brackets, and including the quotation marks around the titles and author.)\n\n**The Daily Advice Thread is posted each day at 06:00 AM EST (**[Click HERE for other timezones](https://www.wolframalpha.com/input/?i=6+AM+USA+EST)**) and then the old one is archived.** It is advised to wait for the new thread to post your question if this time is nearing for quickest answer time.",
+        "created_utc": 1730023228.0,
+        "subreddit_name": "apple",
+        "comments": 27
     }
 ]

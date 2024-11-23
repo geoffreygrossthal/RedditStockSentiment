@@ -151,5 +151,50 @@
         "created_utc": 1732315221.0,
         "subreddit_name": "technology",
         "comments": 1
+    },
+    {
+        "title": "iPhone 17 and 'iPhone 17 Air' Expected to Lack 5x Optical Zoom Lens",
+        "score": 646,
+        "url": "https://www.macrumors.com/2024/11/22/iphone-17-and-17-air-said-to-lack-5x-optical-zoom/",
+        "content": "",
+        "created_utc": 1732311693.0,
+        "subreddit_name": "apple",
+        "comments": 176
+    },
+    {
+        "title": "Indonesia rejects Apple's $100 million bid to lift the iPhone 16 ban",
+        "score": 2746,
+        "url": "https://appleinsider.com/articles/24/11/22/indonesia-rejects-apples-100-million-bid-to-lift-the-iphone-16-ban",
+        "content": "",
+        "created_utc": 1732277602.0,
+        "subreddit_name": "apple",
+        "comments": 705
+    },
+    {
+        "title": "EU closes antitrust probe into Apple's e-book and audiobook rules after complaint withdrawn ",
+        "score": 349,
+        "url": "https://techcrunch.com/2024/11/22/eu-closes-antitrust-probe-into-apples-e-book-and-audiobook-rules-after-complaint-withdrawn/",
+        "content": "",
+        "created_utc": 1732295028.0,
+        "subreddit_name": "apple",
+        "comments": 31
+    },
+    {
+        "title": "Apple Intelligence On-device vs Cloud features",
+        "score": 97,
+        "url": "https://www.reddit.com/r/apple/comments/1gxhsx7/apple_intelligence_ondevice_vs_cloud_features/",
+        "content": "Edit: thank you EVERYONE who asked questions and helped out with testing some of these features, I'll make a post tomorrow clearly outlining what's on-device and what's online because we all deserve that level of privacy disclosure!\n\nSo I've been trying out Apple Intelligence on the stable build for macOS. For basic stuff it seems pretty nice, the notification summaries are cool etc.\n\nI would like to understand what features EXACTLY are on-device vs using private cloud compute. This is what I know so far through experimentation (by turning off internet):\n\n**Writing Tools:**\n\n* **On-device:** Proofread, rewrite, friendly, professional, concise\n* **PCC:** Summary, key points, list, table\n\n**Mail:**\n\n* **On-device:** Email preview summaries, Priority emails\n* **PCC:** Email summarization, smart reply\n\n**Messages:**\n\n* **On-device:** Message preview summaries, Smart reply\n\n**Siri:**\n\n* **On-device:** (I was able to ask about emails and calendar events)\n\n**Safari:**\n\n* **PCC:** Web page summaries\n\n**Notes:**\n\n* **PCC:** Audio recording summaries\n\n**Photos:**\n\n* **On-device:**\n   * Intelligent search (after indexing)\n   * Clean up (after downloading the clean-up model)\n\n**Notifications/Focus:**\n\n* **On-device:** Notification summaries, Reduce interruptions focus\n\nDoes anyone have any insight on this? And is there any way I can restrict Apple intelligence from using the internet so I can only use the on-device features? Thanks!",
+        "created_utc": 1732308057.0,
+        "subreddit_name": "apple",
+        "comments": 52
+    },
+    {
+        "title": "Daily Advice Thread - November 22, 2024",
+        "score": 8,
+        "url": "https://www.reddit.com/r/apple/comments/1gx5a3l/daily_advice_thread_november_22_2024/",
+        "content": "Welcome to the Daily Advice Thread for /r/Apple. This thread can be used to ask for technical advice regarding Apple software and hardware, to ask questions regarding the buying or selling of Apple products or to post other short questions.\n\nHave a question you need answered? Ask away! Please remember to adhere to our rules, which can be found in the sidebar.\n\nJoin our Discord and IRC chat rooms for support:\n\n* [Discord](https://discord.gg/apple)\n* [IRC](https://kiwiirc.com/client/irc.snoonet.org/apple?nick=CHANGE_ME)\n\nNote: Comments are sorted by /new for your convenience.\n\n[Here is an archive](https://www.reddit.com/r/apple/search?q=author%3A%22AutoModerator%22+title%3A%22Daily+Advice+Thread%22+or+title%3A%22Daily+Tech+Support+Thread%22&sort=new&t=all) of all previous Daily Advice Threads. This is best viewed on a browser. If on mobile, type in the search bar \\[author:\"AutoModerator\" title:\"Daily Advice Thread\" or title:\"Daily Tech Support Thread\"\\] (without the brackets, and including the quotation marks around the titles and author.)\n\n**The Daily Advice Thread is posted each day at 06:00 AM EST (**[Click HERE for other timezones](https://www.wolframalpha.com/input/?i=6+AM+USA+EST)**) and then the old one is archived.** It is advised to wait for the new thread to post your question if this time is nearing for quickest answer time.",
+        "created_utc": 1732273233.0,
+        "subreddit_name": "apple",
+        "comments": 41
     }
 ]

@@ -145,14 +145,14 @@ def post_saved(reddit_post, stock_ticker):
                     return True
     return False
 
-# Sub reddit names
-subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
-
 # Subreddit names (finance + stock-related + popular news)
+# subreddit_names = [
+#     "stocks", "wallstreetbets", "investing",
+#     "worldnews", "news", "technology"
+# ]
 subreddit_names = [
-    "stocks", "wallstreetbets", "investing",
-    "worldnews", "news", "technology"
+    "apple"
 ]
 
 for subreddit_name in subreddit_names:
-    get_posts(subreddit_name=subreddit_name, time_filter='year', limit=3000)
+    get_posts(subreddit_name=subreddit_name, time_filter='month', limit=1000)

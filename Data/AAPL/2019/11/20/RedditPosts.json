@@ -1,0 +1,11 @@
+[
+    {
+        "title": "PSA: Tip for those experiencing diminished AirPods battery life",
+        "score": 5542,
+        "url": "https://www.reddit.com/r/apple/comments/dz9hb9/psa_tip_for_those_experiencing_diminished_airpods/",
+        "content": "I have the 1st generation, original AirPods that I've owned since their release (~3 years ago as of writing).  The battery life for each AirPod has been steadily decreasing over time, down to about 1.5 hours of audio-only usage before needing a recharge in their case, which is frustratingly short.\n\nBefore throwing them away, I decided to try one last trick.  I completely reset the AirPods case (holding down the white button on the back for 10+ seconds), and re-paired them with my iPhone.  I then completely drained both AirPods down to zero, and the case itself down to zero through normal usage.  Then, I put the dead AirPods into the dead case, and charged them both up to 100%.  \n\nThis combination of reset/drain/recharge seems to have re-calibrated the battery life measurement system, and they no longer die at 1.5 hours. I'm now getting double that at around 3 - 3.5 hours, which is great for such an old pair.  Hopefully this helps anybody experiencing this same thing.   Try this battery recalibration!\n\nedit - the AirPods are also draining \"evenly\" now!  Before, one AirPod would drain faster than the other.",
+        "created_utc": 1574289294.0,
+        "subreddit_name": "apple",
+        "comments": 434
+    }
+]

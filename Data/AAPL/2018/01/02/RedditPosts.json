@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Citibank : 40% probability of Apple buying Netflix",
+        "score": 2113,
+        "url": "https://www.reddit.com/r/investing/comments/7nmu67/citibank_40_probability_of_apple_buying_netflix/",
+        "content": "https://finance.yahoo.com/news/40-chance-apple-acquire-netflix-084744946.html\n\nInteereeesting.\n\nA third of Apples cash stack is sufficient, and it will be beneficial tax-wise due to the new reform (according to the article).",
+        "created_utc": 1514904620.0,
+        "subreddit_name": "investing",
+        "comments": 567
+    },
+    {
+        "title": "FYI: Apple *deletes* your Apple Music library if you unsubscribe - if you resubscribe later everything will be gone",
+        "score": 6075,
+        "url": "https://www.reddit.com/r/apple/comments/7niv58/fyi_apple_deletes_your_apple_music_library_if_you/",
+        "content": "I was a subscriber to Apple Music from the very beginning, during which time I built up a library of albums and artists I loved.\n\n6 months ago I cancelled my subscription. Yesterday, I resubscribed only to find all my saved albums and artists gone. I contact Apple support, and got [this reply](https://imgur.com/a/YQrEP):\n\n> My apologies for the inconvenience but once Apple Music subscription gets cancelled, all your music and playlists from the Apple Music catalog also get removed. No option to have those recovered. You will need to manually rebuild your playlists and download songs.\n\nSo, in case you intend to suspend your subscription, be sure to note down all the artists, albums, playlists, \"Loved\" songs. \n\nPersonally, the is the last straw with Apple Music. I'm switching to Spotify.\n\n**Edit**: A few clarifications, since there seems to be some misunderstanding in this thread.\n\n - I understand that the music disappears when you unsubscribe. It's a subscription service, you should no longer have access to the music itself. It's the playlists I'm annoyed about, which I'd expect to come back when resubscribing. If it's called iCloud Music Library, then why is it emptied even when my iCloud account persists? If that's Apple's decision, that's fair, but it should have been more obvious that my library would be emptied so I'd have a chance to export it. That's why I'm warning others.\n\n - I did enable and sync my iCloud Music Library, but this doesn't fix the problem, because Apple has deleted the data in it. The [official support reply](https://imgur.com/a/YQrEP) is in response to me letting the customer service rep know that my iCloud Music Library was enabled and had synced up.\n\n - Some people are reporting that their playlists do come back when resubscribing. It seems like if you leave for only a few months, your songs are kept. But in my case, I was unsubscribed for 6 months - during which time my playlists were deleted.",
+        "created_utc": 1514853382.0,
+        "subreddit_name": "apple",
+        "comments": 880
+    }
+]

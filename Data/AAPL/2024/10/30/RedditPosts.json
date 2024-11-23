@@ -133,5 +133,176 @@
         "created_utc": 1730304308.0,
         "subreddit_name": "investing",
         "comments": 20
+    },
+    {
+        "title": "The MacBook Air gets a surprise upgrade to 16GB of RAM",
+        "score": 4650,
+        "url": "https://www.theverge.com/2024/10/30/24282981/apple-macbook-air-m2-m3-16gb-ram-minimum-price-unchanged",
+        "content": "",
+        "created_utc": 1730300754.0,
+        "subreddit_name": "apple",
+        "comments": 788
+    },
+    {
+        "title": "Apple Polishing Cloth adds support for the new iMac and MacBook Pro (M4-models)",
+        "score": 2041,
+        "url": "https://www.apple.com/shop/product/MW693AM/A/polishing-cloth?fnode=3e60a41d079c08ba303296fe35cfbcb846185ad8c495cbaea5fe5d8d46175c32eedc5472b7e430ffeda7fc8582b7c3a80a4ba89adcfe4d1ca938545d6db3e247e32657dd4e76951f75cc3888d4b257e6f2ce493824d9184afb0a25aa9aec7363",
+        "content": "",
+        "created_utc": 1730302132.0,
+        "subreddit_name": "apple",
+        "comments": 159
+    },
+    {
+        "title": "New MacBook Pro features M4 family of chips and Apple Intelligence",
+        "score": 1177,
+        "url": "https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/",
+        "content": "",
+        "created_utc": 1730300435.0,
+        "subreddit_name": "apple",
+        "comments": 554
+    },
+    {
+        "title": "Apple silicon Macs will get their ultimate gaming test with Cyberpunk 2077 release",
+        "score": 1045,
+        "url": "https://arstechnica.com/gaming/2024/10/intensely-demanding-aaa-game-cyberpunk-2077-is-coming-to-the-mac/",
+        "content": "Cyberpunk 2077, one of the most graphically demanding and visually impressive games in recent years, will soon get a Mac release, according to developer and publisher CD Projekt Red.",
+        "created_utc": 1730329043.0,
+        "subreddit_name": "apple",
+        "comments": 217
+    },
+    {
+        "title": "Apple Announces M4 Max Chip: Up to 16-Core CPU, Up to 40-Core GPU, Up to 128GB of RAM, and More",
+        "score": 906,
+        "url": "https://www.macrumors.com/2024/10/30/apple-announces-m4-max-chip/",
+        "content": "",
+        "created_utc": 1730300906.0,
+        "subreddit_name": "apple",
+        "comments": 152
+    },
+    {
+        "title": "MacBook Pro Now Available With Nano-Texture Display for First Time",
+        "score": 432,
+        "url": "https://www.macrumors.com/2024/10/30/macbook-pro-available-with-nano-texture/",
+        "content": "It is now available across the Pro Display XDR, Studio Display, ‌iMac‌, ‌MacBook Pro‌, and iPad Pro.",
+        "created_utc": 1730303963.0,
+        "subreddit_name": "apple",
+        "comments": 89
+    },
+    {
+        "title": "Apple is challenging hackers to break into the company's servers | Fortune",
+        "score": 313,
+        "url": "https://fortune.com/2024/10/30/apple-hackers-ai-intelligence-bounty/",
+        "content": "",
+        "created_utc": 1730315090.0,
+        "subreddit_name": "apple",
+        "comments": 44
+    },
+    {
+        "title": "Apple Updates Base 14-Inch MacBook Pro With M4 Chip, 16GB of RAM, Extra Thunderbolt Port, Space Black, and More",
+        "score": 299,
+        "url": "https://www.macrumors.com/2024/10/30/apple-announces-14-inch-macbook-pro-with-m4-chip/",
+        "content": "",
+        "created_utc": 1730300857.0,
+        "subreddit_name": "apple",
+        "comments": 58
+    },
+    {
+        "title": "New MacBook Pros Feature Brighter Displays Outdoors, Also Even Dimmer in Low Light",
+        "score": 252,
+        "url": "https://www.macrumors.com/2024/10/30/new-macbook-pros-brighter-display-outdoors/",
+        "content": "",
+        "created_utc": 1730316230.0,
+        "subreddit_name": "apple",
+        "comments": 35
+    },
+    {
+        "title": "Tip: \"scheduling message\" to \"any device\" actually means only apple devices, despite what apple support page states.",
+        "score": 229,
+        "url": "https://discussions.apple.com/content/attachment/837c65c6-d616-4d63-98de-966fcff9e8c1",
+        "content": "",
+        "created_utc": 1730287158.0,
+        "subreddit_name": "apple",
+        "comments": 84
+    },
+    {
+        "title": "New MacBook Pro M4",
+        "score": 166,
+        "url": "https://www.apple.com/uk/macbook-pro/",
+        "content": "",
+        "created_utc": 1730301569.0,
+        "subreddit_name": "apple",
+        "comments": 47
+    },
+    {
+        "title": "MacBook Pro Announcement Video",
+        "score": 124,
+        "url": "https://youtu.be/G0cmfY7qdmY?si=_OlimaJKDHlxr4rv",
+        "content": "",
+        "created_utc": 1730301125.0,
+        "subreddit_name": "apple",
+        "comments": 22
+    },
+    {
+        "title": "Apple Passwords’ Generated Strong Password Format",
+        "score": 110,
+        "url": "https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/",
+        "content": "",
+        "created_utc": 1730299473.0,
+        "subreddit_name": "apple",
+        "comments": 31
+    },
+    {
+        "title": "LLM on M4 Max 128GB?",
+        "score": 56,
+        "url": "https://www.reddit.com/r/apple/comments/1gfz6ck/llm_on_m4_max_128gb/",
+        "content": "Announcement says it can run up to 200b parameters. Meanwhile my M1 Max 64GB (maxed out chip) is struggling with 70B Llama models. How did apple benchmark this? Are they lowering the quantization to run larger models? \n\n\n\nGood source to check out:\n\n[https://www.substratus.ai/blog/calculating-gpu-memory-for-llm](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)\n\n",
+        "created_utc": 1730327218.0,
+        "subreddit_name": "apple",
+        "comments": 8
+    },
+    {
+        "title": "In Apple’s new ads for AI tools, we’re all total idiots",
+        "score": 51,
+        "url": "https://www.fastcompany.com/91218041/apple-intelligence-ad-total-idiots",
+        "content": "",
+        "created_utc": 1730319394.0,
+        "subreddit_name": "apple",
+        "comments": 104
+    },
+    {
+        "title": "AI + HomePods?",
+        "score": 40,
+        "url": "https://www.reddit.com/r/apple/comments/1gfdfe6/ai_homepods/",
+        "content": "What’s the chance that we see an upgraded HomePod lineup that runs Apple Intelligence, and can access chatGPT when needed just like iPhones are expected to?",
+        "created_utc": 1730258665.0,
+        "subreddit_name": "apple",
+        "comments": 28
+    },
+    {
+        "title": "Daily Advice Thread - October 30, 2024",
+        "score": 5,
+        "url": "https://www.reddit.com/r/apple/comments/1gfix40/daily_advice_thread_october_30_2024/",
+        "content": "Welcome to the Daily Advice Thread for /r/Apple. This thread can be used to ask for technical advice regarding Apple software and hardware, to ask questions regarding the buying or selling of Apple products or to post other short questions.\n\nHave a question you need answered? Ask away! Please remember to adhere to our rules, which can be found in the sidebar.\n\nJoin our Discord and IRC chat rooms for support:\n\n* [Discord](https://discord.gg/apple)\n* [IRC](https://kiwiirc.com/client/irc.snoonet.org/apple?nick=CHANGE_ME)\n\nNote: Comments are sorted by /new for your convenience.\n\n[Here is an archive](https://www.reddit.com/r/apple/search?q=author%3A%22AutoModerator%22+title%3A%22Daily+Advice+Thread%22+or+title%3A%22Daily+Tech+Support+Thread%22&sort=new&t=all) of all previous Daily Advice Threads. This is best viewed on a browser. If on mobile, type in the search bar \\[author:\"AutoModerator\" title:\"Daily Advice Thread\" or title:\"Daily Tech Support Thread\"\\] (without the brackets, and including the quotation marks around the titles and author.)\n\n**The Daily Advice Thread is posted each day at 06:00 AM EST (**[Click HERE for other timezones](https://www.wolframalpha.com/input/?i=6+AM+USA+EST)**) and then the old one is archived.** It is advised to wait for the new thread to post your question if this time is nearing for quickest answer time.",
+        "created_utc": 1730282432.0,
+        "subreddit_name": "apple",
+        "comments": 101
+    },
+    {
+        "title": "Norway: Tram derails, plows into Apple outlet in Oslo – DW",
+        "score": 0,
+        "url": "https://www.dw.com/en/norway-tram-derails-plows-into-apple-outlet-in-oslo/a-70633143",
+        "content": "",
+        "created_utc": 1730251252.0,
+        "subreddit_name": "apple",
+        "comments": 5
+    },
+    {
+        "title": "Why has Apple not made an Apple Keyboard/Magic Trackpad Combo Unit like Logitech yet? This seems like a no-brainer product especially for the Mac Mini.",
+        "score": 0,
+        "url": "https://www.logitech.com/en-us/products/keyboards/k400-plus-touchpad-keyboard.920-007119.html",
+        "content": "",
+        "created_utc": 1730269223.0,
+        "subreddit_name": "apple",
+        "comments": 34
     }
 ]

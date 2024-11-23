@@ -16,5 +16,23 @@
         "created_utc": 1601394366.0,
         "subreddit_name": "stocks",
         "comments": 293
+    },
+    {
+        "title": "Judge not convinced by Epic's arguments against Apple; Google to begin collecting 30% cut on in-app purchases in 2021",
+        "score": 2078,
+        "url": "https://www.reddit.com/r/investing/comments/j1orad/judge_not_convinced_by_epics_arguments_against/",
+        "content": "Relevant articles: [NYTimes](https://www.nytimes.com/2020/09/28/technology/apple-epic-app-court.html), [CNN](https://www.cnn.com/2020/09/28/tech/apple-fortnite-epic-hearing/index.html), [CNBC](https://www.cnbc.com/2020/09/28/google-to-enforce-30percent-cut-on-in-app-purchases-next-year.html)\n\n* Apple and Epic went to court today so that Epic could argue for a temporary court order that would force Apple to unblock Fortnite from its iOS App Store. \n\n* \"The case is considered a potentially landmark suit, one that tests the frontiers of antitrust law, said Judge Yvonne Gonzalez Rogers of the United States District Court for the Northern District of California.\"\n\n* Judge Gonzalez Rogers looked skeptically at many of Epic's claims, explicitly telling the company several times in the hearing she was not persuaded by its arguments or its strategy. Epic knew that it was breaching its contract with Apple when it published the update, but did it anyway, she said, accusing the company of dishonesty. She rejected claims that Apple's in-app payment system is a separate product an an example of illegal bundling, as well as that Apple's app store operates as a monopoly.\n\n* Fortnite players on iOS have a variety of choices to access the game even if it is no longer available on iOS, she said. \"Walled gardens have existed for decades,\" she said. \"Nintendo has had a walled garden. Sony has had a walled garden. Microsoft has had a walled garden. What Apple's doing is not much different... It's hard to ignore the economics of the industry, which is what you're asking me to do.\"\n\n* Judge Yvonne Gonzalez Rogers recommended a jury trial in the case in July. “It is important enough to understand what real people think,” she said. “Do these security issues concern people or not?” (in reference to Apple's argument that tight control over its App Store to keep customers’ data secure and private.)\n\n* In the coming days, Gonzalez Rogers is expected to rule on a temporary injunction forcing Apple to allow Fortnite back into its App Store and support Unreal Engine, Epic’s software development tools, in the interim.\n\n* Separately on Monday, Google announced it will enforce rules that require app developers distributing Android software on the Google Play Store to use its in-app payment system. The move means that developers who have had customers pay them directly with a credit card for digital content will soon have to use Google’s billing system, which takes a 30% fee from payments.",
+        "created_utc": 1601340066.0,
+        "subreddit_name": "investing",
+        "comments": 546
+    },
+    {
+        "title": "Epic’s decision to bypass Apple’s App Store policies were dishonest, says US judge",
+        "score": 11902,
+        "url": "https://www.theverge.com/2020/9/29/21493096/epic-apple-antitrust-lawsuit-fortnite-app-store-court-hearing",
+        "content": "",
+        "created_utc": 1601383920.0,
+        "subreddit_name": "apple",
+        "comments": 971
     }
 ]
