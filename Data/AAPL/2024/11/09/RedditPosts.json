@@ -79,5 +79,23 @@
         "created_utc": 1731118091.0,
         "subreddit_name": "wallstreetbets",
         "comments": 51
+    },
+    {
+        "title": "Wendy's Uses Palantir AI Tech To Manage Burger, French Fry Inventories says Return On Investment Is 'Significant'",
+        "score": 729,
+        "url": "https://www.reddit.com/r/stocks/comments/1gnbgko/wendys_uses_palantir_ai_tech_to_manage_burger/",
+        "content": "https://www.benzinga.com/news/24/11/41817215/wendys-uses-palantir-ai-tech-to-manage-burger-french-fry-inventories-return-on-investment-is-signifi\n\n> Wendy's supply chain purchases are handled by an independent co-op group that first tested Palantir's technology last year amid tight profit margins and increasing pressure from inflation, according to a Bloomberg report. The group is using Palantir's system to spot shortages and suggest solutions like placing an order from a supplier. Pete Suerken, who leads the purchasing co-op, said the system's AI learns over time and can suggest a specific warehouse, after considering factors such as cost and the probability of the items arriving on time. The software can predict when specific products will run out by analyzing current and historical sales figures.\n\n> Suerken praised Palantir's platform and said it was \"so much better\" than spreadsheets and other customary inventory management methods. He also said the return on investment is \"significant.\" Wendy's recently asked the supply chain program to identify shortages restaurants could face over the following three weeks and then staff trained the model by showing how the shortages should be solved. Wendy's purchasing group plans to eventually allow the AI model to manage smaller inventory and ordering tasks autonomously and without human intervention.\n\n> \"Three or four years from now, if you're not doing this, you'll be at a distinct disadvantage,\" said Suerken. \"This is something that, as an industry, will change the way we work.\"",
+        "created_utc": 1731163077.0,
+        "subreddit_name": "stocks",
+        "comments": 126
+    },
+    {
+        "title": "Wendys Uses Palantir AI Tech To Manage Burger, French Fry Inventories; Return On Investment Is Significant",
+        "score": 2517,
+        "url": "https://www.benzinga.com/news/24/11/41817215/wendys-uses-palantir-ai-tech-to-manage-burger-french-fry-inventories-return-on-investment-is-signifi",
+        "content": "",
+        "created_utc": 1731164620.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 195
     }
 ]

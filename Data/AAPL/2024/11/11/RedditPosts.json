@@ -178,5 +178,50 @@
         "created_utc": 1731312733.0,
         "subreddit_name": "wallstreetbets",
         "comments": 17
+    },
+    {
+        "title": "The actual DD for puts on PLTR",
+        "score": 46,
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1gp56b4/the_actual_dd_for_puts_on_pltr/",
+        "content": "I know that I'm casting stones at your temples by making a real and reasonable case for PLTR not going to the moon, but I'll be goddamned if the 40% of my portfolio that I have in PLTR puts is gonna be disrespected like this.\n\n  \nPLTR is a defense contractor specializing in leveraging data modeling and machine learning algorithms in vaguely-disclosed ways to assist the active and counter-intelligence agencies of federated Western nations, but primarily for the US government. You'll note the absolute rockets around every time that there was a news story announcing PLTR going into a contract for the US govt, and just recently when they went into that deal with Anthropic and AWS. Honestly fucking hilarious that Anthropic has a mission statement about not using AI to enable harm to human beings as they do a deal with a defense contractor but I'm here to make money, not make moral judgements. They should probably change that page though. P  \n  \nPeople see \"defense contractor\" and proceed to fully regard the stock as much as one can be regarded here in WSB. Full regard, I must emphasize. The reason that defense contractors are so lucrative isn't just because Uncle Sam has deep pockets.   Defense contractors are valuable for:\n\n* Resale value: I can take an M16, a Humvee, or an AK-47 and sell it to some guy in some country that I can't pronounce, and he can go kill his nemesis with it. Is PLTR gonna resell their algorithms to General Butt-Naked? I seriously fucking doubt it.\n* As above, emphasizing the black market aspect: The US military pays a premium on some completely ass hardware because they buy way too much of it to compensate for the fact that quite a bit of it is gonna fall off the back of a truck into that Yugoslavian terrorist cell.\n* Long-term viability: I can kill you with a pistol made 100 years ago. A 20-year-old fighter jet is still a serious fucking problem for ground units. A 10 year old Humvee is still drivable and maintainable. But even a 2-year-old algorithm or model? The pace of software and model design is prohibitively expensive for the value you receive. You can't sell a 10 year old program, or most of the time even use the motherfucker with modern software.\n\n  \nAnd onto competition. Yes, right now PLTR has quite a lot of headway in the space of providing artificial intelligence leverage and data processing algorithms for intelligence communities, because that's their Brand, which is to say, digital blood money. More power to you, because christ knows that anybody who made enough money very quickly quit giving a fuck about the way they did it. But the assumption that PLTR has a huge moat is just flat fucking wrong. All the algorithms they use to predict behavior, or patterns in communication, or whatever-the-fuck else? ... literally just the same shit that digital ad providers are running.\n\n  \nYou notice in their Anthropic and AWS deal that AWS is a digital ad provider? PLTR is soon to be challenged by any company who thinks to generalize their ad-driving software for intelligence reasons. If you can predict the size of the cock ring I'm gonna buy, I can only assume you can predict my next act of terror by my google searches. Is PLTR using some data-driving secret sauce that nobody has heard of? I really fucking doubt it.\n\n  \nPLTR is a good company that has mad great headway into their space. But they are not a 450% fair market valuation from fundamentals good. When people lose their hype for AI and it becomes just another industry revolution the way computers were, PLTR's revenue is getting its head bounced off the concrete. It's a matter of digital ad companies and improvement of code-assistant agents challenging what little moat PLTR has in the current market.\n\n  \nI'm not gonna hold you that my PLTR puts are absolutely fucking menstrual right now, but I'm buying LEAP puts when my broke ass saves enough from the cubicle farm. Let me reiterate: PLTR is a good company, maybe even a great one, but their moat isn't big enough for a 450% fair market valuation, and even if their moat were bigger, they don't have the same inherent profitability that the other defense contractors do. You can't steal a PLTR algorithm off a truck, or trade the quartermaster some smack for a few dozen rounds of data processing.",
+        "created_utc": 1731364082.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 92
+    },
+    {
+        "title": "Need Suggestions on Implementing a Stock Market Database",
+        "score": 1,
+        "url": "https://www.reddit.com/r/investing/comments/1gol51z/need_suggestions_on_implementing_a_stock_market/",
+        "content": "I run a small investment advisory/portfolio management business. I've been keeping data on Excel, but now, it's too big to process and update. I would like to setup a simple database where I keep my stock tickers, which will branch out into the following:   \n  \n*1. Price-Volume Data 2. Outstanding Shares 3. Market Capitalization 3. Market Index (into sector index and category index) 4. Financials 5. Dividend History 6. Company News 7. Management Details*  \n  \nI have no idea about database management but I am willing to learn about it. I have the following questions:  \n  \n1. Do I have to buy a big server PC or can I do it on a high spec ordinary PC?  \n2. Which platform do I use to setup this database? Like MySQL or Apache or others? Is it free or do I need a subscription?  \n3. Do I have to learn a specific programming language?  \n4. How versatile is it? Will I be able to create reports (i.e. weekly market report) or a stock screener from it later on?  \n5. How easy is it to update the database? Can I create forms so that I can add entries to the database? Or can I use excel to update this database?  \n6. Will my data be accessible all the time? Will I be able to access it from my home PC?\n\nThanks in advance. :)",
+        "created_utc": 1731303603.0,
+        "subreddit_name": "investing",
+        "comments": 3
+    },
+    {
+        "title": "Nuclear option in the face of AI?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1gotw7z/nuclear_option_in_the_face_of_ai/",
+        "content": "Kind of a halfbaked thought process, but bear with me.\n\nAs the development of \"AI\" continues to accelerate, we now see Microsoft investing in the reopening Three Mile Island. How much does this bode well for investing in companies within the nuclear energy industry? \n\nSeems to me like more companies would move towards utilizing nuclear to support the high energy consumption of \"AI\" projects. Additionally, this could help destigmatize nuclear as a power source and lead to further proliferation of reactors in the US.",
+        "created_utc": 1731336573.0,
+        "subreddit_name": "investing",
+        "comments": 33
+    },
+    {
+        "title": "Do you think the stock market is over valued and does my idea make sense?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1got6xt/do_you_think_the_stock_market_is_over_valued_and/",
+        "content": "Been seeing some stories recently that the stock market is over valued.  With all the AI stuff it reminds me a bit of the dot com crash of the 90's.  Plus, the S&P has gone up 30% over the last year.  With that in mind I have trouble not thinking that there might be a correction in the near future.\n\nWith that being said, for the long term investor I know that this is irrelevant.  Few of us have the skill to figure out the timing of this stuff to really take advantage of it.  With that being said, my main source of income is my investments.  My original plan was to just sell off a chunk every year for my living expenses and what not.  With that being said, I'm now considering selling off enough stock for three years worth of living expenses and putting it in a savings account.  If we do happen to have crash I can take a chunk of it and reinvest it.  Otherwise I just continue with my plan for the next three year and hope that a crash doesn't happen after that.\n\nJust curious what people think of my strategy.",
+        "created_utc": 1731334664.0,
+        "subreddit_name": "investing",
+        "comments": 57
+    },
+    {
+        "title": "'Pure fiction' — Kremlin denies Putin and Trump discussed Ukraine by phone after election victory",
+        "score": 14150,
+        "url": "https://kyivindependent.com/pure-fiction-kremlin-denies-putin-and-trump-spoke-by-phone-after-election-victory/",
+        "content": "",
+        "created_utc": 1731322135.0,
+        "subreddit_name": "worldnews",
+        "comments": 787
     }
 ]

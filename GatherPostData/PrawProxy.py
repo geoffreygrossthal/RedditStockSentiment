@@ -2,6 +2,7 @@ import json
 import praw
 import time
 import sys
+import re
 import os
 import re
 from datetime import datetime, timezone, timedelta
@@ -28,36 +29,33 @@ reddit = praw.Reddit(
     user_agent=config['reddit']['user_agent'],
 )
 
-# Define the list of stock tickers
+# Define AAPL and its key words
 stock_tickers = [
-    {"ticker": "AAPL", "name": "Apple"},
-    {"ticker": "TSLA", "name": "Tesla"},
-    {"ticker": "MSFT", "name": "Microsoft"},
-    {"ticker": "AMZN", "name": "Amazon"},
-    {"ticker": "NFLX", "name": "Netflix"},
-    {"ticker": "NVDA", "name": "NVIDIA"},
-    {"ticker": "DIS", "name": "Disney"},
-    {"ticker": "INTC", "name": "Intel"}
+    {
+        "ticker": "AAPL",
+        "keywords": [
+            "AAPL", "aaple", "apple", "iphone", "Apple", "TimCook", "iPhone", "iPad", "MacBook", "AppleWatch", "AirPods", "AppleTV", 
+            "iOS", "macOS", "iCloud", "AppStore", "ApplePay", "AppleCard", "AppleMusic", "AppleArcade", 
+            "AppleFitness", "AppleNews", "AppleBooks", "iTunes", "AppleRetail", "AppleSilicon", 
+            "M1Chip", "M2Chip", "iMac", "MacMini", "MacPro", "HomePod", "AirTags", "AppleCampus", 
+            "AppleStore", "Airtime", "FaceID", "TouchID", "AppleCare", "AppStoreReview", "AppleDeveloper", 
+            "iCloudDrive", "iMessage", "Siri", "AppleChip", "AppleEvent", "WWDC", "AppleEarnings", 
+            "AppleStock", "AppleRevenue", "AppleGrowth", "AppleShareholder", "phone", "smartphone", 
+            "tablet", "laptop", "desktop", "charger", "AirPodsPro", "iPhone13", "iPhone14", "iPhone15", 
+            "AppleWatchSeries", "iPhoneX", "iPhoneSE", "MacOSVentura", "MacOSMonterey", "iPhoneSE", "MacOSBigSur"
+        ]
+    }
 ]
 
-# Function to check if a post contains any of the stock tickers
-def contains_stock_ticker(post, stock_tickers):
-    ticker_set = {ticker['ticker'] for ticker in stock_tickers}
-    ticker_pattern = re.compile(r'\b(?:' + '|'.join(re.escape(ticker['ticker']) for ticker in stock_tickers) + r')\b', re.IGNORECASE)
-    matched_tickers = []
-    print(post.to_string())
-
-    # Search for tickers in the title or content once
+# Function to check if a post contains any of the keywords
+def contains_keywords(post, stock_tickers):
+    keyword_set = {keyword for ticker in stock_tickers for keyword in ticker['keywords']}
+    keyword_pattern = re.compile(r'\b(?:' + '|'.join(re.escape(keyword) for keyword in keyword_set) + r')\b', re.IGNORECASE)
     post_text = post.title + " " + post.content
-    if ticker_pattern.search(post_text):
-        for ticker in ticker_set:
-            # Only check for individual tickers if the pattern matched
-            if re.search(r'\b' + re.escape(ticker) + r'\b', post_text, re.IGNORECASE):
-                if ticker not in matched_tickers:
-                    matched_tickers.append(ticker)
-                    print(f'Matched ticker: {ticker}')
+    if keyword_pattern.search(post_text):
+        return True
+    return False
 
-    return matched_tickers
 
 # Function to fetch posts based on subreddit and time filter
 def get_posts(subreddit_name, time_filter, limit):
@@ -92,13 +90,12 @@ def get_posts(subreddit_name, time_filter, limit):
             subreddit_name=subreddit_name,
             comments=submission.num_comments
         )
-        matched_tickers = contains_stock_ticker(post, stock_tickers)
-        if matched_tickers:
-            for ticker in matched_tickers:
-                if not post_saved(post, ticker):
-                    insert_reddit_post_into_folders(post, ticker)
-                else:
-                    print(f"Post for {ticker} already saved.")
+
+        if contains_keywords(post, stock_tickers):
+            if not post_saved(post, "AAPL"):
+                insert_reddit_post_into_folders(post, "AAPL")
+            else:
+                print(f"Post for AAPL already saved.")
         else:
             print("No relevant ticker found in post.")
 
@@ -148,8 +145,14 @@ def post_saved(reddit_post, stock_ticker):
                     return True
     return False
 
-# Loop through each day from Nov 8, 2024, going back 10 years
+# Sub reddit names
 subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
+
+# Subreddit names (finance + stock-related + popular news)
+subreddit_names = [
+    "stocks", "wallstreetbets", "investing",
+    "worldnews", "news",
+]
 
 for subreddit_name in subreddit_names:
     get_posts(subreddit_name=subreddit_name, time_filter='month', limit=3000)

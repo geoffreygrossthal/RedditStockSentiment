@@ -43,5 +43,95 @@
         "created_utc": 1730564165.0,
         "subreddit_name": "investing",
         "comments": 12
+    },
+    {
+        "title": "What are your 'unknown' or 'boring' stocks that consistently outperform the market?",
+        "score": 729,
+        "url": "https://www.reddit.com/r/stocks/comments/1ghqt7y/what_are_your_unknown_or_boring_stocks_that/",
+        "content": "They may not be 'cool' or ai-related, but even in a relatively 'boring' industry you occasionally find a hidden gem. A long-term compounder that consistently delivers string returns and outperforms the market. \n\nWhich companies have you seen like this? ",
+        "created_utc": 1730530647.0,
+        "subreddit_name": "stocks",
+        "comments": 566
+    },
+    {
+        "title": "Why I think TSM/INTC will outpace NVDA/AMD growth in the next decade. ",
+        "score": 1163,
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/",
+        "content": "Tech giants like Amazon, Google, Microsoft, and Meta are spending billions of CapEx on AI. Lets just look at their last 2 quarters spending:\n\n* **Amazon**: Increased CapEx from $60 billion in Q2 2024 to $70 billion in Q3 2024.\n* **Google**: Increased CapEx from $44 billion to $49 billion in the same period.\n* **Microsoft**: Increased CapEx from $44 billion to $49 billion.\n* **Meta**: Increased CapEx from $29 billion to $31 billion.\n\nHowever not all that CapEx is going to third party AI solutions like Nvidia/AMD. Each and every company listed above has or is developing it's own custom AI silicon.\n\nLets look how they are transitioning from 3rd party to In-House AI silicon:\n\n**Amazon**: Developed AWS Inferentia and Tranium chips for AI processing (manufactured by TSM & INTC).\n\n**Google**: Developed Tensor Processing Unite (TPU) and Axion chip for AI processing (manufactured by TSM).\n\n**Microsoft**: Developed Azure Maia AI chip and Azure Cobalt for AI processing (manufactured by TSM & INTC).\n\n**Meta**: Developed Meta trading and Inference Accelerator (MTIA) for AI processing (manufactured by TSM).\n\nAll those developments reduce dependence on external GPU suppliers, allow more customized/efficient AI processing and most importantly huge cost savings.\n\nJust to understand the level of savings (and why would they invest huge R&D budget on this):\n\nA **regular Nvidia H100 GPU**, cost approximately **$3,320** to manufacture from TSMC. However it is being sold at **$25,000 to $30,000** each!\n\nThat's almost 800%-900% profit margins that has to be paid by the companies above, when they opt not to choose In-House Silicon.\n\nAs more of the AI CapEx goes to custom silicon (will never be 100%, but expect that percentage only to grow larger over time, driven by cost savings)  TSMC and Intel foundries will benefit directly from this trend (both have EUV capabilities, INTC will mass produce 18A EUV chips next year, with Amazon as first client)\n\nAnd this will position TSMC and INTC for substantial growth, because **the rate limiting factor for AI growth will be how much silicon can TSMC or INTC manufacture** for the entire world's AI demand.  \n  \n\n\n\n\n",
+        "created_utc": 1730560665.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 251
+    },
+    {
+        "title": "Bill Gates Terrapower with ASP Isotopes",
+        "score": 237,
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1gi41yd/bill_gates_terrapower_with_asp_isotopes/",
+        "content": "$ASPI These news took ASP Isotopes above 500 million market cap. I want your opinion and what you say about it all. Will Centrus Energy be able to stay relevant coming years when new technologies enter the scene? \n\nTerm sheet say Terrapower will likely pay for the construction of a HALEU enrichment plant. HALEU is the fuel every small modular reactor needs to operate.\n\nI'm guessing huge gains from nano nuclear, oklo, Nuscale etc gonna come ASPIs way. Small Modular Reactors are like cars and cars don't run without gasoline, SMRs don't run without #HALEU. Who's making the biggest bags of money? The people driving the cars or those who sell the gasoline?\n\nThey also got contracts for their enriched silicon-28 product which is researched to be the next material in semiconductors. Allowing for cooler and therefore faster chips enabling super intelligent AI and quantum computing.\n\nTwo undisclosed contracts with US leading semiconductor companies and in discussions with several others. Any clue on who it could be? I mean Bill Gates grabbing their HALEU, maybe Gates want some si28 as well for Microsoft?\n\nWith the current nuclear theme, this is set up deliciously. From $2.90 to $8 in a month and bears are still stubbornly resisting the bull horde.\n\nIcing on the cake, the planned spinoff gives ASPI shareholders incentive to HODL & gobble. Spinoff is 1 for 1. Get an equal amount of QLE shares as you got ASPI for those who HODL on record date yet to be determined.\n\nTerrapower press release: [https://www.terrapower.com/terraPower-announces-strategic-agreement](https://www.terrapower.com/terraPower-announces-strategic-agreement)\n\n45 things to consider with $ASPI. Cheers to u/pennycheck at X for this delicious slice of ASPIe\n\n1. Proprietary Aerodynamic Separation Process (ASP) and Quantum Enrichment technologies for isotope enrichment.\n2. Contracts for Carbon-14, Molybdenum-100, and Silicon-28 production, with potential revenues of $12-30 million in 2024.\n3. Entering the High-Assay Low-Enriched Uranium (HALEU) market, with estimated demand over 600 MT by 2035.\n4. Quantum Enrichment method for uranium expected to be more cost-effective and scalable than competitors' technologies.\n5. Signed MOUs with two US-based Small Modular Reactor (SMR) companies to supply HALEU.\n6. Received interest from potential customers totaling over $30 billion of HALEU demand at recent market prices.\n7. Technology allows for HALEU production in a single step, potentially more efficient than competitors.\n8. Expects to produce commercial quantities of HALEU by 2027, potentially satisfying all anticipated demand from advanced reactors in development.\n9. Market capitalization significantly lower than main competitors despite potentially superior technology.\n10. Strong management team with extensive experience in isotope enrichment and finance.\n11. 100% employee retention, helping maintain trade secrets and technological advantages.\n12. Exploring enrichment of depleted uranium tails, potentially leading to higher margins and lower HALEU prices.\n13. Building facilities in Iceland to capitalize on lower electricity costs, potentially improving profitability.\n14. Joint venture with PET Labs, allowing entry into the radioisotope market for nuclear medicine.\n15. Technology is modular and scalable, allowing for rapid capacity expansion.\n16. Significant insider ownership, with management continuing to buy shares.\n17. Targeting multiple markets beyond HALEU, including medical isotopes, silicon for quantum computing, and other industrial applications.\n18. Favorable market environment due to global push for nuclear energy, including pledge to triple nuclear capacity by 2050 at COP28.\n19. Technology could potentially address the HALEU supply bottleneck currently delaying some SMR projects.\n20. Potential ability to produce Weapons Grade Uranium (WGU) could lead to additional government contracts.\n21. Isotope production extends beyond HALEU, with applications for semiconductors and AI companies.\n22. Ytterbium plant commissioned 9 months ahead of schedule, demonstrating efficient execution.\n23. Early completion of Ytterbium plant proves Quantum Enrichment technology, applicable to uranium enrichment for HALEU production.\n24. Ability to recycle depleted uranium tails makes it attractive for governments wanting to avoid new uranium mining operations.\n25. Diverse isotope portfolio makes it relevant to multiple industries and companies.\n26. Major tech companies like Amazon and Google investing heavily in nuclear energy projects, likely increasing demand for HALEU fuel.\n27. Amazon signed agreements to support development of nuclear energy projects, including new SMRs.\n28. Google signed world's first corporate agreement to purchase nuclear energy from multiple SMRs.\n29. Tech giants' involvement could accelerate SMR development and adoption, creating larger market for ASPI's HALEU production.\n30. Tech companies cite need for reliable, carbon-free energy to power data centers and AI technologies.\n31. US Department of Energy estimates significant job growth in the nuclear industry.\n32. International Energy Agency's report supports long-term prospects for nuclear energy.\n33. Growing corporate interest in nuclear energy could lead to increased investment in the sector.\n34. Successfully enriched Ytterbium-176 using Quantum Enrichment technology.\n35. Commissioning phase of Ytterbium-176 facility completed in 6 weeks instead of expected 3-6 months.\n36. Expects to achieve 99.75% enrichment for Ytterbium-176 and offer it for commercial sale in 2025.\n37. Plans to construct Nickel-64 and Lithium-6/7 Quantum Enrichment plants with production targeted for 2025.\n38. Potentially the only Western supplier of commercial quantities of Ytterbium-176 and similar isotopes.\n39. Quantum Enrichment process believed to be more efficient, scalable, and environmentally friendly than other technologies.\n40. In discussions with potential customers for HALEU requirements valued at over $37 billion.\n41. MOUs with two US-based SMR companies include potential capital investments into HALEU facilities.\n42. Accelerating plans for Nickel-64 and Lithium-6/7 plants due to urgent demand from Western-based producers.\n43. Positioning to meet emerging demand for Lithium-6 in nuclear fusion power plants.\n44. Recruited Lt. Col. William Eden, MBE to lead nuclear strategy in the United Kingdom.\n45. Bill Gates took the first slice of the pie. Bet there's many more wanting a seat at the table.\n46. 24% shorted 10 million shares since $2.90-$8\n\nI'm suspecting ASPI and Gates been discussing silicon-28 since it's now clear Terrapower aim to lock up their HALEU production for ten years. All makes sense to me. Lock up the HALEU to fuel SMRs and build datacentres with silicon-28 semiconductors. Aaaand they build SMRs to power their superior datacentres.\n\nMicrosoft enters the chip wars: https://www.forrester.com/blogs/welcome-to-the-chip-wars-microsoft/\n\nThey will spin off their Uranium business to Quantum Leap Energy. Those who got shares in ASPI will get equal amount of shares in the new company QLE. Plus ASPI will always get 10% of QLEs revenue.\n\nThe HALEU plant Bill Gates is paying for and is expected to be non dilutive to shareholders. He will also buy all the HALEU produced there for a ten year period. Gates want to be the global top dog in small modular reactors.\n\nFinancially their balance sheet have never been stronger with about $43 million dollar cash.\n\nThis is just my opinions and guesses, I'm not a financial advisor. I share information about the company for the community to discuss. So this is not investment advice to sell, buy or do anything speculative. ASPI is worth keeping on the watchlist in my opinion. I keep it in my portfolio, I like the stock so I own the stock. Do your due diligence.",
+        "created_utc": 1730575056.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 125
+    },
+    {
+        "title": "NVDA To Join Dow Jones Industrial Average",
+        "score": 217,
+        "url": "https://www.reddit.com/r/investing/comments/1ghmlfr/nvda_to_join_dow_jones_industrial_average/",
+        "content": "\n\nNvidia is replacing rival chipmaker Intel\n in the Dow Jones Industrial Average, a shakeup to the blue-chip index that reflects the boom in artificial intelligence and a major shift in the semiconductor industry.  \n\nThe switch will take place on Nov. 8. Also, Sherwin Williams will replace Dow Inc\nin the index, S&P Dow Jones said in a statement.\n\nNvidia shares have climbed over 170% so far in 2024 after jumping roughly 240% last year, as investors have rushed to get a piece of the AI chipmaker. Nvidia’s market cap has swelled to $3.3 trillion, second only to Apple. \n\nhttps://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html",
+        "created_utc": 1730514541.0,
+        "subreddit_name": "investing",
+        "comments": 64
+    },
+    {
+        "title": "Critique this hypothesis for an Apparel company wanting to make ESG Investments",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1gi5z2x/critique_this_hypothesis_for_an_apparel_company/",
+        "content": "X company can build a successful ESG strategy by focusing on three core principles: prioritizing sustainability and social responsibility in the supply chain process; prioritizing sustainable materials in the manufacturing process to reduce waste and minimize environmental harm; and upholding strong governance standards through compliance with regulations and transparency in business practices. By centering these priorities, X can make impactful ESG investments that reflect its commitment to environmental and social responsibility, supporting its long-term goal of achieving carbon neutrality by 2040.",
+        "created_utc": 1730580280.0,
+        "subreddit_name": "investing",
+        "comments": 8
+    },
+    {
+        "title": "Thousands go to fake AI-invented Dublin Halloween parade",
+        "score": 3016,
+        "url": "https://www.euronews.com/culture/2024/11/01/thousands-go-to-fake-ai-invented-dublin-halloween-parade",
+        "content": "",
+        "created_utc": 1730513213.0,
+        "subreddit_name": "worldnews",
+        "comments": 289
+    },
+    {
+        "title": "Warren Buffett continued to sell down his Apple stake, cutting about a quarter in the third period",
+        "score": 344,
+        "url": "https://www.cnbc.com/2024/11/02/berkshire-hathaway-brk-earnings-q3-2024.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+        "content": "",
+        "created_utc": 1730553010.0,
+        "subreddit_name": "wallstreetbets",
+        "comments": 87
+    },
+    {
+        "title": "Why is Warren Buffet still invested in Sirius XM?",
+        "score": 144,
+        "url": "https://www.reddit.com/r/investing/comments/1ghnlpl/why_is_warren_buffet_still_invested_in_sirius_xm/",
+        "content": "Why is Warren Buffet still heavily invested in Sirius XM?\n\nBerkshire Hathway's latest SEC filing shows that he currently holds 376m shares of Sirius XM, Why? In this age of Spotify, and Apple Music what kind of upside does Sirius have?\n\nSuch big position could indicate something really exciting happening with Sirius XM in the future, but what does Buffet know that we don’t? ",
+        "created_utc": 1730517870.0,
+        "subreddit_name": "investing",
+        "comments": 108
+    },
+    {
+        "title": "Something specific to watch out for when investing in EnergyX",
+        "score": 5,
+        "url": "https://www.reddit.com/r/investing/comments/1ghvyon/something_specific_to_watch_out_for_when/",
+        "content": "Back in late 2020 heard about a startup in the lithium sector that was researching using high tech methods to speed up recovery time, enhance yield AND lowers the production cost$\n\n\n\nAt first I was skeptical because the company was based in Puerto Rico, but then learned that this was done to be \"tax efficient\"  (long story short after doing DD based on the tech, I threw down a bet on EnergyX via a crowdfunding site)\n\n\n\n[https://netcapital.com/companies/energyx](https://netcapital.com/companies/energyx)\n\n\n\nAnyway seem to have something akin to a winning lotto ticket because my basis is $0.81 (with a 3 for 1 AND then a 2 for 1 stock split),...\n\n\n\n[https://www.sec.gov/Archives/edgar/data/1830166/000149315223045075/form253g2.htm](https://www.sec.gov/Archives/edgar/data/1830166/000149315223045075/form253g2.htm)\n\n\n\nand the latest crowdfunding round was $9.50\n\n\n\n[https://techcrunch.com/2024/10/04/why-energyx-raised-75m-from-small-investors-even-after-taking-vc-money-from-gm-and-others/](https://techcrunch.com/2024/10/04/why-energyx-raised-75m-from-small-investors-even-after-taking-vc-money-from-gm-and-others/)\n\n\n\nBecause my original bet on paper grew 10X (in just over 3 years), decided to add to my position in EnergyX when the offering price was at $9.00 per share\n\n\n\nYesterday got an eMail (from DEALMAKER) saying my money was going to be refunded minus a handling fee,... WTF???\n\n\n\n**Hello,**\n\n\n\n**Over the past few months we have reached out to you on several occasions via email and phone in order to assist in completing your investment. At this time your investment is incomplete and we are unable to move forward with your investment approval.**\n\n\n\n**What does this mean for you?**\n\n\n\n**You will be receiving a refund back to your original payment method for your investment, minus the processing fee.**\n\n\n\n[https://energyx.app.dealmaker.tech/invitations/506c-offering/view](https://energyx.app.dealmaker.tech/invitations/506c-offering/view)\n\n\n\nBottom line basically not happy w/ DEALMAKER which takes care of the back office legal paper work for various crowdfunded startups (AND prior to yesterdays eMail, I didn't get any phone calls OR eMails about any problems w/  investment paperwork records in the startup EnergyX)\n\n\n\n[https://www.dealmaker.tech/](https://www.dealmaker.tech/)",
+        "created_utc": 1730552667.0,
+        "subreddit_name": "investing",
+        "comments": 3
+    },
+    {
+        "title": "Earnings notification automater",
+        "score": 0,
+        "url": "https://www.reddit.com/r/investing/comments/1ghu0hm/earnings_notification_automater/",
+        "content": "Does anyone know an app I can create a watchlist of stock tickers in, that will\n\nsend upcoming earnings report dates to my mobiel (apple) calendar? I looked at Schwab\n\nand they don't do this as far as I can tell. Schwab TOS mobile app has a calendar\n\nof upcoming earnings but you have to look up the ticker each time. I want this process\n\nautomated. Thanks.",
+        "created_utc": 1730545559.0,
+        "subreddit_name": "investing",
+        "comments": 2
     }
 ]
