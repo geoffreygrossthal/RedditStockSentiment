@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Would an All In Fund that only ever held the single largest stock have beaten global indices?",
+        "score": 82,
+        "url": "https://www.reddit.com/r/investing/comments/1e5k8n6/would_an_all_in_fund_that_only_ever_held_the/",
+        "content": "One of the arguments for investing in the S&P 500 is that it's cheaper (in the UK, net of tax) than global index funds, like the FTSE All-World. And you get most of the same risk-return profile, because the US stock market is the largest market.\n\nWhat if that logic was extended further?\n\nImagine a fund that only ever held one stock. The stock that had the largest market cap weighting in the (publicly listed) investment universe. It only ever traded (1) when the #1 stock changed, and (2) to reinvest dividends. Very few trades reduces holding costs to a minimum.\n\nToday, the all in fund would hold 100% AAPL.\n\n5 years ago, it held 100% MSFT.\n\nIn 1990, it held 100% XOM.\n\n[https://www.finhacker.cz/top-20-sp-500-companies-by-market-cap/](https://www.finhacker.cz/top-20-sp-500-companies-by-market-cap/)\n\nWould the fund have a better return than, say, the FTSE All-World, or the S&P 500? I expect the standard deviation to be (a lot) higher, but which would risk return ratios - Sortino, Martin, ... - favour?\n\nUPDATE\n\nMy thanks to [these commenters](https://www.reddit.com/r/investing/comments/1e5k8n6/comment/ldnyi7b/). Price return for the All In Index is easy to calculate. For the period 1990 - 2024 I get 12% PR annualized. Compared to 8% PR for the S&P 500.\n\nThe current beta for AAPL is 1.24. The Sharpe ratio is thus > 20% better.\n\nMy intuition for this question came from the statistical idea of representation. If there are any fund managers reading this, my DMs are always open.",
+        "created_utc": 1721228147.0,
+        "subreddit_name": "investing",
+        "comments": 65
+    }
+]

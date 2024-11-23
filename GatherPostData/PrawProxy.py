@@ -151,8 +151,8 @@ subreddit_names = ["stocks", "wallstreetbets", "investing", "stocks"]
 # Subreddit names (finance + stock-related + popular news)
 subreddit_names = [
     "stocks", "wallstreetbets", "investing",
-    "worldnews", "news",
+    "worldnews", "news", "technology"
 ]
 
 for subreddit_name in subreddit_names:
-    get_posts(subreddit_name=subreddit_name, time_filter='month', limit=3000)
+    get_posts(subreddit_name=subreddit_name, time_filter='year', limit=3000)

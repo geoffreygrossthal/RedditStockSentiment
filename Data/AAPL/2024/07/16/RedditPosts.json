@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Recent Intel Gaming Chips have >50% Failure Rate",
+        "score": 429,
+        "url": "https://www.reddit.com/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/",
+        "content": "It has been known for months that Intel's consumer desktop chips of the 13th and 14th generation are widely affected by stability problems. It was thought that these issues were caused by motherboard vendors pushing the chips above the voltage intended by Intel and this was what was causing the chips to fail. [Source](https://videocardz.com/newz/intel-addresses-instability-issues-with-13th-14th-gen-core-k-series-cpus-in-latest-statement)\n\nLast friday some investigative journalism by the youtuber [Level1Techs](https://www.level1techs.com/node/2958) revealed that these issues are not caused by running the chips out of Intel's specifications. He has failure reports from multiple cloud gaming providers which use the relevant chips in large numbers and well within spec. His aggregated data shows a failure rate of 50% per week of continuous running.  [Source](https://www.tomshardware.com/pc-components/cpus/13th-and-14th-gen-intel-cpu-instability-also-hits-servers) , [Further Reading](https://semiwiki.com/forum/index.php?threads/intel-13th-and-14th-gen-core-i9-stability-problems.20614/)\n\n\nI'm mostly making this post because I have not seen this being reported on outside of niche tech circles. Couldn't this mean a huge recall operation for Intel? A company already struggling to profit losing (tens-hundreds of)millions on a recall that also hurts consumer trust. I mean, as far as I understand the findings, this means all high-powered consumer chips Intel has sold for the last 2 years are slowly degrading and a lot of them could fail. [Call for a recall](https://www.techspot.com/news/103797-developer-alderon-games-intel-actually-selling-defective-crash.html)\n\nWhat impact could this have on the stock? (Disclose of relevant positions: AMD, NVDA, MU)",
+        "created_utc": 1721147975.0,
+        "subreddit_name": "stocks",
+        "comments": 99
+    }
+]

@@ -7,5 +7,23 @@
         "created_utc": 1707956054.0,
         "subreddit_name": "stocks",
         "comments": 499
+    },
+    {
+        "title": "Blackrock Vs Vanguard investment funds. Who owns the underlying companies. ",
+        "score": 41,
+        "url": "https://www.reddit.com/r/investing/comments/1arkuv9/blackrock_vs_vanguard_investment_funds_who_owns/",
+        "content": "I just learned this myself, a bit embarrassingly late, that vanguard is owned by it's investors. So in that case, if I invested in a vanguard fund, then I should also be the partial owner in the company in relation to my percentage ownership of the fund? Eg, if the fund owns 100 shares of apple, and I own 1 percent of the fund, then I own 1 share of apple. Of course in reality the ownership stake would be negligible. \n\nIs this actually true? And do we not get voting rights in each underlying company due to just how many there are and how insane it would be to tally every single investors vote for every single company, in say the SP500. Or is it because we only own a partial stake in vanguard and it means nothing for the underlying companies they invest in? If someone had a larger, majority stake in a vanguard fund, would they have voting rights, or am I missing something?\n\nNext question is about BlackRock. It's a public company. So if I invest in a BlackRock fund, who is the owner partially, of the underlying companies? Is it me indirectly through my stake in the fund, while the shareholders in BlackRock profit from the money BlackRock earns through charging me fees. Or is it the shareholders who own BlackRock and then BlackRock invests in companies with the money provided by investors?",
+        "created_utc": 1708018040.0,
+        "subreddit_name": "investing",
+        "comments": 33
+    },
+    {
+        "title": "First ever iOS trojan discovered — and it’s stealing Face ID data to break into bank accounts",
+        "score": 5363,
+        "url": "https://www.tomsguide.com/computing/malware-adware/first-ever-ios-trojan-discovered-and-its-stealing-face-id-data-to-break-into-bank-accounts",
+        "content": "",
+        "created_utc": 1708024714.0,
+        "subreddit_name": "technology",
+        "comments": 259
     }
 ]
