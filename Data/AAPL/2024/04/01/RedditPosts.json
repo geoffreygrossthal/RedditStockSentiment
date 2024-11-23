@@ -16,5 +16,14 @@
         "created_utc": 1711981194.0,
         "subreddit_name": "apple",
         "comments": 197
+    },
+    {
+        "title": "Has there been any indication that Apple has bought Nvidia H100s or B200/100s?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/AAPL/comments/1bthewg/has_there_been_any_indication_that_apple_has/",
+        "content": "I thought it was interesting that after many years of not mentioning each other at all after the MacBook Pro GPU failure spat, Jen-Hsun all of a sudden mentioned Apple a few times in as many days starting with the Vision Pro at GDC. When John Ternus and Jony Srouji were asked about if they were buying Nvidia chips they just said we can't say. Cramer even asked him how people could \"get right\" by Jen-Hsun and Jen-Hsun simply answered \"oh, everyone's already right by me\", indicating he'd work with anyone. \n \nAny major AI player that isn't is handicapping themselves by not using the massive ML libraries already built out for CUDA, which is the actual thing that makes Nvidia so sticky for training hardware more so than the hardware itself. \n\nSo I've been wondering, is there any inkling or scrap about what Apple's state of training compute actually is? We have Meta buying massive massive amounts of H100s, Microsoft Amazon and Google up there with massive training systems, everyone of substance seems to be, but we know so little about the state of Apple's training compute. Is there any hint out there?",
+        "created_utc": 1712009423.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
     }
 ]

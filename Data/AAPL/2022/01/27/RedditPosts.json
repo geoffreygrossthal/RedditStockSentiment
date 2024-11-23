@@ -7,5 +7,32 @@
         "created_utc": 1643309785.0,
         "subreddit_name": "apple",
         "comments": 938
+    },
+    {
+        "title": "Can just one trade a day be any good?",
+        "score": 275,
+        "url": "https://www.reddit.com/r/Daytrading/comments/sdyz6p/can_just_one_trade_a_day_be_any_good/",
+        "content": "Everyone wants a trading strategy that allows you to make 1 trade per day but still can beat the market. Here is an example of how that could be made.\n\n**The Strategy: Gap & Go for Biotech Stocks**\n\nI decided not to reinvent the wheel and just took the highly popularized Gap & Go strategy. The “Gap & Go” is looking for stocks gap up from the previous day's close price with the goal to follow an uptrend. I’m using biotech stocks as they tend to have higher volatility compared to other industries.\n\n&#x200B;\n\n[An example of the ideal setup the strategy is looking for](https://preview.redd.it/ll6javdnk8e81.png?width=3342&format=png&auto=webp&s=657ecf972c32299849d0a97d370f6f05afe29c26)\n\n**Screening Criteria**\n\n* Biotech Equities (I’m using iShares Biotechnology ETF $IBB as a list)\n* Up in the morning 3% or more\n* Are above pre-market high and yesterday’s high\n\n**Enter Criteria** (when to open a position)\n\n* Stock price is above EMA 9\n* Stock is going up and EMA 9 is going\n\n**Exit Criteria**(when to close a position)\n\n* Price crosses below EMA 9 and stays there for 3 bars\n* End of the same day\n* Trailing stop loss of 1.0%\n\n**Conditions**\n\n* $10,000 trading capital\n* Do not trade early close days\n* Only one trade per day\n* If no equities meet the screening or entry criteria, do not trade\n\n**The Results: +58% gain over one year**\n\nProfit **$5,801.4 |** Wins **48 |** Losses **49**\n\nLooks pretty decent but I think that’s just the beginning as I’m going to improve it even further by maybe looking at overall market conditions like $SPY behavior or news.\n\n&#x200B;\n\n[Results over a year](https://preview.redd.it/us2y2f3sk8e81.png?width=1418&format=png&auto=webp&s=87e84b846f68df35cb0e9c3d6e685f30e024d53d)\n\nShare what you think. How would you improve it?",
+        "created_utc": 1643291854.0,
+        "subreddit_name": "Daytrading",
+        "comments": 79
+    },
+    {
+        "title": "Apple posted an all-time revenue record of $123.9 billion, up 11% year over year.",
+        "score": 40,
+        "url": "https://www.apple.com/newsroom/2022/01/apple-reports-first-quarter-results/",
+        "content": "",
+        "created_utc": 1643320259.0,
+        "subreddit_name": "AAPL",
+        "comments": 33
+    },
+    {
+        "title": "#AAPL APPLE live earning call",
+        "score": 3,
+        "url": "https://youtu.be/BuWHN00CDAw",
+        "content": "",
+        "created_utc": 1643320556.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
     }
 ]

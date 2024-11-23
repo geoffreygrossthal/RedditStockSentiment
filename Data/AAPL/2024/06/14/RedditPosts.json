@@ -43,5 +43,23 @@
         "created_utc": 1718337418.0,
         "subreddit_name": "apple",
         "comments": 167
+    },
+    {
+        "title": "First 3 months of day trading - RESULTS",
+        "score": 167,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1dfu6w2/first_3_months_of_day_trading_results/",
+        "content": "Wanna start off by saying thanks to this community!\n\nI just finished my first 3 months (March 13 - June 13) of trading and I wanted to share my experience and PnL with you guys.\n\n**My Strategy**\n\nMostly scalp 0TDE SPY options for $.02 - $.10 on the premium, with a couple meme stocks thrown in as experimentation. I played around with what contracts to buy but ultimately settled on the 1st OTM contract that is around $.75 - $1.00. This is because I feel it has the best combo of Greeks for scalping after studying other people's findings with a similar strategy. I did not set S/L as instead I preferred to DCA a trade to try and get it green. If I DCA a trade it was manually when I felt it was right and if I exited at a loss it was also manually. This is just something I learned from BOT trading crypto a few years ago as my best PnL was DCA instead of S/L\n\n**My Results and Interesting Stats**\n\nPnL: **+138.5% | +$8,993.79**\n\nTotal Wins: **48**\n\nTotal Losses: **2**\n\nWin Percentage: **96%**\n\nTotal times DCA: **5 (4 wins, 1 loss)**\n\nTotal days I made trades: **28**\n\nAverage portfolio return per trade day: **4.95%**\n\nFavorite Win: **The 1 PUT I bought against AAPL because everyone said it would still go up but I knew better**\n\nFavorite Loss: **All of them because I learned something more valuable than the money I lost**\n\nBroker: **Robinhood**\n\n[https:\\/\\/app.stonkjournal.com\\/](https://preview.redd.it/y0296oryol6d1.png?width=2300&format=png&auto=webp&s=722667b04f88dd147f9b3b5d2df84c5e288ddad0)\n\n[https:\\/\\/app.stonkjournal.com\\/](https://preview.redd.it/d5dgezumuj6d1.png?width=2349&format=png&auto=webp&s=6057cfc76213b4ec181d168f7ab8968993c521bd)\n\n**What's next?**\n\nProbably just keep doing this as it seems to be working. Consider moving to another broker so I can do SPX instead. I also transferred 25% of my gains into a HYSA for taxes - I will be doing this every 3 months (assuming I stay profitable).",
+        "created_utc": 1718380537.0,
+        "subreddit_name": "DayTrading",
+        "comments": 168
+    },
+    {
+        "title": "Difference between r/AAPL and r/applestocks",
+        "score": 2,
+        "url": "https://www.reddit.com/r/AAPL/comments/1dfi8yb/difference_between_raapl_and_rapplestocks/",
+        "content": "Is there an difference in the types of post that are appropriate for one or the other?\n\nOr are these just two subs about the same topic, but with different mods?\n\n(One obvious difference: 5K members here, but only 2K over at r/applestocks",
+        "created_utc": 1718338568.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
     }
 ]

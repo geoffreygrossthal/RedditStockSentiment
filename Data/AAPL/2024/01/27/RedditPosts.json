@@ -43,5 +43,14 @@
         "created_utc": 1706377366.0,
         "subreddit_name": "apple",
         "comments": 152
+    },
+    {
+        "title": "how much of ATR does AAPL fill by weekday",
+        "score": 2,
+        "url": "https://www.reddit.com/r/AAPL/comments/1ac18ia/how_much_of_atr_does_aapl_fill_by_weekday/",
+        "content": "&#x200B;\n\nhttps://preview.redd.it/8t4nnyfajwec1.png?width=1080&format=png&auto=webp&s=f3361c7e294ef315c1d0842b5252733b29d35933\n\n**understanding range to ATR by weekday:**\n\nthis report zeroes in on how a stock moves in relation to its Average True Range (ATR - the average amount a stock will move in one day) for each day of the week. in simpler terms, it's about spotting differences in volatility between weekdays.\n\nif Monday generally moves 85.2% of ATR, and ATR is $3.2, you can expect a move of 2.7 for the day, 85.2% of $3.2 = $2.7. each weekday is different, some provide better opportunities than others.\n\n**why ATR matters:**\n\na stock's **range generally stays within its ATR**, don't hope for your trade to continue beyond the ATR, it happens but it's unlikely.\n\nrecognizing which days a stock is more or less volatile than its average can be a game-changer for trading strategy.\n\nif you know a stock typically moves less than its ATR on **Tuesdays** but covers its full ATR on **Thursdays**, you can tailor your expectations and strategies accordingly.\n\n**range to ATR:**\n\nFriday's average is 87.7%, and ATR is $3.2, you can expect AAPLto move $2.8 today.\n\n$2.8 is 87.7% of the $3.2 ATR\n\nin simple terms, ATR helps you set your entry & profit targets, find reversal points, and maximize winning trades. looking at this by weekday will help you refine your trading depending on the day of the week, they're all different.\n\nto make the most of your trades, blend ATR insights with other data on edgeful. trading's about getting the full view, and every bit of info helps perfect your edge.",
+        "created_utc": 1706326095.0,
+        "subreddit_name": "AAPL",
+        "comments": 0
     }
 ]

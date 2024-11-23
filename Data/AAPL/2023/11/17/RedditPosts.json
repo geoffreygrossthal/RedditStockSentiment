@@ -7,5 +7,14 @@
         "created_utc": 1700250056.0,
         "subreddit_name": "apple",
         "comments": 595
+    },
+    {
+        "title": "how to leverage AAPL's average range by weekday with its range to ATR by weekday to build a trading strategy tailored to daily movements",
+        "score": 5,
+        "url": "https://www.reddit.com/r/AAPL/comments/17xehok/how_to_leverage_aapls_average_range_by_weekday/",
+        "content": "&#x200B;\n\nhttps://preview.redd.it/o4nrdbm7mw0c1.png?width=1000&format=png&auto=webp&s=2ddc3828f729a872504030d564ddb3c9bcab8a59\n\nhttps://preview.redd.it/n3jvpbm7mw0c1.png?width=1000&format=png&auto=webp&s=923988c67d72d9c62124c7d85029439f3a7dfed0\n\nfor the sake of this example, let's focus on Friday. these reports show that on Friday's AAPL's average range is $2.75. this means that during market hours, the stock price will most likely fluctuate that amount. if we consider that on Friday's, the range to ATR (meaning how much of that $2.75 range the price tends to actually move) is 86.9%, we can estimate that the price will likely only move $2.38 on Friday's.  \n\n\nhow does this help you? well, if you know that on average, on Friday's, AAPL will most likely only move $2.38 - you can leverage those insights into your trading strategy to put the odds of a profitable trade in your favor.",
+        "created_utc": 1700225857.0,
+        "subreddit_name": "AAPL",
+        "comments": 0
     }
 ]

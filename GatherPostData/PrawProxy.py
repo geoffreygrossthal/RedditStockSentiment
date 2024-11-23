@@ -34,8 +34,8 @@ stock_tickers = [
     {
         "ticker": "AAPL",
         "keywords": [
-            "AAPL", "aaple", "apple", "NVDA", "iphone", "spy", "SPY", "FAANG", "faang", "Apple", "TimCook", 
-            "iPhone", "nvda",
+            "AAPL", "aaple", "apple", "iphone", "spy", "SPY", "FAANG", "faang", "Apple", "TimCook", 
+            "iPhone",
             "QQQ", "qqq", "iPad", "MacBook", "AppleWatch", "AirPods", "AppleTV", 
             "iOS", "macOS", "iCloud", "AppStore", "ApplePay", "AppleCard", "AppleMusic", "AppleArcade", 
             "AppleFitness", "AppleNews", "AppleBooks", "iTunes", "AppleRetail", "AppleSilicon", 
@@ -147,17 +147,15 @@ def post_saved(reddit_post, stock_ticker):
                     return True
     return False
 
-# Subreddit names (finance + stock-related + popular news)
-# subreddit_names = [
-#     "apple", "stocks", "wallstreetbets", "investing",
-#     "worldnews", "news", "technology"
-# ]
 # Subreddit names (finance + stock-related + popular news + tech)
 subreddit_names = [
-    "stocks", "wallstreetbets", "apple",
-    "worldnews", "news", "technology"
+    "AAPL"
 ]
+# subreddit_names = [
+#     "stocks", "wallstreetbets", "apple", "Daytrading"
+#     "worldnews", "news", "technology"
+# ]
 
 
 for subreddit_name in subreddit_names:
-    get_posts(subreddit_name=subreddit_name, time_filter='year', limit=500)
+    get_posts(subreddit_name=subreddit_name, time_filter='all', limit=3000)

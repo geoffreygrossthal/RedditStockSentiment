@@ -1,0 +1,11 @@
+[
+    {
+        "title": "having trouble finding a directional bias? here's how to find one using gap fills *not financial advice*",
+        "score": 3,
+        "url": "https://www.reddit.com/r/AAPL/comments/181bp5x/having_trouble_finding_a_directional_bias_heres/",
+        "content": "&#x200B;\n\nhttps://preview.redd.it/mqwrf9gy0x1c1.png?width=1000&format=png&auto=webp&s=f5af8ef34180c7807ae54885c7078aef336a90f3\n\ngap fills - what are they, and how can they help you? a gap fill is when a stock's price today reaches yesterday's closing price. here's an example. if $AAPL closed at $100 yesterday, opened at $110 today, and at some point during the day touched $100, the gap is considered 'filled'. simple enough?   \n\n\nnow let's explore gaps up and gaps down before moving on. gap up: when today's opening price is higher than yesterday's closing price (think - if $AAPL closed at $100 yesterday and opened at $110 today). gap down: when today's opening price is lower than yesterday's closing price (think - if $AAPL closed at $100 yesterday and opened at $90 today).  \n\n\nlet's explore how you can use the gap fill data on this chart to guide your directional bias. let's say you're building a trading strategy for Tuesday. we notice that if $AAPL gaps up, there's a 73% chance it'll fill, and if it gaps down, there's a 77% chance it'll fill. if the data shows that $AAPL has a strong tendency to fill the gap, how would you structure your trading strategy? ",
+        "created_utc": 1700666947.0,
+        "subreddit_name": "AAPL",
+        "comments": 0
+    }
+]

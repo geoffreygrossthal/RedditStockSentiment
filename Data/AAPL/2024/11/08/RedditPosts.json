@@ -574,5 +574,14 @@
         "created_utc": 1731026230.0,
         "subreddit_name": "investing",
         "comments": 14
+    },
+    {
+        "title": "Do you guys pay attention to call and put walls? ",
+        "score": 9,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1gmodbx/do_you_guys_pay_attention_to_call_and_put_walls/",
+        "content": "Do you guys pay attention to call and put walls? Right now it is 12.44pm market time. Which is the screen grab below. QQQ has done nothing so far today. This morning before market open I decided to take a look at the option chain for 0DTE on QQQ. I saw the first call wall was at $515 and the first put wall was at $510. So my vague plan was that if it dipped down to $510, I might consider going long for a scalp. So far the price action has stayed between those walls. Thoughts in general? BTW I did also notice SPY is seemingly pinned at just under $600 at the moment. \n\nhttps://preview.redd.it/ipoobagdspzd1.png?width=846&format=png&auto=webp&s=e7511ea4b34f086edce167278eb28a41674684de",
+        "created_utc": 1731087827.0,
+        "subreddit_name": "DayTrading",
+        "comments": 14
     }
 ]

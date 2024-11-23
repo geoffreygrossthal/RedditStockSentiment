@@ -7,5 +7,14 @@
         "created_utc": 1667142188.0,
         "subreddit_name": "investing",
         "comments": 256
+    },
+    {
+        "title": "How is Apple mitigating the risk of a Chinese invasion of Taiwan, which would render TSMC inoperable?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/AAPL/comments/yhhtsz/how_is_apple_mitigating_the_risk_of_a_chinese/",
+        "content": "TSMC has begun construction of a $12 billion fabrication plant, but that will not be ready for production until 2024.\n\nTSMC supplies Apple, as well as Nvidia, AMD, Qualcomm, Broadcom, and many others.\n\nI image that the most likely course of action would be for Apple to switch back to Intel (CPUs and GPUs) for its mac lineup, and perhaps Samsung for its iPhone lineup, as these two foundries would be most prepared for such types of processors at large volumes (maybe less so for Intel and its Arc graphics processors).\n\nHowever, those are just my thoughts (with not too much insight into the whole situation). Does anyone know any sources that discuss, in detail, Apple's contingency plan in the event of an invasion?\n\nThank you.",
+        "created_utc": 1667145599.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
     }
 ]

@@ -43,5 +43,14 @@
         "created_utc": 1705850938.0,
         "subreddit_name": "stocks",
         "comments": 350
+    },
+    {
+        "title": "a breakdown of AAPL's green & red streaks in the past year",
+        "score": 4,
+        "url": "https://www.reddit.com/r/AAPL/comments/19bvao1/a_breakdown_of_aapls_green_red_streaks_in_the/",
+        "content": "&#x200B;\n\nhttps://preview.redd.it/ytvfajh03qdc1.png?width=1080&format=png&auto=webp&s=84235b99cf1fba9eb7bf06518b9d5be690706a55\n\nhttps://preview.redd.it/yw9f7jh03qdc1.png?width=1080&format=png&auto=webp&s=6c295488bb891273124c8f73a8817a119cea1042\n\n**understanding consecutive bars report:**\n\na ‘consecutive green (or red) streak‘ is a series of green (or red) candles. each of these candles represents a time frame where the closing price is higher (or lower) than its opening price. when you see these green candles line up one after the other, it's an indication of momentum.\n\ntraders pay close attention to these streaks as they can provide valuable insights. they reveal not only the strength of the current bullish (or bearish) trend but also hint at its potential to continue. monitoring these streaks helps in understanding market dynamics and making informed decisions.\n\n**why consecutive green & red bars matter:**\n\nrecognizing a stock's streak patterns hints at its momentum, potentially helping traders anticipate if a trend might continue or reverse.\n\nlonger streaks, either green or red, might indicate stronger market sentiment in a particular direction.\n\n**green streak**\n\nAAPL's longest streak of green 15min candles in a day is, on average, 4.20. the max consecutive 15min candles in the last 1 year is 11 candles.\n\n**red streak**\n\nAAPL's longest streak of red 15min candles in a day is, on average, 3.71. the max consecutive 15min candles in the last 1 year is 10 candles.\n\n**pro tip:**\n\nthis doesn't mean buy and sell if when you're coming up on the averages, but it's something to keep in mind when you're looking to set entries, exits, and stop losses. if you're a scalper, you don't want to takes trades hoping for moves farther out then the averages, it'll likely reverse on you. if you day trade, the pullback could be a great opportunity to add to a winning position if the momentum is strong enough in the direction of your trade.",
+        "created_utc": 1705812353.0,
+        "subreddit_name": "AAPL",
+        "comments": 0
     }
 ]

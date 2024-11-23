@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Can pre-market tell you anything: a quantitative study",
+        "score": 271,
+        "url": "https://www.reddit.com/r/Daytrading/comments/suy2jj/can_premarket_tell_you_anything_a_quantitative/",
+        "content": "Pre-market is an exiting time when you start looking at your screens to check what's going on. There is a lot of information to consume: news, reports, charts... you can continue the list. In this study I explore if price movement in pre-market can provide any indications of how the day is going to look like.\n\nThere are 3 setups I tested from 2015 to 2022\n\n* Up 1%+ in pre-market\n* Down 1%+ in pre-market\n* Flat in pre-market (open and close are within 0.1%)\n\n[Example of the setup for 1&#37; in pre-market](https://preview.redd.it/zb2261wt7gi81.png?width=2084&format=png&auto=webp&s=572cb4393f6b4770496770bac4e4ad6659a285de)\n\n**Trading Conditions**\n\n* $10,000 to trade daily\n* Trading only $SPY\n* Buy at 9:30 if condition is met\n* Do not trade on early close days\n\n**The Results**\n\n[Cumulative gain by year for each setup ](https://preview.redd.it/b8opvdwoagi81.png?width=1094&format=png&auto=webp&s=e8c32c5f22c20cc6b775e17c8828e36fca110768)\n\nPS: This post is for fun and educational purposes only with no attempt to beat buy and hold. Do not use this is a trading/investment advice.",
+        "created_utc": 1645128715.0,
+        "subreddit_name": "Daytrading",
+        "comments": 29
+    }
+]

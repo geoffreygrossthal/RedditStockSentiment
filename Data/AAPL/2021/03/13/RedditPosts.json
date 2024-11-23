@@ -7,5 +7,59 @@
         "created_utc": 1615597863.0,
         "subreddit_name": "apple",
         "comments": 1169
+    },
+    {
+        "title": "How I had my First 4-digit Profit Trading Day Using Options",
+        "score": 623,
+        "url": "https://www.reddit.com/r/Daytrading/comments/m4bahl/how_i_had_my_first_4digit_profit_trading_day/",
+        "content": "Well this week, I finally made $1,000 not once, but twice. I'm going to explain my strategy I used because I have not seen it browsing through this forum. The only security I played this week was SPY and I only used call options. I only purchased 10-15 contracts per trade, roughly $1,200-$2,200. I traded primarily in the first 3 hours of the day. Here's how I did it. \n\nTo start off, this trading strategy is pretty simple. The primary focus is on VWAP. When SPY goes below VWAP, especially in the first two hours, I scale into contracts as it goes down. When it breaks VWAP, I scale out as I see weakness in the trend. I will include screenshots of entry/exit points of trades I made. I went back a month to simulate when I would enter/exit positions and I was surprised to find that I would have been green on about 80% of trades I made.\n\nHere are the trades I made on Friday:\n\n [b578fd36a75a0d5c78e9c287b2e0b2fa.png (1655×1014) (gyazo.com)](https://i.gyazo.com/b578fd36a75a0d5c78e9c287b2e0b2fa.png) \n\nThe green ovals are entry points, the red are exit points. I was profitable on 100% of the trades I took on this day. \n\nOn Wednesday I didn't make a trade until one hour after open:\n\n [ffbabfe03426f526ede52af84f5861ea.png (1655×1013) (gyazo.com)](https://i.gyazo.com/ffbabfe03426f526ede52af84f5861ea.png) \n\nThe first trade I noticed that VWAP was acting as a strong resistance, so I sold below it. I wanted my first trade to be quick and profitable so when it was near VWAP I exited my position. This is one of my rules for the strategy. If I notice VWAP acting as a strong resistance, I will sell and look to re-enter. \n\nThis week was really great. I was profitable on 100% of the trades I made using this strategy. I think this is due to luck and market conditions. Obviously, the market was up. The conditions were perfect because VWAP acted as a magnet. I noticed one day a few weeks ago where SPY never went back over VWAP.  I didn't trade with this strategy that day. However, my risk level is quite high and this a downside to this strategy. On a bad day when SPY doesn't cross over VWAP, there can be big losses. Everyone should set their own risk levels.\n\nEdit: forgot to mention strike price/expiration. I use the closest to expiration options and nearest strike price. For example, if Friday the price was at $391.78 I would buy 3/12 $392 calls. I draw my own trend lines and use candle stick patterns for entry points. No other indicators, but I keep an eye on RSI and 9 SMA",
+        "created_utc": 1615657651.0,
+        "subreddit_name": "Daytrading",
+        "comments": 211
+    },
+    {
+        "title": "Apple move to their own chipset will save Billions of Dollars each year - and therefore increased profit margins",
+        "score": 42,
+        "url": "https://9to5mac.com/2020/11/18/apples-move-to-m1/amp/",
+        "content": "",
+        "created_utc": 1615670628.0,
+        "subreddit_name": "AAPL",
+        "comments": 18
+    },
+    {
+        "title": "Apple is a great buy right now!!! Don’t miss the 🌊🌊🌊",
+        "score": 18,
+        "url": "https://financhill.com/stock-forecast/aapl-stock-prediction",
+        "content": "",
+        "created_utc": 1615678988.0,
+        "subreddit_name": "AAPL",
+        "comments": 6
+    },
+    {
+        "title": "Apple rolling out new AirPods along with accessories and faster chips for the Mac. Event coming in the next two weeks. Now’s the time 🚀🚀🚀. It's time for Apple to make its own accessories for AirPods",
+        "score": 13,
+        "url": "https://9to5mac.com/2021/03/12/comment-time-for-apple-to-make-airpods-accessories/",
+        "content": "",
+        "created_utc": 1615678118.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
+    },
+    {
+        "title": "Apple M1 Chip: Everything You Need to Know",
+        "score": 11,
+        "url": "https://www.google.com/amp/s/www.macrumors.com/guide/m1/amp/",
+        "content": "",
+        "created_utc": 1615676677.0,
+        "subreddit_name": "AAPL",
+        "comments": 0
+    },
+    {
+        "title": "Top Stories: Apple Event Rumored for March 23, iMac Pro and HomePod Discontinued, and More",
+        "score": 9,
+        "url": "https://www.macrumors.com/2021/03/13/top-stories-apple-event-rumor-march-23/",
+        "content": "",
+        "created_utc": 1615677672.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
     }
 ]

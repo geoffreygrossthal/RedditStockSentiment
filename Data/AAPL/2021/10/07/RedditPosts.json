@@ -7,5 +7,14 @@
         "created_utc": 1633628153.0,
         "subreddit_name": "apple",
         "comments": 319
+    },
+    {
+        "title": "Provides sentiment scores of $AAPL every hour from around 20 sources",
+        "score": 5,
+        "url": "https://www.reddit.com/r/AAPL/comments/q3ce0x/provides_sentiment_scores_of_aapl_every_hour_from/",
+        "content": "Please check out the twitter bot [AAPLinsight](https://twitter.com/AAPLinsights) I launched today that focus on providing sentiment scores on $AAPL. I broke down my approaches in three categories: Apple Products, Company News and Social Media. These sentiment scores come from around 20 different sources in the web.\n\n&#x200B;\n\nhttps://preview.redd.it/58pf89c2y1s71.jpg?width=1284&format=pjpg&auto=webp&s=97900aee85dd6657e048b9be4e8ee2b45db2b0a8",
+        "created_utc": 1633622895.0,
+        "subreddit_name": "AAPL",
+        "comments": 2
     }
 ]

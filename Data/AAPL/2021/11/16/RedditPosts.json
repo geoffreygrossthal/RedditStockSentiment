@@ -7,5 +7,14 @@
         "created_utc": 1637069858.0,
         "subreddit_name": "stocks",
         "comments": 957
+    },
+    {
+        "title": "Historically most gains happen overnight for $SPY",
+        "score": 234,
+        "url": "https://www.reddit.com/r/Daytrading/comments/qv67t2/historically_most_gains_happen_overnight_for_spy/",
+        "content": "There is an interesting article back from 2018 that says\n\n>If you had bought the SPY at the last second of trading on each business day since 1993 and sold at the market open the next day — capturing all of the net after-hour gains — your cumulative price gain would be 571%  \n>  \n>On the other hand, if you had done the reverse, buying the ETF at the first second of regular trading every morning at 9:30 a.m. and selling at the 4 p.m. close, you would be down 4.4%\n\nI have backtested the same for 2020 and 2021, see the results below. Every day I was buying/selling just 1 share of $SPY.\n\n|Year|Buy at open, sell at close|Buy at close, sell at open|\n|:-|:-|:-|\n|2020|$4.88|$45.42|\n|2021|$36.82|$53.92|\n\nDisclaimer: all calculations made using BreakingEquity",
+        "created_utc": 1637063857.0,
+        "subreddit_name": "Daytrading",
+        "comments": 53
     }
 ]

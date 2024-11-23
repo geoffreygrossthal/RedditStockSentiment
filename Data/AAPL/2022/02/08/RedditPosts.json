@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Most gains for $SPY happen overnight: a quantitative study",
+        "score": 469,
+        "url": "https://www.reddit.com/r/Daytrading/comments/sni79k/most_gains_for_spy_happen_overnight_a/",
+        "content": "There is an  article back from 2018 that says that most gains for $SPY happen overnight stating that you could have done overnight hold since 1993 and be more profitable than running the same by marker hours.\n\nI thought why not to review this thesis in a bit more detailed way. I set a simple backtest that is not going back to 1993 but rather just  to Jan 1, 2010, holds overnight and sells in the morning.\n\n**The Setup**\n\n* $10,000 to trade daily (nightly actually)\n* Trading only $SPY\n* Buy at 3:59 using a market order\n* Sell at 9:30, 9:31, 9:32, 9:33, 9:34, 9:35 (let's see which one does better) using a market order\n* Do not trade on early close days\n\n[Strategy setup](https://preview.redd.it/hnkgjkb0jlg81.png?width=2468&format=png&auto=webp&s=aa942219dcd8b094e0e6d953d4a6b4a646b507ac)\n\n**The Results**\n\n[Cumulative gain since Jan 1, 2010](https://preview.redd.it/dgxff1z4jlg81.png?width=1220&format=png&auto=webp&s=3fe0c414fdccd5db3615c6e501871a8438dfe5f4)\n\n[Gain by year](https://preview.redd.it/6thwzrj8jlg81.png?width=1864&format=png&auto=webp&s=8eb4cda196305b3b4fc3430c737b9f80ba3e77d1)\n\nPS: This post is for fun and educational purposes only with no attempt to beat buy and hold. Do not use this is a trading/investment advice.",
+        "created_utc": 1644320415.0,
+        "subreddit_name": "Daytrading",
+        "comments": 66
+    },
+    {
+        "title": "Apple unveils contactless payments via Tap to Pay on iPhone — Apple Newsroom",
+        "score": 14,
+        "url": "https://stocks.apple.com/APClMMtzARyWhntsKKwi8oQ",
+        "content": "",
+        "created_utc": 1644335103.0,
+        "subreddit_name": "AAPL",
+        "comments": 4
+    }
+]

@@ -7,5 +7,14 @@
         "created_utc": 1644051190.0,
         "subreddit_name": "stocks",
         "comments": 386
+    },
+    {
+        "title": "The simplest trading strategy: a quick study",
+        "score": 252,
+        "url": "https://www.reddit.com/r/Daytrading/comments/slahri/the_simplest_trading_strategy_a_quick_study/",
+        "content": "Weekends may be boring, at least some times. I decided to share a simple study for those who are into numbers.\n\nWhat is the simplest trading strategy? I thought the following has a pretty good chance to be the one: \"buy and open and sell at the end of the day\". Below is a study for the strategy since 2010.\n\n**The Setup**\n\n* $25,000 to trade daily (assuming you would have 25K in margin at least)\n* Trading only $SPY\n* Buy at open using a market order\n* Sell at close using a market order\n* Do not trade on early close days\n\n[Simplest trading strategy setup](https://preview.redd.it/wklp6b4ef1g81.png?width=2940&format=png&auto=webp&s=bf42eed3cefbb154608b2b279b2a7926edd97d25)\n\nSince I'm testing the simplest strategy I decided to test a couple of stop loss variations\n\n* Stop loss 1%\n* Trailing Stop Loss 1%\n* Trailing Stop Loss 2%\n\n...and conditions for entry. Only trade when stock is:\n\n* Above SMA 100 on daily chart\n* Above SMA 200 on daily chart\n\n**The Results**\n\n[Cumulative gain since Jan 1, 2010](https://preview.redd.it/xk4iw7prf1g81.png?width=916&format=png&auto=webp&s=87590f5c0de0fc83a5230114e238d8abd1d31b38)\n\n[Gain by year \\(no stop loss\\)](https://preview.redd.it/pyqtspx8g1g81.png?width=1252&format=png&auto=webp&s=020e862e0630d181a37481a1cf67480da7fa194d)\n\nPS: This post is for fun and educational purposes. Do not trade like this.",
+        "created_utc": 1644077515.0,
+        "subreddit_name": "Daytrading",
+        "comments": 46
     }
 ]

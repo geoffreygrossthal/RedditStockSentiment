@@ -16,5 +16,59 @@
         "created_utc": 1614249542.0,
         "subreddit_name": "apple",
         "comments": 1208
+    },
+    {
+        "title": "I have backtested 5000+ stocks for overnight strategy last 2 years",
+        "score": 855,
+        "url": "https://www.reddit.com/r/Daytrading/comments/ls6l3i/i_have_backtested_5000_stocks_for_overnight/",
+        "content": "How much would you make if you bought at the day's Close and sell next day at Open, nightly strategy?\n\nI wondered so I wrote backtest to test all the active stocks from 2019-01-01.\n\nStocks that are younger than that are not included in the backtest. \n\nGetting so much data can be finnicky so I did 2 runs:\n\n- adjusted price (for splits and dividends)\n- not adjusted price\n\n\nThere will be some discrepancies between those 2, but other than stock HCHC I didn't find big ones.\n\n\nThere's a lot of data so please take a look yourself:\n\n**Sheet:**\n\n- https://docs.google.com/spreadsheets/d/1SM2hRW_xb-u1R9ItfBNfZi8lKvBTcfkhsczSzQtkhoU/edit?usp=sharing\n\n\n**Charts:**\n\nEach stock has their own chart with 3 benchmarks: \n\n- SPY buy and hold\n- stock buy and hold\n- stock daily trade: buy at Open sell at Close\n\nCharts are also divided for adjusted and not adjusted prices\n\n*Adjusted:*\n\n- https://drive.google.com/file/d/18lUGfTyOx6dyWkYne7zah3b6466Yaca2/view?usp=sharing\n\n*Not adjusted:*\n\n- https://drive.google.com/file/d/1kLYV3dzMW0wOz508eDb_Eezle53S9vBr/view?usp=sharing\n\n\nThere you go, let me know if you find something interesting.\n________________________________________________________________________\n*Edit: I did not make these trades, last 2 years means I took data from 2 years ago till today*\n    \n*P.S. write down your backtesting requests and I'll see to fulfill if have time.*",
+        "created_utc": 1614259710.0,
+        "subreddit_name": "Daytrading",
+        "comments": 255
+    },
+    {
+        "title": "My year end price projections for aapl: $193-$232",
+        "score": 16,
+        "url": "https://www.reddit.com/r/AAPL/comments/lsd85u/my_year_end_price_projections_for_aapl_193232/",
+        "content": "Based on Earnings and forward looking growth sales, services, low interest rate, 10 yrs T-Yields under 3, loyal customers base world wide and new products down the pipeline -- not even including potential EV market deals.",
+        "created_utc": 1614277619.0,
+        "subreddit_name": "AAPL",
+        "comments": 37
+    },
+    {
+        "title": "Apple makes a deal with Target.",
+        "score": 10,
+        "url": "https://www.reuters.com/article/us-target-apple/target-to-expand-apple-offerings-in-stores-and-online-idUSKBN2AP1TI",
+        "content": "",
+        "created_utc": 1614262399.0,
+        "subreddit_name": "AAPL",
+        "comments": 9
+    },
+    {
+        "title": "Well f@ck me",
+        "score": 6,
+        "url": "https://www.reddit.com/r/AAPL/comments/lsjd12/well_fck_me/",
+        "content": "These last few weeks have been so incredibly painful. I personally think it’s rotation plus the large pile of cash they have. Large piles of cash might not be best thing during inflationary period. Also, it’s my understanding that bonds going up probably affecting. Seems the pros shorted bonds and bought stocks… bonds go up then they have to sell the stocks to cover. But what the hell do I know. I was lucky enough to buy apple at various points in my life. Not smart… just lucky.",
+        "created_utc": 1614293833.0,
+        "subreddit_name": "AAPL",
+        "comments": 15
+    },
+    {
+        "title": "The more shares you can accumulate at these dips and low levels, the more profitable you are @ end of year.",
+        "score": 7,
+        "url": "https://www.reddit.com/r/AAPL/comments/lsb15z/the_more_shares_you_can_accumulate_at_these_dips/",
+        "content": "IMO\n\nWhen trends are not there and time is killing options plays, get into shares and not wasting opportunitie$.\n\nAapl is fundamentally strong, nothing have changed.",
+        "created_utc": 1614271978.0,
+        "subreddit_name": "AAPL",
+        "comments": 1
+    },
+    {
+        "title": "Apple vs Tessa vehicles",
+        "score": 2,
+        "url": "https://www.reddit.com/r/AAPL/comments/lrrhf7/apple_vs_tessa_vehicles/",
+        "content": "If you had a choice to own a tesla or a apple vehicle which would you choose? Trying to determine whether or not to put more money into Tesla or Apple right now. Any thoughts on the matter",
+        "created_utc": 1614212570.0,
+        "subreddit_name": "AAPL",
+        "comments": 7
     }
 ]

@@ -34,5 +34,23 @@
         "created_utc": 1710308779.0,
         "subreddit_name": "apple",
         "comments": 126
+    },
+    {
+        "title": "AAPL needs a CPR",
+        "score": 9,
+        "url": "https://www.reddit.com/r/AAPL/comments/1bdslhl/aapl_needs_a_cpr/",
+        "content": "It’s unconscious. Something needs to resuscitate it before it is completely dead.",
+        "created_utc": 1710339509.0,
+        "subreddit_name": "AAPL",
+        "comments": 35
+    },
+    {
+        "title": "69% of gaps down that fill CLOSE RED for AAPL",
+        "score": 2,
+        "url": "https://www.reddit.com/r/AAPL/comments/1be69nv/69_of_gaps_down_that_fill_close_red_for_aapl/",
+        "content": "&#x200B;\n\nhttps://preview.redd.it/ljyzj240p6oc1.png?width=1080&format=png&auto=webp&s=ea892f885381f17c762075ea9a03e4d2bee78424\n\nthis report looks at AAPL's gap fill data to see how often gaps down that fill closed green or red and how often gaps up that fill closed green or red in the past 3 months.\n\nwhat I found most useful from this report was that 69% of gaps down that filled closed red, meaning they closed below yesterday's closing price.\n\nyou can use this to set your entries and exits for the day when building a trading strategy.",
+        "created_utc": 1710372282.0,
+        "subreddit_name": "AAPL",
+        "comments": 0
     }
 ]

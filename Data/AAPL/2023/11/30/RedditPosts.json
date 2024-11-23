@@ -34,5 +34,14 @@
         "created_utc": 1701323316.0,
         "subreddit_name": "apple",
         "comments": 335
+    },
+    {
+        "title": "average true range (ATR): what is it, and how can you use it to trade $AAPL?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/AAPL/comments/187qsnu/average_true_range_atr_what_is_it_and_how_can_you/",
+        "content": "&#x200B;\n\nhttps://preview.redd.it/sbfexser6j3c1.png?width=1000&format=png&auto=webp&s=2e66960caa910fabf7e0553fd52ce46a022d1077\n\nwhat is average true range (ATR)? ATR is essentially the high & the low of a stock on any given day. so let's say ATR is $10 - you can expect the high to the low to have a range of $10, roughly.   \n\n\nnow let's look at what it means for a stock to exceed and respect a $10 ATR. if ATR is respected, it means the price moves less than $10 and if ATR is exceeded, it means the price moves more than $10.   \n\n\nin the example with $AAPL here, we can see that on average, on Thursday's, ATR gets respected 68% of the time on Thursday's and gets exceeded 38% of the time on Thursday's.   \n\n\nin simple terms, looking at ATR helps you set your entry & profit targets, find reversal points and maximize winning trades. ",
+        "created_utc": 1701372462.0,
+        "subreddit_name": "AAPL",
+        "comments": 1
     }
 ]

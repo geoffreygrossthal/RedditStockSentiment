@@ -493,5 +493,32 @@
         "created_utc": 1730558942.0,
         "subreddit_name": "wallstreetbets",
         "comments": 60
+    },
+    {
+        "title": "“NYSE To Extend Trading To 22 Hours” —> what will this do to early market volatility? ",
+        "score": 19,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1ghz498/nyse_to_extend_trading_to_22_hours_what_will_this/",
+        "content": "I trade early market volatility on the QQQ’s and worry this will smooth the markets out. \n\n\n“NYSE To Extend Trading To 22 Hours” —> what will this do to early market volatility? \n\n\nHere’s the article:  https://www.investors.com/news/nyse-extend-trading-22-hours-robinhood-tesla/",
+        "created_utc": 1730561715.0,
+        "subreddit_name": "DayTrading",
+        "comments": 33
+    },
+    {
+        "title": "SPY Intraday Data - Analysis 2/28/23-11/01/24",
+        "score": 7,
+        "url": "https://i.redd.it/c1n4tbzk5fyd1.jpeg",
+        "content": "Been compiling highs and lows I ready on SPY for awhile now and just created this table this week showing the potential outcomes of where the highs and lows will hit during the day. \n\nFirst table (master table): shows how many  times a specific time range held its respective high of day (HOD) and low of day (LOD).  As you can see, everything is color coded. The most common scenario is a LOD between 9:30-10:30 and a HOD between 3:01-4:00; specifically 71 times this has occurred in the last 424 trading days. This goes in hand with the bottom/last table that reflects the percentages/liklihood to occur.\n\n\nThe second table shows an even more specific breakdown. Let’s say you are confident we’ve hit the HOD at 10:40 for the day. This second table gives you additional insight on which timeframe you LOD is likely to hit. For example, let’s say it’s 11:30 in the morning and our current LOD is when market opened at 9:30 (and we hit our HOD at 10:40) we may assess that we won’t hit a new LOD because there’s a 31.58% chance that it’ll remain in that timeframe (9:30-10:30) OR you may assess we could hit a new LOD later on in the day as historical support shows that we have a 15.79%, 13.16%, 13.16%, and 26.32% (the timeframes we haven’t gotten to yet). \n\nThe third table is the same concept as the second table but it’s just the opposite and focuses on LOD.\n\nThis of course doesn’t show you the whole picture as price action, news, volume, and many other things play a part of how SPY moves. But I do plan on using this to guide me in my conviction for future trades \n\nLet me know if you guys have any questions and if you have an ideas recommendations to show more data",
+        "created_utc": 1730523077.0,
+        "subreddit_name": "DayTrading",
+        "comments": 0
+    },
+    {
+        "title": "Trading index tracking ETFs ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1gi8lw6/trading_index_tracking_etfs/",
+        "content": "I'd like to start trading index-tracking ETFs (like SPY) with the intention of predicting & capitalizing on broad market movements. I imagine I'll trade a few times a week, possibly intraday on volatile ones. What's the best platform to do this? Also I'm kind of a noob so any insight would be helpful. I probably have some blindspots and would appreciate anything you can tell me to make me aware of and avoid common mistakes.",
+        "created_utc": 1730587686.0,
+        "subreddit_name": "DayTrading",
+        "comments": 2
     }
 ]

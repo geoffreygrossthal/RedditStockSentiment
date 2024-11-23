@@ -7,5 +7,14 @@
         "created_utc": 1605116814.0,
         "subreddit_name": "investing",
         "comments": 132
+    },
+    {
+        "title": "I created an app that helps you practice trading",
+        "score": 435,
+        "url": "https://www.reddit.com/r/Daytrading/comments/jsd3p9/i_created_an_app_that_helps_you_practice_trading/",
+        "content": "A few days back [I asked if people would be interested in an app that helps practice trading](https://www.reddit.com/r/Daytrading/comments/jqas56/would_anyone_be_interested_in_an_app_that_helps/), and the response was positive.\n\nThere were some existing app suggestions made:\n\n* Most of them were some form of paper-trading, which is not at all what I was looking for, because it has a very slow feedback loop (make a trade, wait for hours/days).\n* Most notable was TD Ameritrade On-Demand feature, and then some smaller apps, but I wanted something that's super easy/quick to start with and use.\n\n**I wanted something that combines all the things that I'm looking for:**\n\n* **Quick start in seconds - no download, install, registration, etc.** \n* **Easy to use UI/UX.**\n* **Minimal bias - accomplished by picking random asset/time and hiding them.**\n* **Make trades and fast forward time for a super quick feedback/learning loop.**\n\n[**So I created it - TradingGYM**](https://tradinggym.app/)**. It's an early version, but I wanted to get the MVP out ASAP and see if this is useful to other traders as well.**\n\nFor now, all the assets included are Crypto, since I already had the data and that's the asset class I'm most familiar with. Let me know how much interest there is in other classes.\n\nThe Mobile version has a more lightweight UI, but in Desktop you can change some settings like candle size and commission.\n\nAny suggestions are very much welcome. Super interested to see if this helps anyone improve their performance.",
+        "created_utc": 1605117730.0,
+        "subreddit_name": "Daytrading",
+        "comments": 93
     }
 ]

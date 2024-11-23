@@ -367,5 +367,41 @@
         "created_utc": 1732305297.0,
         "subreddit_name": "investing",
         "comments": 1
+    },
+    {
+        "title": "Bullish Divergence - $SPY",
+        "score": 6,
+        "url": "https://i.redd.it/g3ews1tend2e1.jpeg",
+        "content": "Still think we are heading towards $600 before the end of November. Anyone think the same? \n\nWanted to share the trade I took today and why. Divergences are one of the main strategies I use on a daily basis, and we had a bullish divergence play out about an hour after market open today. \n\nSo, if you look on the chart, we’re making new lows on every dip, but on the TSI at the bottom, we’re making higher lows. This ALWAYS indicates to me that price may reverse. \n\nWhen I get a signal, I take the trade, this one ended up being a perfect scenario because the signal came as it was crossing through VWAP and the 200ma (Another confluence/confirmation) \n\nRode this for around 35% today. Hope this is simple enough to understand, if you have any questions let me know. Let’s end the week strong fellas! ",
+        "created_utc": 1732248249.0,
+        "subreddit_name": "DayTrading",
+        "comments": 3
+    },
+    {
+        "title": "Paradoxical Movement Following News",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1gxj9nd/paradoxical_movement_following_news/",
+        "content": "I’ve been day/swing trading for many years now, and time and time again I notice a strange phenomenon. When news or a catalyst is released about a stock or the market they tend to react in the exact opposite way for the next few days. \n\nPerfect example, NVDA. Earnings were a success, and please let’s not argue this point. It got price upgrades from literally 30 analysts and every major Wall Street firm. This is not subjective, it’s objective, this was a good earnings report. And yet, the immediate reaction has been largely negative. \n\nI don’t think this is a buy the rumor sell the news situation because the price action has been neutral the last couple of weeks. For the same reason, I don’t think there was extreme optimism baked in or buyers who got caught out of position. Those are the likely suspects for a paradoxical reaction to good news, and they don’t exist here. Frankly, they don’t exist in many plays that react the opposite way to news. \n\nAnyone have any ideas, preferably people who have noticed this phenomenon before and pondered it? Maybe even someone who’s worked on Wall Street and executed such a strategy. \n\nMy first thought is this is a zero sum game, and the market makers and algos are just looking to punish retail traders. The pain trade, in other words. And I would suspect the pain trade is certainly down in this case. \n\nI’ve never been entirely comfortable with that idea though, the pain trade. Yes, it makes sense, and certainly seems to exist, but it doesn’t provide a particularly good explanation for why that happens. It’s like saying a football team won a game because they were the better team. What are the mechanics behind the pain trade? Without knowing how or why pain trades pop up so frequently that information feels worthless in figuring out when they will occur. \n\nOr maybe there’s some other reason? I don’t know. What I do know is that time and time again I see the same thing happen: good news comes out and we plummet, bad news comes out and we leap higher. There is a reason and mechanism for this, and man oh man I’d like to know what it is.",
+        "created_utc": 1732311941.0,
+        "subreddit_name": "DayTrading",
+        "comments": 1
+    },
+    {
+        "title": "[Noob] why did the premium price drop hard even though stock price increased?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1gxfpzh/noob_why_did_the_premium_price_drop_hard_even/",
+        "content": "Hi all, I've recently started paper trading to get a hang of it and noticed the price drop significantly.\n\n\nPrice of AAPL at the time: 229.75\nStrike price: 230\nPrice of call: 0.36\nExpiration at time: same day in ~4 hours (today)\n\n\nThe price got to about 230 with the option going to 0.40.\n\nHowever within 20 minutes the price dropped to 0.27 even though the stock price increased to ~230.40\n\n\nWhy did it drop so hard even though stock price increased? Is it simply due to the little amount of time left till expiration and it not being worth to exercise the contract due to very little profit?",
+        "created_utc": 1732302702.0,
+        "subreddit_name": "DayTrading",
+        "comments": 1
+    },
+    {
+        "title": "Help me get started",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Daytrading/comments/1gxe5w4/help_me_get_started/",
+        "content": "Hello everyone,ı want to start day trading but ı dont know how to start,which steps ı should take,reading candlestick charts is a truth or a lie? My interest in bitcoin started last year,ı installed \"StormGain\" on my phone and open a demo account there. ı play a bit,lose the demo money and try to understand how an position,leverage and bitcoin itself work. At the start it wasnt the best,ı just made the leverage 400x and lost really hard but ı knew ı would lost so ı didnt used real money. then ı buy buy and buy again and my last 5 positions were all above +500,ı saw +4500 once and +2000 twice thanks to USA elections. I want people who read this to give me a little bit of their time,tell me about how could ı do it,which networks or apps ı can use,where can ı learn candlestick charts. it is alright if you dont know a lot like me,feel free to comment,ı read all of them. have a nice day! \n\n  \nOP note: ım under 18 and dont have a bank account,please have this in mind when commenting\n\n",
+        "created_utc": 1732298781.0,
+        "subreddit_name": "DayTrading",
+        "comments": 2
     }
 ]
