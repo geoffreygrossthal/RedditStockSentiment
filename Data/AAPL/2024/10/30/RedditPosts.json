@@ -304,5 +304,473 @@
         "created_utc": 1730269223.0,
         "subreddit_name": "apple",
         "comments": 34
+    },
+    {
+        "title": "Cyberpunk 2077 is confirmed next year for mac",
+        "score": 827,
+        "url": "https://i.redd.it/jx8kp2gewwxd1.jpeg",
+        "content": "In Recently released announcement video for macbook pro apple officially confirmed cyberpunk 2077 for mac early next year. Time stamp -(10:17)",
+        "created_utc": 1730302065.0,
+        "subreddit_name": "mac",
+        "comments": 83
+    },
+    {
+        "title": "Absolute madness.... Apple must be stopped. 16 GB is far too much.",
+        "score": 604,
+        "url": "https://i.redd.it/41h1im1xdyxd1.jpeg",
+        "content": "",
+        "created_utc": 1730320110.0,
+        "subreddit_name": "mac",
+        "comments": 82
+    },
+    {
+        "title": "Apple Introduces MacBook Pro M4 , M4 Pro and M4 Max ",
+        "score": 508,
+        "url": "https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/",
+        "content": "",
+        "created_utc": 1730300416.0,
+        "subreddit_name": "mac",
+        "comments": 109
+    },
+    {
+        "title": "New MacBook Pro M4, M4 Pro and M4 Max released…",
+        "score": 342,
+        "url": "https://i.redd.it/2shgnkc8uwxd1.jpeg",
+        "content": "Some nice quality of life upgrades as expected. The M4 Max will fly!",
+        "created_utc": 1730301334.0,
+        "subreddit_name": "mac",
+        "comments": 87
+    },
+    {
+        "title": "Mini or iMac",
+        "score": 327,
+        "url": "https://i.redd.it/9iaxmkvuqtxd1.jpeg",
+        "content": "Looking to buy first Mac ever even though I've been using iPhone for a long time. Main use is just web surfing and accessing NAS. For rest of stuffs, I'll still use PC. If I get mini, then I plan to hook it up to living room TV as monitor and use wireless keyboard. If I get iMac, then I'll place it next to PC. Thoughts? P4A. ",
+        "created_utc": 1730263880.0,
+        "subreddit_name": "mac",
+        "comments": 194
+    },
+    {
+        "title": "It’s official! Cyberpunk 2077 is coming to the M4 MacBook Pros next year!",
+        "score": 133,
+        "url": "https://i.redd.it/gfh4vp7fwwxd1.jpeg",
+        "content": "Coming “early next year”!",
+        "created_utc": 1730302071.0,
+        "subreddit_name": "mac",
+        "comments": 16
+    },
+    {
+        "title": "Did Apple just bait the entire Internet for new Mac memes today?",
+        "score": 122,
+        "url": "https://i.redd.it/pq8371v6ywxd1.png",
+        "content": "",
+        "created_utc": 1730302672.0,
+        "subreddit_name": "mac",
+        "comments": 43
+    },
+    {
+        "title": "What Do You Think Of New MacBook Pro?",
+        "score": 113,
+        "url": "https://i.redd.it/v7hicp6jazxd1.jpeg",
+        "content": "",
+        "created_utc": 1730331031.0,
+        "subreddit_name": "mac",
+        "comments": 124
+    },
+    {
+        "title": "The cost of upgrading each device to a nano-texture display: how do the new Macs compare?",
+        "score": 28,
+        "url": "https://i.redd.it/3ocvs1dj2yxd1.jpeg",
+        "content": "I had some free time, and since there’s been some new Mac announcements this week, decided to dig into them a bit more. A big surprise to me was that the iMac and MacBook Pro both got a nano-texture display option. This wasn’t really rumoured, and got me asking how these upgrades are priced, and how it compares across the lineup. There are a few interesting things: bigger doesn’t mean more expensive; the non-Pro products are actually the best value to upgrade; and the Pro Display XDR is somewhat in a league of its own when it comes to upgrade pricing.\n\nRevolutionary analysis? Maybe not, but I found it interesting!\n\nCan read a bit more detail here: https://moof.blog/2024/10/30/reflecting-value-not-light-the-cost-of-nano-texture-across-apples-devices/",
+        "created_utc": 1730316235.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "Even though I am in Europe, I have a US apple account and just got into the Beta. Can I make my iPad the primary responder to “Hey, Siri” instead of the HomePods which I have in every room?",
+        "score": 25,
+        "url": "https://i.redd.it/nyfmw1l3buxd1.jpeg",
+        "content": "I created my apple account when there were no European ones, kept it in the US region for various reasons and I just got added to the AI beta. So I wanted to test it, but my HomePods pick up every “Hey, Siri” instead of the iPad with AI, is there a way to set up which one has precedence? I can type, but the natural conversation seems like the biggest improvement instead of “open on your phone”",
+        "created_utc": 1730270686.0,
+        "subreddit_name": "mac",
+        "comments": 8
+    },
+    {
+        "title": "Why Macbook M4 Pro doesn't have 64GB ram option but Mac Mini M4 Pro has it?",
+        "score": 15,
+        "url": "https://www.reddit.com/r/mac/comments/1gfvvxx/why_macbook_m4_pro_doesnt_have_64gb_ram_option/",
+        "content": "Did you notice that Mac Mini M4 Pro has 64GB ram option but macbook M4 Pro does not?\n\nMacbook Pro 14/16 M4 Pro has max memory of 48GB \"only\". (64GB option is available with M4 Max but this is beyond the point).  \nIt is the first time I have seen on M series on macs have different ram options for the same cpu.\n\nThe whole memory topic is interesting and I am not complaining about the improvement on Pro series.  \nM4 has 2 memory channels, as it always has had.  \nM4 Pro has 4 memory channels. Same as M1 Pro and M2 Pro. But, M3 pro had 3 channels.   \nM4 Max has 8 memory channels. Binned version has 6 memory channels. No change, same as all Max series.\n\nAll M4 series support 8GB, 12GB and 16GB options per channel.   \nOnly exception is M4 Pro on Macbook Pro-s, that do not support 16GB per channel.  \nInteresting at least.",
+        "created_utc": 1730318724.0,
+        "subreddit_name": "mac",
+        "comments": 18
+    },
+    {
+        "title": "The new Magic Keyboard requires your Mac to be running macOS Sequoia in order to work",
+        "score": 9,
+        "url": "https://www.reddit.com/r/mac/comments/1gfti2e/the_new_magic_keyboard_requires_your_mac_to_be/",
+        "content": "Like the title says. I received the new USB-C Magic Keyboard today and tried setting it up on my work Mac (M1 Pro) and it wouldn’t connect properly. I read the pamphlet that came with it and it says your Mac has to be running the latest software in order to fully work. \n\nMy job hasn’t allowed us to update to Sequoia yet (yay banking!) so I’m still running Sonoma (14.7). While it’s connected via the cable it will type but the function keys will not work. As soon as it’s unplugged it stops working. It won’t connect via Bluetooth. My personal M2 MacBook Air works fine since it’s running Sequoia but I’ll have to wait until my company allows the update to use my new keyboard :/",
+        "created_utc": 1730312701.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Why is my IMac (2012) like this? It has been like this for over an hour since I powered it off",
+        "score": 6,
+        "url": "https://i.redd.it/7e3jj2gxvsxd1.jpeg",
+        "content": "",
+        "created_utc": 1730253481.0,
+        "subreddit_name": "mac",
+        "comments": 36
+    },
+    {
+        "title": "Finishing high-school in my 30s ",
+        "score": 5,
+        "url": "https://www.reddit.com/r/mac/comments/1gfqf4e/finishing_highschool_in_my_30s/",
+        "content": "As the title states,  I'll be spending about 6 months finishing high-school in ontario followed by some sort of post secondary.  \n\nMoney isn't an issue but I can't decide between an m4ipad pro with magic keyboard and pencil or just getting a macbook air.  \n\nI'll be using it to study and take notes and do remote classes.   All can be done on mac os or ios. \n\nWhich do you think is more beneficial for an adult going back to school?  ",
+        "created_utc": 1730305012.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Own an M1 MacBook Pro, looking at the new Mac Minis? Stupid?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1gfkhz4/own_an_m1_macbook_pro_looking_at_the_new_mac/",
+        "content": "I work in healthcare full time and do additional online study. Use case is mostly word, internet, PDF textbooks, media consumption. I also do love nice tech / better displays / speakers etc.\n\nMy 2020 M1 8gb MacBook Pro is still going strong, with an expected dip in battery life. Currently it sits in clamshell mode connected to a nice monitor for most of the time - occasionally coming to work. \n\nI am (maybe irrationally) itching for an upgrade but am not sure where to go: an updated MacBook Pro (best display, expensive), a larger MacBook Air (similar specs to my current M1 Pro), or the new Mac Mini for home and keep using a MacBook on the move?\n\nBasically- is it stupid to own a Mac mini and a 2020 MacBook Pro?",
+        "created_utc": 1730288578.0,
+        "subreddit_name": "mac",
+        "comments": 14
+    },
+    {
+        "title": "I f’ked up and bought a Macbook pro m3 last week",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gg0oc4/i_fked_up_and_bought_a_macbook_pro_m3_last_week/",
+        "content": "Basically I needed a macbook last week so I went into KRCS (im in the UK) and bought the m3 pro 18gb 512gb model literally 6 days ago and after todays announcement im having major regret!\n\nThe equivalent m4 model is also even slightly cheaper than what I paid which is a kick in the nuts.\n\nThere is a 14 day “cooling off period” but I have used the machine (signed into my apple id, downloaded and installed logic pro and final cut etc).\n\nThis is the KRCS returns t&c’s:\n\n“We may make a deduction from a refund for any loss in value of the goods if that is a result of any unnecessary handling by you. For example, you can check the nature, characteristics and functioning of the device as you might do in one of our stores, but not install your own software or data, or make general day-to-day use of the device.”\n\nAny advice is appreciated!",
+        "created_utc": 1730331212.0,
+        "subreddit_name": "mac",
+        "comments": 14
+    },
+    {
+        "title": "M4 Mac Mini (Non-Pro) vs MBP M1  Pro ",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gfvmxt/m4_mac_mini_nonpro_vs_mbp_m1_pro/",
+        "content": "I totally understand that these are two very different categories but my budget allows me to pick from either MBP M1 Pro(used) or New M4 Mac Mini(base model)\n\nMobility not an issue. \n\nPrimary usage is making iOS apps which means applications that will be frequently used are XCode, Postman, Figma, Photoshop among few. \n\nHow does these two fare on performance, does the M4 Mac Mini surpass on all front considering it’s three generations ahead of M1?",
+        "created_utc": 1730318098.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Anyone else disappointed with the new M4’s lacking WiFi 7 support?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gg0wif/anyone_else_disappointed_with_the_new_m4s_lacking/",
+        "content": "Like the title says. I ordered a new 16” M4Pro base model and honestly didn’t really think about it until after I checked out but I’m a little disappointed that WiFi 7 didn’t make it into the new MacBook Pros. Not really a deal breaker but would’ve been nice. Since my iPhone 16 has it. \n\nhttps://www.macrumors.com/2024/10/30/m4-mac-models-no-wi-fi-7/",
+        "created_utc": 1730331836.0,
+        "subreddit_name": "mac",
+        "comments": 20
+    },
+    {
+        "title": "Camera Flexgate Fix Question.(Macbook Pro 2017)(1708)",
+        "score": 3,
+        "url": "https://i.redd.it/18wtwx038yxd1.jpeg",
+        "content": "I am fixing a flexgate damaged computer, and it has both cables damaged, i have done the backlight and now i’m doing the camera one, i was wondering if i can connect the small traces connected together or in pairs or i can just leave them out, and would like to know their purpose, Thanks for the help!",
+        "created_utc": 1730318123.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "M4 Mac mini internal SSD speeds",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gfsrbm/m4_mac_mini_internal_ssd_speeds/",
+        "content": "A lot of hullabaloo was made about the internal SSD speeds of previous Apple Silicon Macs. To get higher speeds, you had to get the higher capacity drives due to them being comprised of multiple NAND chips, versus, for example, the single NAND 256GB SSD. For that reason, if you cared about drive speed, it was highly recommended that you avoid the baseline SSD and upgrade to at least 512GB.\n\nDo we think this will be the same case with the M4 Mac mini? Surprisingly, I haven't seen anything explicitly mention this in any of the coverage thus far. Obviously we won't know for sure before folks can get their hands on them to test, but perhaps we could get confirmation from Apple?\n\nAsking because I'm looking to build a new home server with the M4 Mac mini, and I'll be using primarily external storage, so 256GB might actually be sufficient (and I could save $200). But, of course I'd prefer the faster internal drive if this is the case once again.\n\nThoughts?",
+        "created_utc": 1730310859.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Can we talk about the M2 & M3 Macbook Air Ram Refresh? ",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gfps0q/can_we_talk_about_the_m2_m3_macbook_air_ram/",
+        "content": "I know it was brief, but they kind of just swept it under the rug in the announcement event. \n\n“Now on models with M2 and M3, were doubling the starting memory to 16 GB and keeping the starting price at just $999”\n\nI feel bad for anyone who just bought an M3 Macbook air before today",
+        "created_utc": 1730303414.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "The new M4 Macbook Pro",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1gfp0nk",
+        "content": "",
+        "created_utc": 1730301483.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "I reached 1300 cycle count on my macbook pro early 2015:)",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfkznr/i_reached_1300_cycle_count_on_my_macbook_pro/",
+        "content": "https://preview.redd.it/urkap84rwvxd1.png?width=1252&format=png&auto=webp&s=bfe3607f0a121640a3d9204a6d8b852f1328fb8a\n\nSo this is my first macbook, I purchased it second hand and is still in great condition! Maybe in future I will buy a new macbook, but for now what I have still works for college and I already have a PC at home:)",
+        "created_utc": 1730290247.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Should I buy Mac Mini M4 and resell MacBook Air M1 (8GB)?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gfkany/should_i_buy_mac_mini_m4_and_resell_macbook_air/",
+        "content": "Apple recently announced the new Mac Mini, and I’m considering purchasing the 16GB version while selling my three-year-old MacBook Air (M1) with 8GB RAM. The MacBook Air starts to be slightly sluggish when I open many Safari tabs while launching  image editors.\nDo you think this upgrade is worthwhile and cost-effective? I already own a PC with a 27” monitor and Bluetooth keyboard, and I’m also getting the new iPad Air M2 next month for mobile use.",
+        "created_utc": 1730287857.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "I messed up yet again - 2009/2010 MacBook Pro not turning on ",
+        "score": 4,
+        "url": "https://www.reddit.com/gallery/1gfk2fu",
+        "content": "A bit earlier, I bought a 2008 MacBook as I needed a MacBook for some things. It arrived, it didn’t turn on no matter what I tried, the battery did charge though. \n\nSo then, I bought this one, which I even got pictures of it working, and nope, it arrived and it does not work. The battery was also bloated and a fire hazard! \n\nThe charging light is green and the battery indicator LED works too but that’s about all I can get. Reseating RAM does nothing too. ",
+        "created_utc": 1730287026.0,
+        "subreddit_name": "mac",
+        "comments": 17
+    },
+    {
+        "title": "How to enable Wi-Fi monitor mode on Sonoma and up?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gfit8z/how_to_enable_wifi_monitor_mode_on_sonoma_and_up/",
+        "content": "Hi, I have a macbook pro M2 and it turns out that since sonoma, the airport tool is no longer supported. How can I now monitor the networks around me? Is there a new way to do this?",
+        "created_utc": 1730281979.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Windows user looking to invest in the new Mac Mini for productivity.",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gfamrr/windows_user_looking_to_invest_in_the_new_mac/",
+        "content": "Hey all, I’m someone who uses Windows and iPhone.\n\nMy current setup is an MSi Gaming laptop, which I use to play games and interface with Windows. I don’t actually take it anywhere, aside from longer trips. Mostly have used laptops for being a convenient all-in-one. And for the most part I am content with it \n\nIt is getting a bit old though. And I would like to have a dedicated device for productivity. Mostly to facilitate art, music creation, and modeling. I don’t need this new Mac Mini to play games. Moreso the size and price for performance are the real draws for me.\n\nI plan on using my current laptop a bit longer before replacing it with a new Windows setup. Mostly because I know compatibility with Apple software is not as open as Windows.\n\nAnd so I might ask; What are some things I should know as a Windows user? Is there a specific brand of monitor I need? And what suggested specs do you all recommend for productivity?\n\nThanks in advance!",
+        "created_utc": 1730249962.0,
+        "subreddit_name": "mac",
+        "comments": 8
+    },
+    {
+        "title": "please help",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1gg05hl",
+        "content": "hey guyss supp !! I’ve had a MacBook Pro M1 since 2021, and I’m wondering if there’s any way to get rid of these ‘sweat stains’?",
+        "created_utc": 1730329823.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "Does the MacBook Pro support MULTIPLE 144Hz+ external monitors?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfzuyo/does_the_macbook_pro_support_multiple_144hz/",
+        "content": "I have Googled this very question and have seen some people have success with multiple high refresh rate monitors. However, I have seen others have issues with similar setups for some reason or another. And when viewing Apple's website only ever mentions ONE monitor at 4k144Hz. \n\nTherefore, I don't have that 100% gut feeling in knowing whether MacBook Pros support MULTIPLE external displays at high refresh rates, regardless of resolution. I would like to see if someone with success could share their setup and confirmation. My brain tells me it simply should come down to bandwidth, so if you have the bandwidth available then you should be able to mix and match whatever resolution and refresh rates you want. \n\nSo can some people here that are running multiple 144Hz+ please comment below and tell me that it works? Please state your resolution and your refresh rate for your monitors, as both are important to know. Thank you personally, and also from the many people who will find this on Google later.",
+        "created_utc": 1730329033.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "$485 Apple Trade-In for 2020 13\" M1 MBP 8 Core, 16GB, 1TB",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfzf7x/485_apple_tradein_for_2020_13_m1_mbp_8_core_16gb/",
+        "content": "It seems insane that a laptop from only 4 years ago with good specs that was over $3k is now only worth $485... Or am I crazy? Am I better off trying to sell it on my own outside of Apple Trade-In?? What is everyone's experience with selling vs trade in, was it worth it? \n\nSide question: upgrading to the M4 Max for heavy CAD, 3D modeling, and rendering use and can't decide between 14\" and 16\". Any advice on which to choose? Is 16\" worth the $300 price difference? \n\nI know lots of folks are asking for advice so apologies in advance is this is repetitive and annoying! ",
+        "created_utc": 1730327860.0,
+        "subreddit_name": "mac",
+        "comments": 11
+    },
+    {
+        "title": "Upgrading from previous model",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfykmq/upgrading_from_previous_model/",
+        "content": "Hi everyone! So after waiting a bit for the news, I’m still undecided. I’m currently in the market to purchase either a new macbook or ipad, but I don’t know which one. With the news about the new m4 chip. Is it worth it to upgrade either of my devices?\n\nThe price between the two isn’t too big for me (unless i get the m4 max). \n\nI currently have a : \n- 15in 2016 2.6 GHz quad core intel core i7 16 GB 2133 MHz LPDDR3\n- iPad Pro 10.5 inch model MPDY2LL/A \n\n\nI appreciate any thoughts and advice, thank you!",
+        "created_utc": 1730325637.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Sudden Black Shadows on MacBook Pro M1 Screen",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1gfxpdb",
+        "content": "I’m experiencing an issue with my MacBook Pro M1 where black shadows suddenly appear at  the bottom of my screen. They disappear after I open and close the MacBook 2 times .Has anyone else encountered this problem? Any suggestions on how to fix it? Will the screen die ?",
+        "created_utc": 1730323354.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "m4 macbook pro or m4 pro macbook pro",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfwdv6/m4_macbook_pro_or_m4_pro_macbook_pro/",
+        "content": "I am a student who has hella tabs open always, very rarely do video editing (but I still do it), and I play some games and produce using FL studio. Should I get the m4 or m4 pro mbp? Of course, I want it to be future-proof and there is a $350 price hike between the two.. Is it justified this year (given that the base models now have 16+512)",
+        "created_utc": 1730319976.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "3rd Party 27 inch (or bigger) monitor recs?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfw6d1/3rd_party_27_inch_or_bigger_monitor_recs/",
+        "content": "I need a new Mac.  My iMac (late 2014) cannot upgrade past Big Sur and I can't run latest MS Office software since the current OS doesn't support it.  Also, the computer hangs up quite a lot (spinning rainbow ball) and I have to reboot - about once a month.  If I am teaching when this happens, it's a disaster.  Sometimes only a hard reboot will work.  OK, so I have to upgrade.\n\n  \nSince iMac no longer comes in a 27 inch size, I'm considering a Mac Mini.  I wasn't really considering that because the Apple 27 inch monitor is so expensive (1599 list) but I just saw an ad for a Dell 27 inch monitor  for $170, and it makes me think I should go that route.\n\nSo I\"m looking for a guide to monitors that will work with a Mac.  Is there a good resource that compares various 3rd party monitors, especially ones that will work well with a Mac?\n\nAlso, if anyone has any advice that I'm going about this the wrong way (\"Don't do that!  Do this instead.\") I'd love to hear it.  Thanks for your help.",
+        "created_utc": 1730319435.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "History of 8GB Apple laptops",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfu4g8/history_of_8gb_apple_laptops/",
+        "content": "date | event\n--- | ---\n2012-10-27 | 12\" MacBook Pro introduced with a premium prebuilt option with 8GB DDR3 SDRAM (instead of the 4GB of the starting model).\n2013-10-22 | Apple releases its final model of MacBook Pro that can be purchased with only 4GB of RAM. It's discontinued 2014-07-29, at which point, 8GB becomes standard across all \"Pro\" models of Apple laptops.\n2015-03-09 | 2015 MacBook Air launched with only 4GB of RAM, it will be the last Apple laptop with 4GB of RAM.\n2015-04-10 | 12\" MacBook introduced with 8GB LPDDR3 standard. The entire line was discontinued in 2019.\n2017-06-05 | 2015 MacBook Air bumped from 4GB to 8GB LPDDR3, and continued to be sold until 2021. 8GB is now standard across all Apple laptops.\n2023-11-07 | Apple (hopefully) released its final model of MacBook Pro with only 8GB of LPDDR5. It was available for purchase with a starting price of only 1599$ with a 512GB SSD.\n2024-03-08 | M3 MacBook Air launched with 8GB LPDDR5. It was available for 1099$ with a 256GB SSD until November.\n2024-10-30 | M2 and M3 MacBook Air starting models both bumped to 16GB without raising their starting prices. An additional 8GB of LPDDR5 still costs the normal 200$. Also, Mac mini, iMac, and MacBook Pro are unavailable for purchase until the new models launch in November, making 16GB the minimum available for any new computer from Apple.",
+        "created_utc": 1730314239.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Does anyone still use El Captain?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gftdqz/does_anyone_still_use_el_captain/",
+        "content": "i have an 2007 15-inch Macbook Pro. i installed El Captain recently was wondering if theres any useful apps i can install on El Captain. or any old website i can download old software. ",
+        "created_utc": 1730312397.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "My dad has asked me to sell or get rid of his imac he bought years ago. Is it worth anything today?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfrpbh/my_dad_has_asked_me_to_sell_or_get_rid_of_his/",
+        "content": "IMAC 27INCH LATE 2012\n2.9GHZ INTEL I5 QUAD CORE \n16GB 1600MHZ DDR3\n1TB FUSION DRIVE\nNVIDIA GEFORCE GTX 660M 512MB\n",
+        "created_utc": 1730308237.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Debating trading in my Mac mini m2 for the new m4",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfr1ea/debating_trading_in_my_mac_mini_m2_for_the_new_m4/",
+        "content": "Bought a Mac mini m2 with 26GB and 1TB early this year and of course a refresh happens the same year I buy it. \n\nSaw that Apple does trade in to help pay for the newer M4. Has anyone done a trade in before and is the value “fair” to warrant it?",
+        "created_utc": 1730306578.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Am I mad for upgrading? ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfq5ak/am_i_mad_for_upgrading/",
+        "content": "I currently have base M1 MBP with Touch Bar, 256gb and 8gb RAM. It is ostensibly *fine,* and would last anyone another few years at least - it isn't sluggish to open apps, it has great battery life, it does 99% of what I want.\n\nHowever in work I do a lot of graphic design and photo and video editing, and I have started to butt up against RAM limits more and more. It's probably my fault for having too much open at once, but the nature of my job means a lot of back and forth with files, and I'm getting the out of RAM message at least once a day, so it's a bit frustrating.\n\nMy storage is also at that point where is full, but full of lots of tiny files that are an absolute pain to go through and clear out easily. Also my Touch Bar is broken.\n\nSO I am mulling an M3 15 Inch MBA with 16gb of RAM and 512GB of storage - which I can get on Amazon now for £1549.\n\nAm I mad for considering it? Will I notice any appreciable upgrade in speeds? Will the RAM boost be felt? And most importantly, are there any ways in which going from the Touch Bar Pro to a new-style MacBook Air will feel like a downgrade, hardware wise?\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nThis is a not-inconsequential amount of money for me, so any and all advice is appreciated!",
+        "created_utc": 1730304329.0,
+        "subreddit_name": "mac",
+        "comments": 14
+    },
+    {
+        "title": "Target Display Mode - Late 2013 iMac 27\"",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfle6v/target_display_mode_late_2013_imac_27/",
+        "content": "Hi guys,\n\nI've seen a few posts on this issue but just wanted to see if anyone has tried or tested this: \n\nI have the Late 2013 iMac 27\" and am planning to upgrade to the new Mac Mini M4. Will it be possible to use my iMac as the monitor via Target Display Mode if I use the Thunderbolt cable to connect them both? Has anyone tried something similar with the Mac Studio or other Macs running the silicon chip and thunderbolt 3/4 ports? \n\nThanks ",
+        "created_utc": 1730291549.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Buying my first Mac. What specs should I purchase?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gflbw1/buying_my_first_mac_what_specs_should_i_purchase/",
+        "content": "(Mods feel free to delete this if a purchase megathread is made)\n\nBasically as the title says. I’ve only used windows for my entire life and have zero experience with anything Mac related. I’m a college student and my major is in the computer field and I feel some experience working with MacOS would be helpful.\n\nAs of now I can afford the new mini, my main question is what specs would people recommend? The most intense software I’d run is any virtual machine software and maybe editing software. I also have a bad habit of not closing tabs. I also want to have the Mac last as long as possible, ie not running out of storage within a year or two or not being able to run programs in the future as they require more RAM.\n\nRight now I’m considering the M4 mini with 24GB of RAM and 512GB of storage. Would this be overkill for my use case? Any replies are appreciated!",
+        "created_utc": 1730291348.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Keyboard and mouse don't work when starting",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfkvuw/keyboard_and_mouse_dont_work_when_starting/",
+        "content": "I wanted to open my macbook, but I found my mouse and keyboard don't do anything. I went to recovery assistant, but no luck either. What do I do? There are so many important files on my macbook.",
+        "created_utc": 1730289891.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "2 External displays for m4 MacBook Air?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfik3c/2_external_displays_for_m4_macbook_air/",
+        "content": "Given the iMac and mini both support 3 displays, are we finally going to get an air that supports two external displays + built in with M4? This is the biggest gripe with my m1 Air, so would definitely be tempting. The base 16gb that we’ve seen with M4 would increase the value prop too.",
+        "created_utc": 1730280796.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Mini & PC as remote desktop",
+        "score": 2,
+        "url": "/r/macmini/comments/1gfi4nj/mini_pc_as_remote_desktop/",
+        "content": "",
+        "created_utc": 1730280536.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Since Sequoia: Problem with reappearing WhatsApp Drafts",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfh4ml/since_sequoia_problem_with_reappearing_whatsapp/",
+        "content": "Hello,\n\nI have a strange problem with the WhatsApp app, which has only been occurring since Sequoia. \n\nThe app randomly saves individual chat messages I've started and displays them as drafts whenever I tap into the app again. Up to this point, this is a normal WhatsApp function. Unfortunately, the drafts are never deleted.\n\nIt then also moves the chats for which it has saved drafts to the top of the chat overview. If I then want to write a message in the chats where this problem exists, I always have to delete the draft first. As soon as I leave the app, for example by switching to another desktop, the old draft then reappears in the same chat and the game starts all over again. \n\nIt seems that WhatsApp writes these drafts to the cache and does not register them when I delete them. The problem only occurs with individual chats, others are unaffected.\n\nDoes anyone else have this problem? Has anyone found a solution to this yet?\n\nI've already deleted the app, reinstalled it, restarted the Mac. \n\nI would really appreciate some help!",
+        "created_utc": 1730274056.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "10/10core 32gb M4 Mac Mini vs 14/20core 48gb M4 Pro Mac Mini",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfg81l/1010core_32gb_m4_mac_mini_vs_1420core_48gb_m4_pro/",
+        "content": "I have a base model 2019 MacBook Air and an iPad Pro M4 13’ and MK. I am looking at picking up a Mac Mini to tie me over for the next few years until Apple launch MacBook Pros with OLED displays. It doesn’t look like the next revision of MacBook Pros will have OLED displays, and it is more likely to be the next revision which will have them\n\nHow much more performance will the 14/20core afford me over the 10/10core? A consideration is that I would like to run Windows through Parallels (I still use Windows and will be replacing a NUC running Windows with this Mac Mini. Gaming is neither here nor there. I wouldn’t be opposed to playing some TF2 and some very casual games on it through Parallels, however it isn’t the end of the world if I can’t. I do have another PC in the household that I can freely play heavier AAA games on when desired\n\nI personally believe I will benefit from the 14/20core M4 over the 10/10core M4 in uses related to Parallels, I am just unsure how much of a benefit the extra cores would be in my use case\n\nAny advice from people who have experience multiple SKU’s of core counts within the M lineup would be valuable\n\nThanks everyone",
+        "created_utc": 1730269717.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Mac Mini or New MBP, need help! ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gffizy/mac_mini_or_new_mbp_need_help/",
+        "content": "I have a 2020 intel i5 MBP with 8GB ram. It has served me well for past 3 years but now it's painfully slow. I need to run Android Studio, with an emulator most of the times. AS with Java eats around 4-5GB of ram and then 2GB for emulator.\n\nI was planning to buy new MBP with M chips for quite sometime now but with the launch of new Mac Mini, I'm inclinded towards it. \n\nI don't have any strict budget but since I'll be spending my own money, I don't want to waste on something that won't be beneficial to me. \nDoes it make sense to buy new M4 MBP or should I go with Mac Mini? \n\nSince Mini is so light, I can carry it with the laptop and use MBP as a monitor, is it possible? \nI'm looking at M4 with 32GB ram costing INR 1,00,000 while MBP will probably cost around 2.4x of that. Here is the comparison with M3 Pro but M4 will probably have the similar price. \n\nMac Mini M4, 10 Core, 32GB ram, 256GB ssd - INR1,00,000 \n\nvs\n\nMBP M3 Pro, 11 Core, 36GB ram, 512GB ssd - INR2,39,900",
+        "created_utc": 1730266623.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Buying a new computer for my mom - M4 Mac Mini or M4 iMac?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gfcnhv/buying_a_new_computer_for_my_mom_m4_mac_mini_or/",
+        "content": "My mom's been using an old prebuilt PC for the past 7 years. It works fine for her needs but it's starting to stutter a lot and crash randomly. I'm a PC enthusiast and build computers for fun, but my mom isn't tech savvy at all so I end up having to troubleshoot things for her all the time. I want to convince her to switch to a Mac because I think it'll be a better user experience for her. She doesn't need portability so the Macbook Air would be wasted on her since she'd rather have a bigger screen. So it comes down to the base M4 Mac Mini or the base M4 iMac. Of course I'll be paying for her new computer, and I'm wondering which one would be better suited for her.\n\nThe Mac Mini is smaller and would fit easily on her desk, but she would need a new monitor too (her current one is a 20\" 1680 x 1050 Dell monitor which I'm pretty sure would look horrible with MacOS). And she'd also need a new keyboard and mouse since her current peripherals use USB A and are wired. The iMac would be a more elegant solution, and would eliminate the need to purchase a separate monitor, mouse and keyboard. It also comes in pink which is her favorite color (she's been saying she wants a pink mouse and keyboard for a while now), but it's twice the price of the Mac Mini. I guess the price of a Mac Mini plus the required extra peripherals might end up equaling the cost of the iMac, but I'm not so sure about that. She will mainly be using the computer for basic web browsing, writing documents and attending frequent Zoom meetings. Which one would be better for her?",
+        "created_utc": 1730256148.0,
+        "subreddit_name": "mac",
+        "comments": 29
+    },
+    {
+        "title": "Moving from Windows PC to Macbook Pro 16\" for motion graphics, editing and 3D but I have a question about the spec comparison",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gf9z7z/moving_from_windows_pc_to_macbook_pro_16_for/",
+        "content": "Ok so I'm sure people are sick of hearing question about \"which is better?\" and this isn't that. I'm starting a new job next week where I'll be doing exactly what I currently do as a freelancer right now which is shooting, editing (Resolve and Premiere), motion graphics (After Effects, Photoshop, Illustrator) and some light 3D work (probably Blender). I had a choice of a new desktop or laptop and since I'll be mobile quite a bit I opted for the laptop. Here's the system I have at home (and have used for about 6 years now).\n\nWindows 11   \nIntel(R) Core(TM) i7-7800X CPU @ 3.50GHz   3.50 GHz  \n128 GB (128 GB usable)  \nNvidia RTX 1080 ti\n\nHere's what I picked out as the laptop.\n\n* Apple M3 Max chip with 16‑core CPU, 40‑core GPU and 16‑core Neural Engine\n* 64GB unified memory\n* 4TB SSD storage\n* 16-inch Liquid Retina XDR display²\n* 140W USB-C Power Adapter\n* Three Thunderbolt 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port\n\nMy question is how does the 64GB of Ram in the Macbook Pro compare to the 128GB of Ram I'm currently using in my desktop? Is it 1:1 or are there extra benefits with the Macbook Pro that would technically make that 64GB feel closer to the 128gb in the desktop?\n\nThe issue is that it would have been over an extra $1k to bump up the ram from 64 to 128 and that started to push the budget too high. \n\nWould love any insight you could provide!",
+        "created_utc": 1730248071.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Nothing Made a Glow-in-the-Dark Phone After Asking Customers What They Want | With over 900 entries from 47 countries, a glow-in-the-dark Nothing Phone (2a) Plus was a culmination of the five winning ideas.",
+        "score": 1202,
+        "url": "https://gizmodo.com/nothing-made-a-glow-in-the-dark-phone-after-asking-customers-what-they-want-2000518105",
+        "content": "",
+        "created_utc": 1730288440.0,
+        "subreddit_name": "gadgets",
+        "comments": 73
+    },
+    {
+        "title": "M4 Max chip has 16-core CPU, 40-core GPU and 35% increase in memory bandwidth compared to the previous M3 / Apple says the M4 Max is the fastest laptop chip in the world.",
+        "score": 351,
+        "url": "https://9to5mac.com/2024/10/30/m4-max-chip-has-16-core-cpu-40-core-gpu-and-35-increase-in-memory-bandwidth/",
+        "content": "",
+        "created_utc": 1730301604.0,
+        "subreddit_name": "gadgets",
+        "comments": 68
+    },
+    {
+        "title": "All of Apple’s Macs now start with 16GB of RAM | Macs with 8GB of RAM are a thing of the past.",
+        "score": 699,
+        "url": "https://www.theverge.com/2024/10/30/24270669/apple-macbook-pro-mac-mini-imac-16gb-ram-doubled-apple-intelligence-ai",
+        "content": "",
+        "created_utc": 1730307910.0,
+        "subreddit_name": "technews",
+        "comments": 121
     }
 ]

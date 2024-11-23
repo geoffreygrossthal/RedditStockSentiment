@@ -97,5 +97,140 @@
         "created_utc": 1731754826.0,
         "subreddit_name": "apple",
         "comments": 33
+    },
+    {
+        "title": "3D-printed Mac Pro case now available for Studio and M1/M2 mini",
+        "score": 889,
+        "url": "https://www.reddit.com/gallery/1gsijn1",
+        "content": "Howdy y’all! I had a fairly popular post here last week for my 3D-printed case for the new M4 Mac mini in the style of the 2019 Mac Pro.\n\nOne of the biggest requests I heard was that folks wanted a mid-size version that works for the Mac Studio and M1/M2 Mac mini. Well, it’s here!\n\nhttps://makerworld.com/en/models/791767\n\nAlso new is a modern homage to the G4 Cube for the M4 Mac mini — using translucent PETG material — and an iPhone stand for MagSafe and StandBy mode that looks like a Pro Display XDR.\n\nEnjoy y’all! I’ve had a blast and appreciate all the great comments, shares, boosts, videos, articles, etc. It’s been a fun distraction. 🤪",
+        "created_utc": 1731743699.0,
+        "subreddit_name": "mac",
+        "comments": 41
+    },
+    {
+        "title": "What cable and mounting thing do y'all recommend if I wanted to but my SanDisk SSD on my MacBook's case like this?",
+        "score": 203,
+        "url": "https://i.redd.it/35fvo5bvoa1e1.jpeg",
+        "content": "",
+        "created_utc": 1731776628.0,
+        "subreddit_name": "mac",
+        "comments": 148
+    },
+    {
+        "title": "Switched to Mac",
+        "score": 40,
+        "url": "https://www.reddit.com/r/mac/comments/1gsj0oc/switched_to_mac/",
+        "content": "After 20 years of computing finally decided to bite the bullet and try switching to Mac full time. For test bought a brand new M1 Air with great discount.\n\nAfter  three days I can see that I missed out a lot and regret not making the switch faster.\n\nAll I am going to say. I actually enjoy using computer again. I look forward doing something on the device. + I have had I phone for a decade now and integration is awesome. Probably going to get sucked in ecosystem too.",
+        "created_utc": 1731745795.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "I need a new machine, not sure if I should go iMac or Mac Mini",
+        "score": 23,
+        "url": "https://www.reddit.com/r/mac/comments/1gsurjd/i_need_a_new_machine_not_sure_if_i_should_go_imac/",
+        "content": "I’ve been a Mac user for 30 years \n\nI’ve tended to use iMacs, my current machine is almost unusable. It’s a 2017 intel iMac with a Fusion Drive\n\nIt’s just too slow and running Photoshop or GarageBand is unbearable.\n\nI’m a designer and illustrator and I really only use my machines for Photoshop. No gaming no real video editing. Nothing that should tax a system. \n\nI’m a closet musical as well — but it’s only manifested itself as recording with GarageBand — again nothing taxing. \n\nIt’s going to be used for creating graphics, recording some music.\n\nAt first I was going to go with a refurbished iMac, I can get 16GB or ram and enough store for like 1400 \n\nBut now I’ve been reading up on new Mac Mini. Already has enough ram ( 16GB ) and enough storage. Downside is no monitor—but I’m guessing I can get one for 2-300 that will work for me —I’ve looked up a new LG one \n\nWould love some input…\n\nToday I’m leaning Mac Mini, it’s cheaper and just as powerful \n\nThoughts? ",
+        "created_utc": 1731784881.0,
+        "subreddit_name": "mac",
+        "comments": 86
+    },
+    {
+        "title": "What should I do with my super slow beautiful 27 inch iMac from 2015?",
+        "score": 9,
+        "url": "https://www.reddit.com/r/mac/comments/1gsqk2u/what_should_i_do_with_my_super_slow_beautiful_27/",
+        "content": "I have a 2015 iMac, 27 inch, with 1TB Fusion Drive and 8GB of ram. \n\nIt’s the Fusion Drive that slows down the overall system. But the 27 inch retina screen is beautiful and a joy to watch movies with. \n\nI also have an older 2013 non retina iMac with 8GB of ram and an upgraded it to 512GB SSD and this thing is a beast. \n\nI don’t wanna get rid of the 27” 2015 retina iMac but that Fusion Drive really cripples the overall experience. ",
+        "created_utc": 1731773473.0,
+        "subreddit_name": "mac",
+        "comments": 48
+    },
+    {
+        "title": "Tech Help. Can I set up a Mac mini and MB Pro to transfer files via Wifi?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1gsnkcy/tech_help_can_i_set_up_a_mac_mini_and_mb_pro_to/",
+        "content": "I'm considering buying the new Mac Mini M4Pro to put in my computer room so I can keep my external hard drives and printers always connected. Currently, I process all my photographic images on a MacBook Pro M3 Max in the living room and then disconnect all the wiring, except for the small USB external hard drive I use, and carry it to the computer room to connect to my backup hard drives and peripherals. The process is a pain. Ideally, I'd like to be able to connect to and transfer/file the completed files to the Mac mini via wifi in the other room. Is this possible via settings or do I need to have the computers connected via hard LAN cabling? I realize there would be a speed penalty, but I'm rarely in the need of getting to my files quickly.\n\nI used to build PCs like 20 years ago and I hardwired everything together with LAN cables and I was once very versed in the process. I've been using Macs/other Apple products now exclusively for \\~12 years and I've never had more than one Mac at a time. Just searching for options/techincal assistance. Thanks in advance for any help you can provide.",
+        "created_utc": 1731764688.0,
+        "subreddit_name": "mac",
+        "comments": 11
+    },
+    {
+        "title": "Stuck on white, then flashing amber lights on boot up.",
+        "score": 5,
+        "url": "https://www.reddit.com/r/mac/comments/1gsqilg/stuck_on_white_then_flashing_amber_lights_on_boot/",
+        "content": "I have a 2020 Mac mini M1 that I hosed when we had a power outage while the Mac was in recovery mode and downloading macOS.  Obviously Recovery won't work; I need to use DFU.\n\nI have a MacBook from 2017 that is limited to Venturi, so I can't use DFU Blaster.  I don't have an Apple keyboard, so the four-key combination doesn't work, since the Windows keyboard I use doesn't have a \"power\" key.  I've tried other function keys in nearby approximate positions, but no dice so far.  The four keys I have tried after pressing the power button are: alt; ctrl; right shift; various function keys.\n\nI've made an appointment with the Genius Bar, but I'm hoping I can fix this myself, but I'm stuck so far.  Maybe I need to buy an Apple keyboard, especially if the visit to the GB will be more than $100?",
+        "created_utc": 1731773360.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "I did something stupid in open firmware, no my iMac G5's display stays off",
+        "score": 4,
+        "url": "/r/oldmacs/comments/1gs3pz7/i_did_something_stupid_in_open_firmware_no_my/",
+        "content": "",
+        "created_utc": 1731769182.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "M4 MacBook won't connect to any usb-c powered portable monitors",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gsm82u/m4_macbook_wont_connect_to_any_usbc_powered/",
+        "content": "I'm in the portable monitor business. I have several monitors here all usb-c powered, the M1 MacBook connects just fine but the M4 won't send any signal?\n\n\n\nAnyone else seeing the same issue?",
+        "created_utc": 1731760006.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "MacBook display glitches out of nowhere",
+        "score": 3,
+        "url": "https://www.reddit.com/gallery/1gsht1c",
+        "content": "So I was just using my MacBook Air (M1, 2020) as usual. Out of nowhere, while I was logging in, the screen started glitching. I thought it was Arc using too much RAM so I closed it. However, it wasn't the case. It still glitched out. I tilted it a little inward and it seems to fix the issue, but when I tilt it back the gltiching comes back. It's not as major compared to the other posts here on this subreddit, but it just happened out of nowhere. Thought it was a software issue so I restarted my MacBook, but it didn't solve the problem. What should I do? It could possibly be the hinge since it's sticking out a little bit probably because I've been using a case since I got it. ",
+        "created_utc": 1731740528.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "MacBook Pro M3/M4 external display via HDMI at 4k@60Hz",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gspfoc/macbook_pro_m3m4_external_display_via_hdmi_at/",
+        "content": "Hi all, apologies for the niche question.\n\nI have a 2021 14-inch M1 MacBook Pro  that at the time I had issues connecting to a second 4K display using a refresh rate higher than 30Hz via HDMI. The solution was to use a USBC to Displayport cable, and it worked.\n\nThis sums it up nicely: [https://discussions.apple.com/thread/255506051?sortBy=rank](https://discussions.apple.com/thread/255506051?sortBy=rank)\n\nI'm now going to get a 14-inch M3/M4 MacBook Pro, and wanted to alternate between the two laptops on the same display. The thing is that the monitor only has a single Displayport input, and 2 HDMI ones.\n\nI have an Apple USBC to USB-A and HDMI adapter, just like this one: [https://www.apple.com/ca/shop/product/MW5M3AM/A/usb-c-digital-av-multiport-adapter](https://www.apple.com/ca/shop/product/MW5M3AM/A/usb-c-digital-av-multiport-adapter)\n\nI read the Product Overview and it's slightly unclear (just because of the broad \"and later\" labels in the description) but it ~~seems to suggest that other than a very specific 2020 model (MacBook Pro (13‑inch, four Thunderbolt 3 ports, 2020)), all other 13-inch MacBook Pro devices are stuck to \"1080p at 60Hz or UHD (3840x2160) at 30Hz\", which is weird, and unfortunate if true~~ EDIT: doesn't mention anything about the 14-inch MacBook Pros.\n\nHas anyone used a more recent 13-inch MacBook Pro with an HDMI adapter and was able to have it display 4k at 60Hz on the secondary display?\n\nThank you.",
+        "created_utc": 1731770343.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "How to get rid of this icon? ",
+        "score": 2,
+        "url": "https://i.redd.it/jhhodyaw0a1e1.jpeg",
+        "content": "When I click “OK” nothing happens, and it also won’t allow me to shut down or restart the computer. Device is a macbook air M2 2023. ",
+        "created_utc": 1731768510.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Tough time choosing color",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gslnjh/tough_time_choosing_color/",
+        "content": "Hey guys, i will be purchasing a brand new m3 pro macbook pro 14” next week. And of course im struggling with color choice.\n\nWhilst i prefer space black, this is a longevity purchase and i know the paint comes off and damages the overall look so im leaning to silver. \n\nLet me know what u guys think thanks so much. ",
+        "created_utc": 1731757745.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Keyboard and mouse not working in recovery mode",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gshb6n/keyboard_and_mouse_not_working_in_recovery_mode/",
+        "content": "I have a 27” iMac and I use Logitech MX Master 3S mouse and Kychron K10 keyboard.\n\nFor some reason when I started my iMac the keyboard and mouse wouldn’t work. I restarted the iMac and it booted up in recovery mode but the keyboard and mouse still do not work. I tried plugging the mouse in, still nothing. I plugged the keyboard in and switched to cable mode. I even tried every usb port on the iMac and nothing worked. I borrowed a random wired hp brand keyboard from my job and it didn’t register as well. \n\nDoes anyone have any suggestions? ",
+        "created_utc": 1731738542.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Time Machine Backup Help",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gsc89o/time_machine_backup_help/",
+        "content": "I need to bring my Mac in for service soon, so I'm trying to back up my laptop onto an external hard drive. When I try to configure my external disk with Time Machine, I get a message that says \"Erasing will destroy all information on “Seagate Backup Plus Drive” and can’t be undone. The volume must be erased because it has an incompatible file system.\"\n\nAfter some googling, I think this is because of the way the drive is configured. People suggest moving the items on my external drive somewhere else, letting Time Machine erase it/reconfigure it, and then moving everything back. However, I did see one post that said these items would no longer be readable by a Windows computer. This is an issue for me because I am sharing the drive with family members who use Windows devices. Can anyone confirm if this is true or not? Is there a way to back up my laptop onto this drive without erasing/moving things around, or do I need to get another hard drive?\n\nThank you!",
+        "created_utc": 1731720459.0,
+        "subreddit_name": "mac",
+        "comments": 3
     }
 ]

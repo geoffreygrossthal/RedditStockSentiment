@@ -295,5 +295,104 @@
         "created_utc": 1730995091.0,
         "subreddit_name": "apple",
         "comments": 13
+    },
+    {
+        "title": "How much would this cost to fix?",
+        "score": 24,
+        "url": "https://i.redd.it/0net2w2f1jzd1.jpeg",
+        "content": "I closed it without realizing the charger was unplugged and sitting on the right corner of the keyboard and I guess it pressed too hard on the screen 🙃 It's a 2020 macbook air \nThe lines keep moving and changing colors whenever I open and close it, Im just worried it'll get worse over time so I'd rather get it fixed before then lol ",
+        "created_utc": 1731005952.0,
+        "subreddit_name": "mac",
+        "comments": 46
+    },
+    {
+        "title": "What to do with a Late 2015 5K iMac?",
+        "score": 13,
+        "url": "https://www.reddit.com/r/mac/comments/1glh3gy/what_to_do_with_a_late_2015_5k_imac/",
+        "content": "I've got a Late 2015 5K iMac that can only be updated to Monterey. As Monterey will no longer receive updates, I am trying to figure out what to do with this perfectly functioning computer.\n\nI understand I am always putting my trust in someone, so far it has been Apple. \n\nThis is my main computer for all purposes (banking, taxes, photos, shopping, etc.). Every time I find a possible path forward, I read about the risks. I am not savvy enough to know if any of these options are actually viable for a main computer.\n\n**If security/privacy is my main concern is my only choice to recycle this and buy something new?**\n\nI've read a lot of posts. These seem to be the options. Any others?\n\n* Keep using with Firefox and risk it -- no idea how big of a risk this actually is\n* OCLP - seems like [it still opens the door to risk ](https://forums.macrumors.com/threads/security-for-oclp-opencore-legacy-patcher.2406586/)\n* I could use BootCamp -- would the lack of MacOS security updates expose that side of the partition?\n* I could gut the computer and turn it into a monitor -- but then I'm buying parts off eBay and trusting they're safe?\n* Install Linux -- [doesn't seem safe either haha ](https://www.reddit.com/r/pop_os/comments/ulpecp/desktop_linux_is_much_less_secure_than_other/)\n\nAny advice would be helpful as my head is spinning.",
+        "created_utc": 1730949580.0,
+        "subreddit_name": "mac",
+        "comments": 34
+    },
+    {
+        "title": "In honour of the new M4 series devices being released...",
+        "score": 13,
+        "url": "https://www.reddit.com/r/mac/comments/1gm4fxt/in_honour_of_the_new_m4_series_devices_being/",
+        "content": "I just want to give a huge shoutout to my M1Pro MacBook Pro that is still running as well as it did day one, still with 92% battery health after 222 cycles (Been using Aldente for quite a while). This is by far the best laptop I have ever owned. As nice as the new devices are, particularly the new Mac Mini, I still don't see me upgrading for another couple of years... \n\nCheers to everyone still holding on to their older devices!",
+        "created_utc": 1731022186.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "I don’t know who needs to hear this but..",
+        "score": 11,
+        "url": "https://www.reddit.com/r/mac/comments/1glvtat/i_dont_know_who_needs_to_hear_this_but/",
+        "content": "You can just buy a base model 2015+ 4K 21.5” or 5K 27” iMac and update it to the latest supported OS it can handle for the best Screen Sharing compatibility, and then disconnect wifi to avoid future issues.\n\nBuy an Apple Silicon Mac, connect that to wifi, then plug Ethernet in from the iMac to the Mac mini directly or MacBook Pro using an Ethernet adapter or a dock with Ethernet that can also charge at the same time.\n\nNow you can use essentially zero latency screen sharing with Apple Silicon performance on the cheapest form of 4K or 5K colour calibrated display that money can buy in one of the nicest looking displays ever made.\n\nReasons:\n\nTarget Display Mode doesn’t exist anymore.\n\n21.5” 4K models can be found for around $200 CAD. 27” 5K models can be found for around $300 CAD and the cheapest possible DCI-P3 4K display I could find was $750 CAD, $1450 for 5K.\n\nIf Screen Sharing on future macOS won’t connect, these iMacs are fully supported with OCLP to run macOS 15.1 with zero issues for better future compatibility.\n\nAll of the heavy lifting is done by the remote Mac so you can save tons of money by only buying a base model 4K or 5k iMac, as it’s essentially just streaming a remote connection.\n\nIf you hook up a network switch you can also connect multiple other devices like more Mac’s or the Windows App with Windows PC’s, making it an all in one monitor for any device on your network\n\nYou can use Moonlight and do remote gaming on it if you don’t mind 60FPS.\n\nIf latency isn’t mission critical, you can do this wirelessly on a MacBook Pro in clamshell mode without even needing to plug it in but the iMac will need wifi turned on and connected for this to work.",
+        "created_utc": 1731000249.0,
+        "subreddit_name": "mac",
+        "comments": 24
+    },
+    {
+        "title": "what the F is happening in MacOS indexing",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1glfl7e/what_the_f_is_happening_in_macos_indexing/",
+        "content": "When I search for any application (VScode, Brave, Firefox, Safari, Telegram...) it won't find it, I have to go to application folder in Finder and find it manually,\n\nEven when I search for documents/folder I can't find them through the spotlight search  I have to go manually search for them in folders.\n\nI am on the latest Software version MacOS Sequoia 15.1 (24B83).\n\nMachine: Mac M1 Pro 2022",
+        "created_utc": 1730944821.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "macbook with m4 pro cpu 12 core vs cpu 14 core",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1glo18k/macbook_with_m4_pro_cpu_12_core_vs_cpu_14_core/",
+        "content": "hi guys! i'm undecided between the macbook m4 pro with the 12-core or the 14-core.\n\nfor the 12 core one i will probably choose 48gb of ram and 512 ssd\n\nfor the 14 core one i will probably choose 24 gb of ram and 1 tb ssd.\n\n i'd mainly use it for video editing (max. 4k), music production and photo editing. I premise that I will never use two of those programmes at the same time. do you have any advice?",
+        "created_utc": 1730977873.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Desktop Icons",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1glf64l/desktop_icons/",
+        "content": "Mac OS Monterey 12.6. Is there any way to hide desktop icons? The clutter drives me up the wall. used to be as easy as just right click. Is the only way to do it through some third-party application? So stupid if so. ",
+        "created_utc": 1730943558.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Can't transfer files to Flash Drive",
+        "score": 1,
+        "url": "https://i.redd.it/91uye5hqahzd1.png",
+        "content": "I found an old Mac Powerbook G4 and there are a bunch of old files i want to transfer to a flash drive before wiping the harddrive. Every time i try to move files (or even a single file, however small) this message pops up.  The flash drive is completely empty, it works like it should on my new MacBook Air and i have also reformatted it to MS-DOS. What is wrong here?\n\nI just want some way i can transfer the files from the computer, i bought blank dvds and wanted to burn the data to them but that didn't work either. Is the any other method to transfer files if this method with the flash drive won't work?",
+        "created_utc": 1730984872.0,
+        "subreddit_name": "mac",
+        "comments": 18
+    },
+    {
+        "title": "Switching from Intel to Apple Silicon",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1glpp24/switching_from_intel_to_apple_silicon/",
+        "content": "Hello everyone,\n\nI recently purchased an M1 mac. I’m planning to move from my Intel mac to the new one. \n\nShould I go ahead and use the migration assistant? Would that work seamlessly?\n\nI have seen softwares providing two different versions based on the chip. Hence, the confusion. ",
+        "created_utc": 1730983895.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Monitor ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gljopn/monitor/",
+        "content": "I’m considering buying a Mac mini instead of my iMac (M1). \nBut I can’t afford a 5K monitor. Is 4K good enough? Thinking of a Samsung ViewFinity S8. \n",
+        "created_utc": 1730958693.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "Minisforum launches V3 SE \"3-in-1 tablet\", equipped with Ryzen 7 7735U procesor -",
+        "score": 143,
+        "url": "https://videocardz.com/newz/minisforum-launches-v3-se-3-in-1-tablet-equipped-with-ryzen-7-7735u-procesor",
+        "content": "",
+        "created_utc": 1730972426.0,
+        "subreddit_name": "gadgets",
+        "comments": 3
     }
 ]

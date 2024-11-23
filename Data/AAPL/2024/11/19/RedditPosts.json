@@ -187,5 +187,158 @@
         "created_utc": 1732040084.0,
         "subreddit_name": "apple",
         "comments": 34
+    },
+    {
+        "title": "Apple Confirms Zero-Day Attacks Hitting macOS Systems",
+        "score": 620,
+        "url": "https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/",
+        "content": "",
+        "created_utc": 1732055327.0,
+        "subreddit_name": "technology",
+        "comments": 43
+    },
+    {
+        "title": "‘Surveilled’ Trailer: Ronan Farrow Investigates How Your Phone Is Being Used To Spy On You",
+        "score": 233,
+        "url": "https://deadline.com/video/surveilled-trailer-ronan-farrow-hbo-documentary/",
+        "content": "",
+        "created_utc": 1732030274.0,
+        "subreddit_name": "technology",
+        "comments": 45
+    },
+    {
+        "title": "What color iMac is this?",
+        "score": 661,
+        "url": "https://i.redd.it/6gb1ch51ix1e1.jpeg",
+        "content": "",
+        "created_utc": 1732052730.0,
+        "subreddit_name": "mac",
+        "comments": 107
+    },
+    {
+        "title": "Just updated to macOS Sequoia :)",
+        "score": 535,
+        "url": "https://i.redd.it/a5ot7ish0x1e1.jpeg",
+        "content": "",
+        "created_utc": 1732046854.0,
+        "subreddit_name": "mac",
+        "comments": 67
+    },
+    {
+        "title": "How much does it cost to fix, is it worth? ",
+        "score": 34,
+        "url": "https://i.redd.it/qee3k5d7xu1e1.jpeg",
+        "content": "This is a MacBook Pro 2019 Touch Bar \n",
+        "created_utc": 1732021512.0,
+        "subreddit_name": "mac",
+        "comments": 48
+    },
+    {
+        "title": "Longtime Windows & Linux user finally switching to Mac - here’s why. ",
+        "score": 27,
+        "url": "https://www.reddit.com/r/mac/comments/1gvafe7/longtime_windows_linux_user_finally_switching_to/",
+        "content": "I recently purchased a 14\" MacBook Pro with the M4 Pro chip. \n\nIt's amazing. The build quality is solid, the battery life is impressive, and the performance in day-to-day tasks is absurd. \n\nI have been a longtime Windows and Linux user, have built my own PCs for years, and while I have used Maca in the past - I generally still prefer the interface of Windows and most Linux distros over MacOS. \n\nSo why did I buy a MacBook? In a sense, it was a protest to Windows 11's feature bloat, lack of privacy protections, and lack of innovation. Microsoft has had YEARS to clean up Windows and make it a presentable and modern OS. They continue to disappoint me year after year. Windows is easy to use but looks hideous and lacks customizability. Microsoft's track record with user privacy is also extremely questionable - and their push for more and more AI features like recall has me concerned. \n\nIn addition to that - x86-64 hardware configurations have become far too power hungry for day-to-day use. I have a desktop PC with a 5950x, 64GB of RAM, and a 6900XT. It plays any game I throw on it - at the cost of massive power consumption. Day to day tasks like streaming videos or creative tasks like editing music can easily take 100-300 watts of power or more and generates so much heat. I had to move my computer out of my bedroom just because of how hot it made things in the summer. Graphics cards have gotten massive and Intel CPUs in particular have become so power hungry. When it comes to laptops, both Intel and AMD just aren't competitive with Apple's M series of chips when it comes to performance and battery life. Intel made great strides with Lunar Lake but that is a one-off product that is mostly available in thin-and-light chassis that aren't quite as nice as a MacBook.\n\nWhile the selection of games running natively on ARM Mac's is limited, I've found that a decent amount of games that I want to play can run. Other games can be streamed over Steam Link (even on the go) from a Windows PC at home. Buying a Mac for gaming isn't that huge of a compromise for gamers if you have an existing Windows machine to do the heavy lifting. \n\nOverall, I'm super happy with my new MacBook. I still wouldn't call myself a massive Apple fan - I don't love all their business practices; but I trust them with my data and their mobile hardware is simply too good to be ignored. Maybe if AMD/Intel is able to make mobile chips that compete with Apple's silicon I will switch back to Windows/Linux in the future but time will tell. ",
+        "created_utc": 1732056646.0,
+        "subreddit_name": "mac",
+        "comments": 11
+    },
+    {
+        "title": "Switching from Windows 10 to macOS for a senior?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/mac/comments/1gv6r0r/switching_from_windows_10_to_macos_for_a_senior/",
+        "content": "Hello everyone :)\n\nSomeone in my family who already has an iPad and an iPhone (but doesn't really know what to do with the iPad because she already has the iPhone) has a Windows 10 PC and needs a new one.\n\nDo you think the switch to macOS would be great for her if she now uses Office 2016 and Chrome on her Windows device and would continue to use it on the mac?\n\nDo you think the new mac mini would be a good choice?\n\nThank you very much for your answers!",
+        "created_utc": 1732047319.0,
+        "subreddit_name": "mac",
+        "comments": 21
+    },
+    {
+        "title": "i want to switch to Mac, any reccomendations?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gvb7yx/i_want_to_switch_to_mac_any_reccomendations/",
+        "content": "well, only things i do in my current laptop (a Hackintoshed dell) is to watch some series and movies in streaming, videos on youtube and some works for the university, and also listen music while lurking in social networks, what mac will be good for me?",
+        "created_utc": 1732058749.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "What Mac to get",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1guwsfd/what_mac_to_get/",
+        "content": "So, I currently own a M3 MacBook Air, that is pretty much base model except for 16 gb ram. I have had it for a few months now, and it is amazing. The thing is, I do notice that sometimes, even 16gb of ram is a bit low. And the 256gb storage is also really low, but I am fine with using an external ssd as long as its not much slower.\n\nI have barely been using my desktop PC I had for about 2 years ever since I got this MacBook, so I will likely end up selling it. I only really use it whenever I need some more memory, or just heavier workloads in general. this got me thinking about my options for what to use for my heavier workloads *after* selling the PC. I expect that if I sell the PC, I will have enough money for a base model mac mini with m4, which seems to be a really good machine. but then I still have 16gb memory limition.\n\nThen I realised I could probably either sell or trade in my macbook air, depending on which ends up more beneficial where I live, and then maybe spend a bit more, to get a macbook pro with m4.\n\nSome more info about what I use my computer for:\n\n*  Programming and general software development workflows (often with compiled languages, which is nice if it happens fast).\n* Light gaming (think minecraft with friends).\n* and the general browsing of the web, keeping notes, etc.\n\nMy question is basically: should I get a base model mac mini, or should I sell my macbook and potentially spend a lot more money on \"one machine for everything\". and if I do end up getting a macbook pro, what upgrades are worth it and which arent, I assume the storage is the least valuable to me, because external storage isnt that expensive.",
+        "created_utc": 1732021923.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Home WiFi on Macbook is not working but everywhere else works fine",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gvaht8/home_wifi_on_macbook_is_not_working_but/",
+        "content": "Hello, i have problem with my macbook air 2019, wifi in my home is not working, i got upload speed like 1mb but on iphone, ipad etc. everythingh works fine with 600mb download. I tried everything but i dont know what to do more. If i create hotspot from iphone, macbook works fine also if i am at work wifi there is working, anny suggestions? I tried reinstall macbook, played with DNS settings, Wifi setting , renamed wifis in router (2,4 and 5ghz), also removed 2,4 and nothing works. Please help me i am desperate. Its uncomfortable to switch on hotspot from phone everyday to work. (Sorry for english=not native speaker :D ) ",
+        "created_utc": 1732056823.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Did I get a good deal?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gv0kwp/did_i_get_a_good_deal/",
+        "content": "I bought a 2019 MacBook Air, 8/128gb variant Intel i5\n\nIt's flawless and has seen very little use\n\n£175\n\nI'm new to MacBooks but using it primarily for browsing, music, documents and admin stuff for a football team I run among some other bits. \n\nAlso, while it still performs well enough, is there any way to make this thing fly?\n\nThanks ",
+        "created_utc": 1732032186.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "What is the best remote desktop solution for macOS?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1guysgk/what_is_the_best_remote_desktop_solution_for_macos/",
+        "content": "I would like to switch my desktop to a new M4 iMac. However, this requires me to be able to remotly control the iMac from my MacBook. I would like to be able to resume work on the desktop from my MacBook and keep my apps running. Windows RDP feels pretty much like sitting in front of the PC. So far, the desktop is a Windows machine and the Microsoft RDP client works like a charm on the MacBook. I really like that the connection is like a second desktop and you can use a gesture on the magic pad to swipe between the local desktop and the remote desktop. I am looking for something similar to control a Mac machine.  Therefore, the remote control solution for macOS should have:\n\n* Adapt screen resolution to client\n* Video aud audio forwarding\n* Clipboard sharing\n* Ability to lock the local screen of the host and resume session at host / from client (programs are kept open when connecting locally / remotely)\n\n",
+        "created_utc": 1732027593.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Best way to transfer data off old MacBook Pro",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gumnt8/best_way_to_transfer_data_off_old_macbook_pro/",
+        "content": "I have an old MacBook Pro from 2011 that was my high school computer, and it has at least 10k photos on it. Also lots of documents and other random things I don’t want to lose. Miraculously, it still turns on and runs and everything, it’s just SO slow. I tried putting the photos folder by folder on a USB, but it crashed the computer. I’ve been sorting them into smaller folders but it’s SO time consuming. \n\nWhat is the best way to get these off and put them somewhere safe? I have a different apple ID on this old laptop, and I’m worried if I log into my new apple account and try to put them on the cloud, I’ll lose everything. I do have an external hard drive I can use, but that might be just as time consuming. \n\nOpen to any and all tips! TIA! ",
+        "created_utc": 1731983184.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "High-end Google Pixel laptop under development, may ditch Chrome OS for Android | Could a premium Android laptop rival Apple's MacBook Pro?",
+        "score": 502,
+        "url": "https://www.techspot.com/news/105630-google-could-developing-high-end-pixel-laptop-powered.html",
+        "content": "",
+        "created_utc": 1732031252.0,
+        "subreddit_name": "gadgets",
+        "comments": 183
+    },
+    {
+        "title": "Meta thinks its Orion augmented reality glasses can be the AirPods of AR",
+        "score": 0,
+        "url": "https://9to5mac.com/2024/11/19/meta-thinks-its-orion-augmented-reality-glasses-can-be-the-airpods-of-ar/",
+        "content": "",
+        "created_utc": 1732027166.0,
+        "subreddit_name": "gadgets",
+        "comments": 24
+    },
+    {
+        "title": "Microsoft is launching a $349 desktop PC that only runs Windows 11 by streaming it from the cloud — is this the future of desktop computing?",
+        "score": 0,
+        "url": "https://www.windowscentral.com/software-apps/windows-11/windows-365-link-desktop-cloud-pc-microsoft-announcement",
+        "content": "",
+        "created_utc": 1732024733.0,
+        "subreddit_name": "gadgets",
+        "comments": 31
+    },
+    {
+        "title": "Microsoft's first ever Windows 11 desktop PC costs just 349 Dollars, but there is a catch ",
+        "score": 0,
+        "url": "https://www.ghacks.net/2024/11/19/microsofts-first-ever-windows-11-desktop-pc-costs-just-349-but-there-is-a-catch/",
+        "content": "",
+        "created_utc": 1732038220.0,
+        "subreddit_name": "gadgets",
+        "comments": 52
     }
 ]

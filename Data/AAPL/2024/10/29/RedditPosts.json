@@ -304,5 +304,266 @@
         "created_utc": 1730220322.0,
         "subreddit_name": "apple",
         "comments": 24
+    },
+    {
+        "title": "Apple will pay up to $1M to anyone that can hack into their AI servers. ",
+        "score": 155,
+        "url": "https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/",
+        "content": "",
+        "created_utc": 1730180602.0,
+        "subreddit_name": "technology",
+        "comments": 46
+    },
+    {
+        "title": "Apple announces new and smaller Mac Mini with first redesign since 2010",
+        "score": 149,
+        "url": "https://www.cnbc.com/2024/10/29/apple-mac-mini-2024-price-release-specs.html",
+        "content": "",
+        "created_utc": 1730225175.0,
+        "subreddit_name": "technology",
+        "comments": 110
+    },
+    {
+        "title": "Apple is turning The Oregon Trail into a movie",
+        "score": 112,
+        "url": "https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/",
+        "content": "",
+        "created_utc": 1730214780.0,
+        "subreddit_name": "technology",
+        "comments": 88
+    },
+    {
+        "title": "If anyone cares, I made 2 visuals showing size differences between the Macs (and AppleTV)",
+        "score": 3303,
+        "url": "https://www.reddit.com/gallery/1gf0iym",
+        "content": "",
+        "created_utc": 1730223599.0,
+        "subreddit_name": "mac",
+        "comments": 206
+    },
+    {
+        "title": "An answer to \"Is 8GB enough?\" Apple finally says \"No\"",
+        "score": 273,
+        "url": "https://www.reddit.com/r/mac/comments/1gf1dsv/an_answer_to_is_8gb_enough_apple_finally_says_no/",
+        "content": "I've argued it for a decade. We now have the official answer. None of the latest announcements includes an 8GB model.\n\nThe smallest RAM Mac we have at home is a 16GB M1 iMac, because that was all that was possible at the time. ",
+        "created_utc": 1730225700.0,
+        "subreddit_name": "mac",
+        "comments": 134
+    },
+    {
+        "title": "Does anyone know the model of the keyboard shown on the Apple website?",
+        "score": 125,
+        "url": "https://i.redd.it/rama4ubrxrxd1.png",
+        "content": "",
+        "created_utc": 1730242033.0,
+        "subreddit_name": "mac",
+        "comments": 31
+    },
+    {
+        "title": "Apple Intelligence not using the Neural Engine but using the GPU",
+        "score": 82,
+        "url": "https://www.reddit.com/r/mac/comments/1gek6s3/apple_intelligence_not_using_the_neural_engine/",
+        "content": "https://preview.redd.it/48uq1iggvlxd1.png?width=2916&format=png&auto=webp&s=f3473fb92ff791bfacc9c1a9715834fcb4379b76\n\nI thought Apple intelligence should be using the neural engine instead of GPU since it's more power efficient. **(It's not using too much power on GPU tbh)**",
+        "created_utc": 1730168673.0,
+        "subreddit_name": "mac",
+        "comments": 19
+    },
+    {
+        "title": "MacBook M1 camera grainy after upgrade to macOS 15.1",
+        "score": 59,
+        "url": "https://www.reddit.com/r/mac/comments/1gf1vo0/macbook_m1_camera_grainy_after_upgrade_to_macos/",
+        "content": "After the upgrade from 15.0.1 to 15.1 yesterday, the video from the built-in camera on my M1 Max MacBook Pro 16“ has become extremely grainy. It’s definitely related to the macOS upgrade. I had several video calls just before the upgrade, and everything looked fine. However, immediately after the upgrade, the video is almost unusable. This is across all applications and constant.\n\nSame issue that is reported here. [https://forums.macrumors.com/threads/macbook-m1-camera-grainy-after-upgrade-to-macos-15-1.2441230/](https://forums.macrumors.com/threads/macbook-m1-camera-grainy-after-upgrade-to-macos-15-1.2441230/)\n\nI couldn't find the issue searching reddit. \n\nAnyone have any work fixes? Anyone have the issue and then upgrade to 15.2 beta? Did it fix it?",
+        "created_utc": 1730226924.0,
+        "subreddit_name": "mac",
+        "comments": 63
+    },
+    {
+        "title": "Apple provided another glimpse of the redesigned Mail app for MacOS. Screenshot of the current version for reference.",
+        "score": 38,
+        "url": "https://www.reddit.com/gallery/1geygyk",
+        "content": "",
+        "created_utc": 1730218478.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Apple no longer offers both Magic Mouse and Magic Trackpad to be purchased together with the iMac…",
+        "score": 34,
+        "url": "https://i.redd.it/ky1r65ox3qxd1.jpeg",
+        "content": "I was having a peek at the iMac and remember there was an option to purchase both the Magic Mouse and Magic Trackpad however I no longer seem to see that option… ",
+        "created_utc": 1730219849.0,
+        "subreddit_name": "mac",
+        "comments": 26
+    },
+    {
+        "title": "Base Model M1 Air 8/256 - 3 Year Review",
+        "score": 19,
+        "url": "https://www.reddit.com/r/mac/comments/1gf62pn/base_model_m1_air_8256_3_year_review/",
+        "content": "[Snapshot](https://preview.redd.it/scbbq0gzjrxd1.jpg?width=2880&format=pjpg&auto=webp&s=09ef27515190c9f121d3d139e948cc1534978a8e)\n\nBattery Health 95%\n\nMacOS Sequoia 15.0.1\n\n\n\nBackground activity:\n\n* Youtube 4k video playback\n* Live Photo editing and looping in photos app\n* Spotify playing\n* Some apps open and synching over iCloud\n* Some Safari tabs open in the background\n\n\n\nSystem stats with these activities:\n\n* CPU: 20-30%\n* RAM: 80-90% with 100-200MB Swap Memory Usage and slight pressure \n* Temp: 30-40C and not noticeable\n\n\n\nTakeaways:\n\nBase model M1 Air from several years ago is still more than capable for 95% of my tasks. I do NOT edit videos, photos or game on my Mac in a producing way, but only for personal use (trimming a video or adjusting light on a photo). It is only my media consumption, personal document storing/viewing, iCloud synching device that I use for the things I prefer to do on a bigger screen. I use Pages to write docs, and Keynote to prepare presentations, and more than half of my SSD is empty. \n\nMy most hardcore use-case scenario is when I mix music as a bedroom DJ, during which I even keep the Mac unplugged AND Low-Power Mode despite the DJ applications usually being demanding on resources. During such rare occasions, my battery only drops to 80% after 2-3 hours of continues mixing which is still far better than any other windows laptop I used before this beast, temps only rise to “lukewarm” but performance stays the same with less than 20% CPU utilisation. \n\nAlthough the new base model Macs are being announced minimum 16GB RAM, this thing is still enough to provide full power for my (and possibly many of users) needs and WILL get Apple Intelligence. \n\nSimply the Best.Purchase.Ever.\n\n\n\nCheers.",
+        "created_utc": 1730237394.0,
+        "subreddit_name": "mac",
+        "comments": 13
+    },
+    {
+        "title": "iMac M4 US version limited to 8K at 60Hz , International 8K at 120",
+        "score": 11,
+        "url": "https://www.reddit.com/r/mac/comments/1geq8gz/imac_m4_us_version_limited_to_8k_at_60hz/",
+        "content": "I don't think anyone has noticed or mentioned this before.   \n  \nThe iMac US spec sheet now says   \n\n\n* Up to two external displays with up to 6K resolution at 60Hz or one external display with up to 8K resolution at 60Hz [https://www.apple.com/imac/specs/](https://www.apple.com/imac/specs/)\n\nWhile International version says   \n\n\n* Up to two external displays with up to 6K resolution at 60Hz or one external display with up to 8K resolution at 120Hz [https://www.apple.com/uk/imac/specs/](https://www.apple.com/uk/imac/specs/)",
+        "created_utc": 1730192941.0,
+        "subreddit_name": "mac",
+        "comments": 18
+    },
+    {
+        "title": "How much does the default system take on a Mac in 2024 with macOS sequoia with preinstalled default apps and everything default?",
+        "score": 9,
+        "url": "https://www.reddit.com/gallery/1gf6usl",
+        "content": "Hey, I think to buy the new Mac mini and I wonder how much storage I gonna have to upgrade and I wonder how much does macOS and system data and the default apps take this is my first Mac so I have never use a #Mac",
+        "created_utc": 1730239449.0,
+        "subreddit_name": "mac",
+        "comments": 10
+    },
+    {
+        "title": "Do you think it is worth to upgrade a 512GB macbook pro to 4TB?",
+        "score": 7,
+        "url": "https://youtu.be/mohlXVnlAqA",
+        "content": "",
+        "created_utc": 1730194654.0,
+        "subreddit_name": "mac",
+        "comments": 16
+    },
+    {
+        "title": "Desk view on studio display",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1geqdt6/desk_view_on_studio_display/",
+        "content": "With the new M4 iMacs getting a 12 MP facetime camera with centre stage and desk view, what are the chances that apple will update the studio display’s software to also support desk view seeing it also has the same 12 MP facetime camera that supports centre stage?",
+        "created_utc": 1730193646.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Magic Keyboard with numpad or without?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gehyct/magic_keyboard_with_numpad_or_without/",
+        "content": "After Apple finally incorporated USB-C to the Magic Keyboard, I’m debating if I should get it with the numpad or without it. Do the extra keys matter or is color a thing to keep it nice and tidy? Thoughts? ",
+        "created_utc": 1730162084.0,
+        "subreddit_name": "mac",
+        "comments": 12
+    },
+    {
+        "title": "Question re Two External Displays on MacPro M3",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1getfn3/question_re_two_external_displays_on_macpro_m3/",
+        "content": "I’m struggling to connect two external displays - when I purchased, I understood that a benefit was multiple ports, and purchased a dongle so that I have two HDMI ports. I now realize from reviewing system settings that it only supports one external, but two if I close the laptop (tried last night, didn’t work) - After speaking with Apple care, I tried this all again, and tried with another monitor that I have (2 are brand new Samsungs out of the box, the third I tried today is my existing Samsung). I’m in the process of updating to Sonoma 14.7.1, but will that help? What do I need to do/buy in order to have two external displays and the laptop all open, can this be done - do I need a docking station, splicing cable? Computers are not my area of expertise so please forgive …",
+        "created_utc": 1730205087.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Have I damaged my laptop?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1getf12/have_i_damaged_my_laptop/",
+        "content": "I spilled a couple of drops of fruit juice onto my M3 MacBook Air on the keyboard, immediately powered it off, wiped it with a wet cloth and I’ve now left it to dry. Is it likely I’ve caused any damage, how can I tell if I’ve caused damage and I’ll see problems down the line, and is there anything else I should do now?",
+        "created_utc": 1730205035.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "Battery drainage issue",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gf2qzs/battery_drainage_issue/",
+        "content": "Hi, I have to travel for school everyday about 1h, where half of that time is spend outside. I often bring my MacBook to class, as I’m doing my projects on it. I live in a climate where winters are fairly cold, and I’ve noticed, that spending this 30-40mins outside in ~5 degrees Celsius my battery level drops by 40-50%\n\nAre there any tips for keeping the battery charged in cold weather? Is there a special laptop sleeve that helps with this issue? \n\nThx in advance ",
+        "created_utc": 1730229079.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Do I Really Need a 16-inch MacBook Pro Anymore? Exploring Trade-In Options",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gf1a0h/do_i_really_need_a_16inch_macbook_pro_anymore/",
+        "content": "I have a 16-inch M1 MacBook Pro that I got as a gift when I started grad school. It was and is amazing for data analysis, GIS, writing papers, and all that. But after finishing grad school, I mainly used it to apply for jobs—and now that I'm working, it sees even less use. Lately, it's mostly for the occasional online shopping, but even then, I mostly use my phone unless it’s for bigger purchases like flights.\n\nI’m thinking of maybe taking some online courses in data/stat analysis down the line through DataCamp, so I’d like to keep something around \"just in case.\" But with my usage dropping, a work laptop at hand, and my own M1 iPad Pro, I’ve been considering a trade-in for something that fits my needs better:\n\n- New M4 Mini: Smaller footprint but still something I could keep on my desk.\n\n- 13-inch MacBook Air: Either wait for the M4 or go with the M3.  The current 16-inch MacBook Pro I have is a bit big for me now.\n\n- M4 iPad Pro: Trading in my M1 iPad Pro and MacBook for it and going all-in. This would be my main device besides my phone, and it can handle everything I need. I also use my iPad for work notes during meetings, streaming on the go, and as my travel “computer” when I visit family. However, when I think of this option it feels weird to me not having some sort of laptop/computer that's not a tablet.\n\nI would appreciate any advice as I have been going back and forth on this recently.",
+        "created_utc": 1730225442.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Water inside a MacBook",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1gf0zo1",
+        "content": "Hello, my friend’s old MBP got some water inside (a bottle opened in his backpack). We carefully wiped all the water from the outside, but it unfortunately got inside too. I unplugged the battery, but I noticed these small ‘bubbling’ things on some parts of the mb. Can it survive or is it 100% dead? ",
+        "created_utc": 1730224740.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "I accidentally erased my MacOS and can't get it back",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gf0eew/i_accidentally_erased_my_macos_and_cant_get_it/",
+        "content": "For context, I am using mid 2010 iMac and I am trying to make it lighter by complete reinstall, but it just erased the MacOS. I have trued the recovery and it constantly said no connection with server. I try to use the shift-command-option-r but it just display globe then load for 15 minutes and go back to the recovery option. What should I do?? ",
+        "created_utc": 1730223280.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Should I get a new Macbook or Repair my current one?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1geso8t/should_i_get_a_new_macbook_or_repair_my_current/",
+        "content": "Hey, so as the title suggests i'm unsure of wether I should get a new Macbook or repair my current one, i'm using a 13-inch early 2015 Macbook air and the battery isn't doing so okie-dokie, it has 2.5k cycles and it needs service so i'm wondering if I should repair my current macbook or save up for a new one,\n\nEdit: Planning on getting  new one, thank you all for the advice.",
+        "created_utc": 1730202596.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "iPhone Mirroring won't me open locked apps, doesn't ask for Mac password or TouchID",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gep5g3/iphone_mirroring_wont_me_open_locked_apps_doesnt/",
+        "content": "https://preview.redd.it/e2u1k5jggnxd1.png?width=852&format=png&auto=webp&s=b1678a37fba82c24d4bba35cf310e37e2a90d6f7\n\nhttps://preview.redd.it/ao2xr7nignxd1.png?width=852&format=png&auto=webp&s=11abc74fe16165bfd259269a6e234698ae7373fe\n\n\n\nWhen I was on the Sequoia and iOS 18 Beta I remember iPhone Mirroring asking for passcode for locked apps (locked either by the app itself or through the OS). But now on the stable releases I no longer have the option to enter Mac password to unlock popping up. Any ideas?",
+        "created_utc": 1730187881.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Availability in Apple Store",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gei6zz/availability_in_apple_store/",
+        "content": "Hello, i have a family member travelling to Florida in late November and has offered to bring me my first Macbook pro. The thing is i want the M3 with 24gb RAM and 1TB and the keyboard in Spanish (Latin America). How common would be to find a Macbook pro with this specs in an apple store in the state of Florida?\n\nHe wont have much time there so buying online is not an option.",
+        "created_utc": 1730162776.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Water Damage 16in MacBook M1Pro, Won’t Shut Down Properly",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gei1kb/water_damage_16in_macbook_m1pro_wont_shut_down/",
+        "content": "Accidentally spilled water all over the keyboard, maybe like 3 oz worth, immediately dried it up real well then flipped it over, put my vornado fan right up on the keyboard while upside down and let it air dry for 10 mins while pat drying the droplets that emerged… mac was on the entire time as I was too focused on drying up the water. \n\nHowever, I shook it upside down in hopes of getting extra droplets but after a good shake, the mac shut down. Then it restarted on its own. \n\nIt’s been almost 2 hours and whenever I try to shut the machine down, it shuts down properly but then restarts almost immediately out of nowhere. Tried this 3x thinking this was user error but nope, it does it automatically.\n\nIt’s been upside down this whole time (screen laying flat on my bed and strong fan aimed directly at upside down keyboard with mac vents facing down). Currently on sleep mode since mac won’t shut down as it restarts every time a shutdown is attempted.\n\nWhat should I do? Any help is greatly appreciated. I’ll probably be going to the apple store tomorrow morning for a diagnostic. I dont have applecare so the fee for Apple to fix it is probably something I can’t afford right now. ",
+        "created_utc": 1730162341.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Report: iPhone 17 early manufacturing set for India, marking new milestone for Apple",
+        "score": 2031,
+        "url": "https://9to5mac.com/2024/10/29/report-iphone-17-early-manufacturing-set-for-india-marking-new-milestone-for-apple/",
+        "content": "",
+        "created_utc": 1730209407.0,
+        "subreddit_name": "gadgets",
+        "comments": 240
+    },
+    {
+        "title": "Apple announces redesigned Mac Mini with M4 chip — and it’s so damn small  | The Mac Mini gets its first design overhaul in more than a decade, and it comes with some serious upgrades on the inside, too.",
+        "score": 1347,
+        "url": "https://www.theverge.com/2024/10/29/24281589/apple-mac-mini-redesign-m4-announcement-specs",
+        "content": "",
+        "created_utc": 1730217689.0,
+        "subreddit_name": "gadgets",
+        "comments": 461
+    },
+    {
+        "title": "The OnePlus 13 will beat Apple, Google, Samsung with its IP ratings",
+        "score": 0,
+        "url": "https://www.androidauthority.com/oneplus-13-ip-rating-confirmed-3494129/",
+        "content": "",
+        "created_utc": 1730191477.0,
+        "subreddit_name": "gadgets",
+        "comments": 19
     }
 ]

@@ -196,5 +196,158 @@
         "created_utc": 1732273233.0,
         "subreddit_name": "apple",
         "comments": 41
+    },
+    {
+        "title": "Magic Mouse 2024 (USB-C) requires latest macOS Sequoia!",
+        "score": 1019,
+        "url": "https://i.redd.it/9dwrxfxjog2e1.jpeg",
+        "content": "Just bought the 2024 version of Magic Mouse (with USB-C) and I was dumb enough to not knowing beforehand that it requires macOS Sequoia at latest version to be fully functional!\n\nMy Mac is still on Sonoma and this new MM is recognized only as a generic mouse, no gesture or scrolling possible! Now I have to proceed with the upgrade which I don’t like as Sonoma is quite stable to me 😐.\n\nThis mouse is identical to its Lightning sibling right (of course except for the port)? Then why did Apple try to limit its functionality to macOS 15.1 and above?",
+        "created_utc": 1732284956.0,
+        "subreddit_name": "mac",
+        "comments": 303
+    },
+    {
+        "title": "remember RAM doubler? Could something similar be programmed nowadays for MacOS?",
+        "score": 566,
+        "url": "https://i.redd.it/24tvxu43oc2e1.jpeg",
+        "content": "",
+        "created_utc": 1732236463.0,
+        "subreddit_name": "mac",
+        "comments": 118
+    },
+    {
+        "title": "My new M4 Pro iMac Pro",
+        "score": 567,
+        "url": "https://www.reddit.com/gallery/1gwz56e",
+        "content": "Using a twelve-south back pack on my Studio Display to rest and hide the M4 Pro Mac Mini. Clean and powerful. \n\n",
+        "created_utc": 1732248250.0,
+        "subreddit_name": "mac",
+        "comments": 36
+    },
+    {
+        "title": "How does the M4 Max MacBook Pro compare to the M2 Ultra? ",
+        "score": 14,
+        "url": "https://i.redd.it/2zgz7grboi2e1.jpeg",
+        "content": "Ready to upgrade my 2017 MacBook Pro, I need something to be able to render pretty complicated video files from AfterEffects. Currently it takes my laptop about 3 hours sometimes for a 6 min video so I know it's time. \n\nMy husband wants me to get: the 14inch MacBook Pro (16-core Neural Engine _ 14-inch Liquid Retina XDR display^2 _ Three Thunderbolts 5 ports _ HDMI port, SDXC card slot, headphone Jack, MagSafe 3 port _ Magic Keyboard with Touch ID _ Forcetouch trackpad _ 96W USB-C Power Adapter) at $3199 \n\nBut I feel like the Mac Studio (Apple M2 Max with 12-CORE CPU, 30-core GPU, 16 core Neutral Engine) at just around $2k would be just fine.\n\nI work from home so I don't need it to be a laptop. I need it to render videos and would like to be able to work on other animations while I'm rendering a large file from After Effects. \n\nMy friend who reccomended the Mac Studio said: \"maybe would be good to ask on reddit how m4 max macbook pro compare to m2 ultra. Based off of stats I think mac studio will be better. More cores for both GPU and CPU and 2x more memory, and will have a much bigger heat sink to push the GPU harder\"\n\nI would like to enhance my workflow but I don't want to spend too much and have it be overkill. \n\nThanks so much for taking time to read!! any help would be very much appreciated! ",
+        "created_utc": 1732309093.0,
+        "subreddit_name": "mac",
+        "comments": 21
+    },
+    {
+        "title": "Removing linux from old mbp",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1gxcsbr",
+        "content": "I set my 2011 mbp as a dual boot machine, but for some reason (pls don't ask) i would like to go back. But when I installed linux mint, it made ubuntu the default on my system, and when I go into startup disk settings in macos, the only option is osx base, which is greyed out.\n\nStep 1. Mount EFI, and delete ubuntu folder\nStep 2. Delete the linux partition.\nWill this revert my system back? Or is it not that easy?",
+        "created_utc": 1732295382.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Searching via 'Command F' suddenly not working...",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gx0kgf/searching_via_command_f_suddenly_not_working/",
+        "content": "Non Techie here, so pretend you're answering this like you're talking to a five year old. Or a Dodo...\n\nI have a 2020 27-inch iMac...finally upgraded a month ago or so to Sequoia 15.1.1. Everything's been going smoothly until sometime late this afternoon.\n\nI'm an artist/photographer/writer, and if I need to find an image/document/folder, etc., I've always just hit 'command + F', typed in the image or folder name, and it appears.\n\nNot today/tonight. I can't even \"find\" an image or folder that's clearly on my desktop. \n\nUnsure of what happened, but would sincerely appreciate any tips or advice.\n\nThanks in advance.",
+        "created_utc": 1732253080.0,
+        "subreddit_name": "mac",
+        "comments": 17
+    },
+    {
+        "title": "Meet me where I'm at - bad computer user needs good computer, what to buy?!",
+        "score": 1,
+        "url": "https://www.reddit.com/r/mac/comments/1gxjrtt/meet_me_where_im_at_bad_computer_user_needs_good/",
+        "content": "Hi y'all. I'm planning to go freelance and will lose my company laptop. Looking to buy something for Black Friday. I don't want to spend more than a grand, and if I could bring it down to under $700 that'd be rad. \n\nI spend all my time multi-tasking, mostly word processing- I usually have several documents, a couple of excel docs, and 10+ chrome tabs that I'm flitting between, at any one time. While also  streaming a show. 8 hours a day. 5 days a week. And then also on and off Zoom, and with a couple other programs running in the background (Asana desktop, spotify?).  \n\n\nSo not complex stuff, just a lot of juggling. I currently have a 2020 macbook pro with the lowest specs, intel whatever, 8gb RAM, etc etc. It sucks. It's slow. It freezes. The fan is always going like it's in a sauna, despite always being on a laptop stand with vents.  \n  \nI know I want an M series processor. I'm looking for a mac with a bigger screen (14inches plus). I'm not sure if it's better for my generally chaotic approach to life to get:\n\n\\- a newer macbook air (2023?), M2 processer, 16gb RAM, 15 inch screen.\n\n\\- an older macbook pro (2021?), M1 processer, 16gb RAM, 16 inch screen.\n\nOr something older/shitter if y'all think I can get away with it! I really just want this thing to last me as long as possible. I'm scared that the air doesn't have a fan. \n\nThanks for any input you can provide! Thank you for being good at tech, on behalf of those of us who aren't! ",
+        "created_utc": 1732313298.0,
+        "subreddit_name": "mac",
+        "comments": 13
+    },
+    {
+        "title": "Apple Care showing as $139.99 / month (Canadian) ",
+        "score": 1,
+        "url": "https://www.reddit.com/r/mac/comments/1gxi1s4/apple_care_showing_as_13999_month_canadian/",
+        "content": "I've been in contact with Apple support since September to get this resolved but the error is still showing. Apple has confirmed that is not the correct price (clearly!). I'm obviously worried that the very wrong amount of $139.99/month will actually be charged if I click the \"Link Plan to Your Apple Account\" button but want to continue Apple Care.\n\n$139.99/month (Canadian dollars) was showing on the previous OS so I contacted Apple, and then updated that OS with all patches. Then when it still showed this amount contacted them again then waited because I'd been told \"the website will be updated to the correct amount\". Today I finally updated to Sequoia and still has the error.\n\nI'm running out of time since I have to accept before Dec. 4 but am understandably worried about being very much overcharged. :/\n\nAnyone seeing the same thing? Any advice what more to do?\n\nhttps://preview.redd.it/cxprf15sni2e1.png?width=3024&format=png&auto=webp&s=b037b2ad6d5e8532d4955a4648be0e1647e22bf7\n\nhttps://preview.redd.it/5n4lv05sni2e1.png?width=3024&format=png&auto=webp&s=bbad0f02d69d58f5d040f078ef90119f070a2388\n\n  \n",
+        "created_utc": 1732308699.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "macbook pro 13\" 2017 turns on unconcistently",
+        "score": 1,
+        "url": "https://www.reddit.com/r/mac/comments/1gxhnsr/macbook_pro_13_2017_turns_on_unconcistently/",
+        "content": "My mom's macbook doesn't turns on everytime the button is pressed (almost once in 4-5 days), we are thinking about battery issue but we aren't sure and we don't want to make useless repairs. Who know where it comes from ?",
+        "created_utc": 1732307697.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "How do I prevent my child from running apps outside of the Application folder",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gxbf26/how_do_i_prevent_my_child_from_running_apps/",
+        "content": "Hi all, my child is using my MacBook for school.   \nI created a standard user for him so he can't install anything. But I had to realise that almost everything comes as a DMG file, meaning he can just drag the apps onto the desktop and run it from there. \n\nIs there any way to prevent this?  \nIs it possible to prevent DMGs from being mountable?",
+        "created_utc": 1732291939.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "Can I Boost Apple Studio Display Fans to Clear Dust?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gxa8w1/can_i_boost_apple_studio_display_fans_to_clear/",
+        "content": "Is there a way to max out the fans on an Apple Studio Display to blow out dust? Workers sanded drywall mud nearby and didn’t cover it properly. I’ve heard that the dust particles can be harmful to the longevity of electronics. I know compressed air and vacuums aren’t recommended, so I’m wondering if running the fans at full speed for a minute could help? \n\nThanks in advance for the advice!!",
+        "created_utc": 1732288909.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "My Decision - Raycast v Alfred",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gx6lmw/my_decision_raycast_v_alfred/",
+        "content": "While Spotlight is good, especially when coming from the Windows world....I went down the Spotlight replacement rabbit hole. Raycast or Alfred?  Sorry if this has been covered ad nauseam, but thought that my experience may benefit others.   \n  \nWell, I bought the Pro of both. Both are very good at what they do.  But in the end I found myself with a clear favorite.  \n  \n**Alfred - thoughts**  \n•Alfred is a touch faster than Spotlight or Raycast.  \n•It allows for switching to dedicated file search by pressing space after activating it.  \n•The interface feels dated but the simplicity of it is probably why it is faster.  \n•It took a little bit of extra time on my part to get it setup, but pretty painless.  \n•Like that the cost is a one time thing and you can get lifetime updates.  \n•Alfred’s interface feels like it was meant for someone that already knows the interface. Getting help, I needed to dive a little into the menus and such.  \n•I like the idea of the workflow system(low code/no code build of functionality if you choose to create your own), but in practice, trying to install them and then have them work….they either needed additional stuff installed like Brew, PHP and some other things which didn’t always work or the workflows just didn’t work period. Ran into this roughly 50% of the time.  \n•Alfred at the base or free level is basically just a faster version of Spotlight. You have to buy the Pro to get really any advanced features at all.  \n•You can integrate with AI (chatfred workflow). You create an AI account with OpenAI, then you have to go into that account as a developer and get your client ID and secret code. Link that into the workflow and you have your account available. The rub? You are limited to the access and usage that you have for your account. Mine was a free account so after a few uses, I was limited and could not use it anymore unless I upgrade to pro or wait for my credits to recharge next month.  \n  \n**Raycast - thoughts**  \n•Near pain free installation.  \n•Why “near”? When swapping out the hotkey for activation (replacing spotlight’s command+space), I remapped spotlight to CTRL+Space, but then I had to try and map the Raycast command to CMD+Space three or four times and it kept telling me that the emoji’s pallet was now mapped to that hotkey sequence.  \n•Not sure if that was a thing the OS was doing or not…but eventually got through it. After that though, everything was basically run the installer and you are ready to go.  \n•At first, I was a bit displeased with the interface. Seems that a lot of the commands, you put in the keyword and then have to hit return to go into that mode. After using it for a while, it kind of makes sense as then you know exactly what you are working in and what to expect.  \n•Raycast has extensions and so far, I’ve had 100% success on install and each of them functioning as expected.  \n•You can create your own extensions, but that is a little more complicated as you need to code them. Unlike Alfred, this is not a drag and drop and setup and object…this is actual coding.  \n•AI is available as part of the Pro/paid offering. You access it simply by pressing TAB after you initiate Raycast. I did not have to do anything special, add any secret keys. It just works and I have not bumped up against any limits on usage at this point - other than whatever functionality the selected AI engine you setup has.  \n  \n**Common To Both - Thoughts**  \n•Assign hotkeys or quick commands to fire things up.  \n•For example, you can set up a quick link to your browser with the YouTube search URL. Assign “yt” as the keyword, Alfred/Raycast prompt for the search parameter. Once you hit enter, the tools open up the browser to the proper URL and do the search for you in one easy step.  They both also have \"plugins\" to do something similar if you prefer.  \n•Anything you can imagine, there is probably a plugin (extension or workflow) to do what you want. A system function you want to get to quickly? Its probably already built in to control in the tool. For example, there is a “quit all applications” command to shut down all active running programs. Instead of going into the menus to force quit something, you can install a “kill” plugin to do it right from the tools prompt.  \n•Clipboard history - you can go back and search through clipboard history. Limited time on the free versions, but the pro will allow you to go back as far as you want. You can also setup a limit on how long to keep stuff so that it doesn’t get too unwieldy.  \n•Syncing - love the fact that you can cloud sync the plugins and settings across multiple machines. Setup all this first on my Mac Mini, did a cloud sync and then installed on my MacBook Air. Once signed into the account on the MacBook, it automatically pulled all the settings and plugins over for you.  \n  \n**End of the day -** ***Raycast*** **is the one that I see long term usage.**",
+        "created_utc": 1732278228.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "My Macbook pro 2018 keeps randomly restarting  anything I should do ",
+        "score": 2,
+        "url": "https://i.redd.it/a8b9m72mof2e1.jpeg",
+        "content": "",
+        "created_utc": 1732272870.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "15.1.1 update = Slow Internet ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gx4zts/1511_update_slow_internet/",
+        "content": "Hey, after updating to 15.1.1 my internet is basically to a crawling stop. Either nothing loads or super slow. On my phone no problem but after updating my MBP M2 Pro it's now totally useless online. I tried everything from restart to resetting router. And it's not just Safari but all browsers.\n\nWhat gives? Any idea how to fix? ",
+        "created_utc": 1732272013.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Help before this Apple gets squished",
+        "score": 2,
+        "url": "https://i.redd.it/r9tc4vlu8d2e1.jpeg",
+        "content": "Thrifted this guy for $20 and I'm determined to get it going. It will install high sierra until the 2 minutes remaining and hit me with this error. How can I fix/get around it? I've tried everything I found on google and I can't do a bootable usb unless I go find someone else with an iMac to make one. ",
+        "created_utc": 1732243355.0,
+        "subreddit_name": "mac",
+        "comments": 22
+    },
+    {
+        "title": "Delete apps in recovery mode?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gww219/delete_apps_in_recovery_mode/",
+        "content": "Is there a way to delete applications in recovery mode? \n\nI have a friend who needs just 2.5gb of space cleared to reinstall MacOS, but can’t access her system outside of recovery mode due to the issue I talked abt in my previous post. \n\nI am mildy okay with using Terminal if that helps. \n\nWe do not have a Thunderbolt connector to hook my mac to hers, and no Ext. Hard Drive. Not interested in erasing all her data either. ",
+        "created_utc": 1732238662.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "How can I delete videos 2 sec or shorter in Apple Photos?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwvb29/how_can_i_delete_videos_2_sec_or_shorter_in_apple/",
+        "content": "I want to remove videos 2 sec or shorter from an Apple Photos library. File size is not a suitable determiner of duration. One solution is exporting all video files, deleting the originals from the library, deleting the short duration exports in Finder, then importing them into the library -- but that seems absurd. PowerPhotos is powerful but does not sort by video duration. Exif data is so limited in Photos! I don't want to switch to using Lightroom or Photoshop for managing photos on the Mac because Apple Photos is so well integrated into the Apple ecosystem, iCloud sharing, and general family use.",
+        "created_utc": 1732236470.0,
+        "subreddit_name": "mac",
+        "comments": 4
     }
 ]

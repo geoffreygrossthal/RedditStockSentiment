@@ -142,5 +142,104 @@
         "created_utc": 1729764032.0,
         "subreddit_name": "apple",
         "comments": 40
+    },
+    {
+        "title": "The FCC will review the broadband industry’s lousy customer support | The formal inquiry will tackle hard-to-cancel subscriptions, phone tree “doom loops” and poor accessibility options.",
+        "score": 820,
+        "url": "https://www.engadget.com/big-tech/the-fcc-will-review-the-broadband-industrys-lousy-customer-support-204329886.html",
+        "content": "",
+        "created_utc": 1729761250.0,
+        "subreddit_name": "technology",
+        "comments": 38
+    },
+    {
+        "title": "Apple and Goldman Sachs ordered to pay $89 million over Apple Card failures",
+        "score": 413,
+        "url": "https://www.npr.org/2024/10/23/g-s1-29566/apple-goldman-sachs-fine-apple-card-cfpb",
+        "content": "",
+        "created_utc": 1729739409.0,
+        "subreddit_name": "technology",
+        "comments": 17
+    },
+    {
+        "title": "Got a free 2011 iMac. Should be a fun refresh project ",
+        "score": 80,
+        "url": "https://i.redd.it/9ib9l8nlnqwd1.jpeg",
+        "content": "So picked this up earlier and to my dismay I can’t reinstall Maverick on it since it won’t let me log in with my Apple ID from the utility screen. So likely going to go the route of a USB installer with OCLP and see if I can at least get Ventura to run on it. Also going to be putting in 16gb of Ram",
+        "created_utc": 1729790619.0,
+        "subreddit_name": "mac",
+        "comments": 14
+    },
+    {
+        "title": "battery bulge?",
+        "score": 21,
+        "url": "https://www.reddit.com/gallery/1gbbyyx",
+        "content": "i was seeing a little bit of asymmetry on the sides of my 13 in macbook pro m1 and was wondering if this is normal",
+        "created_utc": 1729800308.0,
+        "subreddit_name": "mac",
+        "comments": 37
+    },
+    {
+        "title": "Wierd screen bug in my macbook",
+        "score": 19,
+        "url": "https://www.reddit.com/gallery/1gb7ea5",
+        "content": "",
+        "created_utc": 1729790080.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "Dell 40 UltraSharp vs Dual Monitor",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gb7jie/dell_40_ultrasharp_vs_dual_monitor/",
+        "content": "Which is better for programming im on the edge of buying second monitor to my current 27 Ultrasharp Dell but i have the money and want the best workflow which one to get ? 3 27 UltraSharp Dell monitors will still be cheaper but i think with the window management and no bezel in between i can don't have to roll my head around and just have windows stack next to each other and i can have the current 27 inch Vertically or use laptop 16 inch MacBook screen. I really think the bezel and the position of your head not being centered with the dual/triple makes it lesser but most websites and forums say Dual Monitor is better than ultrawide but they maybe didn't implement the feature that there exists something in the middle and that is the Dell 40 UltraSharp. It has also more height than the 27 inch right?",
+        "created_utc": 1729789191.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Apple Photos won't import downloaded iCloud Photos from SSD",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gb0fp1/apple_photos_wont_import_downloaded_icloud_photos/",
+        "content": "Moving all my iCloud Photos to an external SSD that I run my photos library from. I got my photos from apple but when I try to import them into my Apple Photos library, it says there isn't enough free disk space. This even happens if I just try to import 1 JPEG. I have 187 gb free on my internal drive and have 1 TB free on my external SSD. \n\nI'm on Sonoma with all updates installed. I also tried moving one of the images to another external SSD and did Disk Utility first aid to check and got no error and Photos still won't import 1 single photo. Anyone else have this issue or know a solution? ",
+        "created_utc": 1729769689.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Apple Intelligence Isn't Driving iPhone 16 Sales the Way Apple Hoped, Analyst Says",
+        "score": 1802,
+        "url": "https://gizmodo.com/apple-intelligence-iphone-16-sales-2000515926",
+        "content": "",
+        "created_utc": 1729777333.0,
+        "subreddit_name": "gadgets",
+        "comments": 716
+    },
+    {
+        "title": "Apple Watch sleep apnea detection now available in Canada following approval",
+        "score": 176,
+        "url": "https://9to5mac.com/2024/10/23/apple-watch-sleep-apnea-canada-2/",
+        "content": "",
+        "created_utc": 1729765362.0,
+        "subreddit_name": "gadgets",
+        "comments": 20
+    },
+    {
+        "title": "Samsung Galaxy S24 FE review: A great phone, but I wish it was cheaper | engadget",
+        "score": 44,
+        "url": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-s24-fe-review-a-great-phone-but-i-wish-it-was-cheaper-190032655.html",
+        "content": "",
+        "created_utc": 1729797191.0,
+        "subreddit_name": "gadgets",
+        "comments": 11
+    },
+    {
+        "title": "Location tracking of phones is out of control. Here’s how to fight back | Unique IDs assigned to Android and iOS devices threaten your privacy. Who knew?",
+        "score": 239,
+        "url": "https://arstechnica.com/information-technology/2024/10/phone-tracking-tool-lets-government-agencies-follow-your-every-move/",
+        "content": "",
+        "created_utc": 1729776158.0,
+        "subreddit_name": "technews",
+        "comments": 11
     }
 ]

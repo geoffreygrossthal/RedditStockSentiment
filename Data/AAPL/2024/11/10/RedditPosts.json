@@ -160,5 +160,167 @@
         "created_utc": 1731236426.0,
         "subreddit_name": "apple",
         "comments": 91
+    },
+    {
+        "title": "Apple now sells iPhone 16 and 16 Pro repair parts",
+        "score": 959,
+        "url": "https://www.theverge.com/2024/11/10/24292775/apple-iphone-16-pro-max-plus-repair-parts-diy-self-service",
+        "content": "",
+        "created_utc": 1731267426.0,
+        "subreddit_name": "technology",
+        "comments": 46
+    },
+    {
+        "title": "Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots, Making Unlocking Harder",
+        "score": 862,
+        "url": "https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/",
+        "content": "",
+        "created_utc": 1731239611.0,
+        "subreddit_name": "technology",
+        "comments": 190
+    },
+    {
+        "title": "Who would like a Lunar Blue MacBook Pro?",
+        "score": 314,
+        "url": "https://i.redd.it/i8iuhp8i420e1.png",
+        "content": "",
+        "created_utc": 1731237023.0,
+        "subreddit_name": "mac",
+        "comments": 50
+    },
+    {
+        "title": "The most efficient M4 series chip is the 12-core M4 Pro",
+        "score": 161,
+        "url": "https://www.reddit.com/r/mac/comments/1go65nz/the_most_efficient_m4_series_chip_is_the_12core/",
+        "content": "## Geekbench 6 CPU scores\n\n* M4 6e/4p/10g: 15 115\n* M4 Pro 4e/8p/16g: 20 472\n* M4 Pro 4e/10p/20g: 22 850\n* M4 Max 4e/10p/32g: 23 137\n* M4 Max 4e/12p/40g: 26 482\n\n## Analysis of CPU scores\n\n* M4 6e/4p/10g: 1 512 score per core\n* M4 Pro 4e/8p/16g: **1 706 score per core**\n* M4 Pro 4e/10p/20g: 1 632 score per core\n* M4 Max 4e/10p/32g: 1 653 score per core\n* M4 Max 4e/12p/40g: 1 655 score per core\n\nWhen going from M4 to 12-core M4 Pro, we are adding p-cores and removing e-cores and thus the increase to score per core is justified. When going from the 12-core M4 Pro to any higher-tier chip, we are again adding p-cores but the score per core decreases, indicating diminishing returns (you would expect the score per core to increase because the e-core / p-core ratio is changing in favor of p-cores). The only explanation for this I have is that either the p-cores in 12-core M4 Pro can be pushed to higher clocks due to thermal/wattage headroom, or the higher tier chips start hitting some kind of thermal/wattage constraints, i.e. they are throttling or they are power starved.\n\n~~Another way to look at this is that by going from 10-core M4 to 12-core M4 Pro, you are adding 2 p-cores (33% increase in p-core count for a total of 8 p-cores) and getting additional 35% multicore CPU performance. By going to 14-core M4 Pro and adding 2 more p-cores (25% increase in p-core count for a total of 10 p-cores), you are getting only additional 11.6% multicore CPU performance. That's a huge discrepancy. The M4 Max upgrade adds 2 more p-cores (20% increase in p-core count for a total of 12 p-cores) and yields additional 14.5% multicore CPU performance, which is still less than expected but not nearly as bad. **Going from 12-core to 14-core M4 Pro is the least efficient upgrade of the entire M4 series.**~~\n\nRemoved the above section because I didn't realize base M4 has 6e/4p and assumed it has 4e/6p.\n\n## Geekbench 6 GPU scores (Metal)\n\n* M4 6e/4p/10g: 58 242\n* M4 Pro 4e/8p/16g: 99 764\n* M4 Pro 4e/10p/20g: 112 606\n* M4 Max 4e/10p/32g: 160 893\n* M4 Max 4e/12p/40g: 193 730\n\n## Analysis of the GPU scores\n\n* M4 6e/4p/10g: 5 824 score per core\n* M4 Pro 4e/8p/16g: **6 235 score per core**\n* M4 Pro 4e/10p/20g: 5 630 score per core\n* M4 Max 4e/10p/32g: 5 028 score per core\n* M4 Max 4e/12p/40g: 4 843 score per core\n\nThe story here repeats. Going from 10g M4 to 16g M4 Pro adds 60% more cores but yields 71% more score. The disproportional increase can be explained by the increased memory bandwidth from 120 GB/s to 273 GB/s on the Pro chip. So, all is good here.\n\nGoing from 16g M4 Pro to 20g M4 Pro adds 25% more GPU cores but yields only 13% more score. The memory bandwidth stays the same, so you would expect 25% more GPU cores to give you roughly 25% more performance, but instead you get only 13% - massive diminishing returns. This could again be some kind of thermal/wattage constraint.\n\nNone of the Max chips can reach the 6 235 score per GPU core, in fact the higher up you go, the less GPU score per core you are getting. So proportionally, the 12-core M4 Pro wins again.\n\n## If I am getting M4 Pro, should I go for the 12-core or the 14-core variant?\n\nFor $200 more, you are getting:\n\n* 0% more single-core CPU performance\n* 0% more memory bandwidth\n* 0 additional RAM options (the same 24 GB or 48 GB on MBP)\n* 11.6% more multi-core CPU performance\n* 13% more GPU performance\n\nBy looking at [this excellent chart](https://old.reddit.com/r/mac/comments/1gl3ora/all_m_series_geekbench_scores_multicore_cpu_metal/), you can see that the base M4 has comparable multi-core CPU performance to M2 Pro. If you do some math, the inter-generational performance gains are about 20 - 25% per generation (year) on average, so far. If this trend continues, the base M6 will be on par with the M4 Pro. The 11.6% extra CPU will make a little difference in that regard because it will be vastly overshadowed by the inter-generational gains.\n\nAnother way to look at this: if you had M1 Mac right now, and someone offered you to wave a magic wand and increase your multi-core CPU by 11.6%, or instead give you $200 towards the purchase of a new M4 Mac, which one would you take? I am on a 6 years old Intel MacBook right now. If someone offered me 11.6% more performance for $200, I would laugh in their face. The 12-core to 14-core M4 Pro upgrade might look tempting today, but in reality it is buying you only half a generation of headroom.\n\nYou might also say, if I am getting a $2000 MacBook Pro, the extra $200 is 11.6% more multi-core CPU performance and 13% more GPU performance while paying only 10% more. Seems worth it, right? I really applaud Apple for the way they structure their upgrades, it is a top-tier psychological trickery to lead you to cognitive errors. It is the whole laptop that costs $2000, not the 12-core M4 Pro. If you were building a desktop computer for $2000, a top-tier desktop gaming CPU might retail for like $400 out of the entire thing. Paying $200 to upgrade that CPU is 50% more and that makes no sense if you are getting only 11.6% more CPU multi-core performance. On another note, the A18 Pro in iPhone 16 Pro costs Apple $45 to make. The M4 Pro is certainly a different beast, but I guess it can cost Apple up to $200 to make (probably less). A $200 upgrade would be paying 100% more in that case.\n\n## TL;DR\n\nFrom all of the M4 Pro and M4 Max chips, the 12-core M4 Pro is at the peak of the performance curve. All the upper tier chips have diminishing returns. If you are getting M4 Pro and want the best bang for your buck, get the 12-core CPU one.\n\n## Workload-specific tips\n\nDo note that some creative apps (I believe in the sound/music industry) run on p-cores and avoid e-cores. In that case, the 4 e-cores will run idle, leaving more thermal/wattage room for additional 2 p-cores you could be running in the 14-core M4 Pro variant vs the 12-core M4 Pro. It is possible that in these specific workloads you could be looking at a substantial performance imporovement. If you use specialized apps like that, better check out some benchmarks specific to your use-case.\n\n[VMs actually only ever use p-cores.](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/) Docker on macOS runs a background VM so it's the same thing. VMs do not get any kind of exclusivity over the CPU cores though, each vCPU is basically a high priority thread that macOS schedules to run on p-cores. In the case of 12-core vs 14-core M4 Pro, you will benefit from the 2 extra p-cores only in situations where you saturate the first 8 p-cores. So, if you run some heavy workloads on your VMs and max out all the 8 p-cores, then having the 2 extra p-cores will help a bit to push the performance even further. Additionally, if your e-cores are idle during that time, there should be thermal/wattage room that might broaden the performance delta between 12-core vs 14-core variant (benchmarks tend to max out all e-cores and p-cores at the same time). I run VMs and Docker too but I see no benefit of the 14-core M4 Pro because I never run workloads that could possibly max out all 8 p-cores at the same time.\n\n## Update: Real-world comparisons between 12-core and 14-core M4 Pro\n\n* [Gaming - Andrew Tsai](https://youtu.be/UNjOWY21qP4?t=435) - 9% to 12% better performance despite having 25% more GPU cores",
+        "created_utc": 1731260526.0,
+        "subreddit_name": "mac",
+        "comments": 116
+    },
+    {
+        "title": "Did someone say pink MacBook...",
+        "score": 50,
+        "url": "https://i.redd.it/5l3qybsfy10e1.png",
+        "content": "",
+        "created_utc": 1731234986.0,
+        "subreddit_name": "mac",
+        "comments": 29
+    },
+    {
+        "title": "Mac mini 1,42 GHz PowerPC G4 charger help!",
+        "score": 36,
+        "url": "https://www.reddit.com/gallery/1go07c8",
+        "content": "Got this Mac mini 1,42 GHz PowerPC G4 for 5€ at the market the other day, but missing the charger. Anyone know what the exact model of charger I need? Thanks!",
+        "created_utc": 1731243802.0,
+        "subreddit_name": "mac",
+        "comments": 14
+    },
+    {
+        "title": "MBP 14 M4 Max can daisy chain 2 6K monitors over Thunderbolt 4",
+        "score": 14,
+        "url": "https://www.reddit.com/r/mac/comments/1go0enj/mbp_14_m4_max_can_daisy_chain_2_6k_monitors_over/",
+        "content": "About 2 years ago, I did an [AMA](https://www.reddit.com/r/mac/comments/13idy2o/ama_two_dell_u3224kb_6k_monitors_connected_to_mbp/), as I bought 2 Dell U3224KB 6K monitors. One disappointment was that you could not daisy-chain them to make them work with MacBook Pro M2 Max, or even Mac Pro M2 Ultra.\n\nI have received MacBook Pro 14 M4 Max this Friday, and out of curiosity, tried to daisy-chain the monitors and plug them in with just a single cable to the MBP, and it worked.\n\nBoth monitors recognize as 6144 × 3456, you can enable HDR and 60 Hertz.\n\nJust out of curiosity, to make sure this is not just a macOS update, I tried to connect  MacBook Pro 16 M2 Max with the same configuration, still the same 6K and 4K monitors.\n\nCables are standard Thunderbolt 4 cables that I bought from apple store a few years ago, as the cables that come with displays were pretty short. Those are not Thunderbolt 5 cables.",
+        "created_utc": 1731244488.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Did Apple increase the polling rate of the new USB-C Magic Trackpad?",
+        "score": 13,
+        "url": "https://www.reddit.com/r/mac/comments/1gnqc01/did_apple_increase_the_polling_rate_of_the_new/",
+        "content": "I had been waiting to buy one because at this point I refuse to buy non-USB-C peripherals, and I was disappointed to find it super choppy on my 144hz display (along with the gestures not working). I was about to return it, but after I updated to Sequoia everything started working, and the mouse felt way way smoother!",
+        "created_utc": 1731205257.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "About M4 iMac’s Fan configuration ",
+        "score": 10,
+        "url": "https://i.redd.it/ujsr13fqp00e1.jpeg",
+        "content": "Hi,\n\nIs there any up to date information about the number of fans in M4 iMac’s different tiers? Is it still one fan for the base model and two for more expensive ones? ",
+        "created_utc": 1731219945.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "New Mac mini M4 - Multi-Mac Setup with Universal Control: The Ultimate Productivity Hack?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/mac/comments/1go3zmw/new_mac_mini_m4_multimac_setup_with_universal/",
+        "content": "[\\(LEFT\\)Macbook 12 \\(Susumi's\\), \\(MIDDLE\\) macbook pro 14 \\(+external\\), \\(RIGHT\\)base mac mini with 4k lg and another small 120 hz screen](https://preview.redd.it/5wc7h5lhg30e1.jpg?width=4032&format=pjpg&auto=webp&s=adeb87e4aecbfccd6d8e5d5f9c5269fe65d0943b)\n\n\n\nI recently set up a multi-Mac workflow using Apple’s Universal Control, and it’s been a game-changer for my productivity. Here’s a look at my setup and why I went this route.\n\n\n\n**My Setup:**\n\n\n\n\t•\t**MacBook Pro 14” M1** – main device\n\n\t•\t**Mac Mini (M4 base model)** – handles coding and heavy tasks\n\n\t•\t**MacBook 12”** –just for testing\n\n\t•\t**Network Splitter / mac mini 2014** – hardwired to the new M4 Mac Mini to improve connectivity (Hotspot is limiting the function on the device which shares the internet)\n\n\n\nTheoretically, I could link up to *nine screens* by adding multiple displays to each Mac. (Not tested—my budget isn’t that wild! 😅)  \n  \n  \n  \nI had the pain questions:  \nif I buy the M4 Pro Mac mini, I could buy 3 base models... is this worth it?\n\nMy work doesnt need it right now and I brought the base Model, so I cvan sell it later or add another Mac mini (base or even m4 pro if i really need that juice)\n\n\n\n**Why I Built This Setup:**\n\n\n\n\t1.\t**Offloading Work**: My MacBook Pro was hitting memory limits, but the cost of a 64GB upgrade was out of reach. I went with multiple Macs instead for efficient task distribution.\n\n\t2.\t**Cost vs. Power**: Rather than one powerful device, I wanted to see if multiple Macs with Universal Control could replicate the efficiency—and it’s working well so far.\n\n\t3.\t**Focused Workflows**: Each device has a role:\n\n\t•\tMac Mini: Coding, IDEs, Docker\n\n\t•\tMacBook Pro: Browsing, Safari, GPTs etc\n\n\t•\tMacBook 12: 3rd Connetion testunit\n\n**Initial Impressions**\n\n\n\nThis setup is new, but Universal Control makes switching between devices seamless (provided iCloud and Handoff are configured right). I also have Synergy as a backup, but Apple’s integration is definitely smoother.\n\n\n\n**Downsides**\n\n\n\nThe only downside is that I can’t combine all the power into one task, but this setup offloads work efficiently. Plus, the modularity of using multiple devices is oddly satisfying.\n\n\n\n**TL;DR**: Tried a 3-Mac setup with Universal Control to distribute tasks and save on costs. Anyone else experimenting with setups like this? Its crazy.\n\n[Susu just got her first MacBook!](https://preview.redd.it/o3ibi8ptk30e1.jpg?width=3024&format=pjpg&auto=webp&s=2ac3209f7b3da4c7838a39bd7471b699990c3b93)\n\n",
+        "created_utc": 1731254852.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "M2 iPad $499 Vs M2 MacBook Air $750",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1goekr4/m2_ipad_499_vs_m2_macbook_air_750/",
+        "content": "With the holiday discounts upon us I am thinking about upgrading my currently laptop: Lenovo Yoga 8th gen i7, 8gb RAM. I find that at times it is slow when doing some photo editing tasks. \n\nMy needs: Advanced hobbyist photo editing, web browsing, some online graduate school work (writing papers and such), and word processing. It will be used for some content consumption when traveling, but that won’t be its main use case. I would really like good portability and battery life. I do have a work laptop, but don’t love using it for personal tasks. \n\nOptions I’ve decided on:\n\nM2 iPad Air, 128gb, 8gb RAM, $499\n\nM2 MacBook Air, 256 gb, 16gb RAM, $750\n\nWhere I’m tempted to pay more is the increase in RAM and portability with the MacBook. My original interest was the iPad until I saw the MacBook Air discounts. A move to a MacBook is also a little scary as I’m a lifelong PC user other than my iPhone lol. \n\nAny advice would be appreciated! ",
+        "created_utc": 1731282527.0,
+        "subreddit_name": "mac",
+        "comments": 10
+    },
+    {
+        "title": "Continuity camera on M4 Mac mini",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1go7933/continuity_camera_on_m4_mac_mini/",
+        "content": "I recently got a M4 Mac mini and I’ve been wanting to use my phone as a webcam when I need to use a webcam. I also have a M2 MacBook Air and continuity camera works flawlessly on the MacBook.\n\nHowever when I try to use it on the Mac mini (I.e. launch FaceTime, Photo Booth, teams) and try to change to my phone camera it doesn’t show on the camera list. If I then connect my phone to the Mac mini with a usb-c cable then it works and it uses the phone as a wired webcam, if I then disconnect the cable it quickly reconnects and works wirelessly, so I don’t think there’s an issue keeping a stable wireless connection, it’s more like it can’t establish the initial connection.\n\nSo I was wondering if anyone’s had the same issue or if anyone knows what I could be doing wrong.\n\nMy phone is a 15 pro, both phone and Mac mini is updated to latest version, I have tried to restart both devices but I continuously get the same results",
+        "created_utc": 1731263324.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Monitor for 2020 MacBook Air",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1goekkq/monitor_for_2020_macbook_air/",
+        "content": "Hey y'all:  I'm looking for a suggestion for an external monitor for my 2020 Air (M1 Chip).  Not really much gaming, mostly YouTube and spreadsheets.  would like about 27\" so I can mount side by side on a Jarvis Dual Monitor arm with my laptop in a tray.  \n\nRecommend away...and thanks",
+        "created_utc": 1731282512.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "The future of my MacBook Pro 16 intel…",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1goa05r/the_future_of_my_macbook_pro_16_intel/",
+        "content": "I have a used MacBook Pro 16 inch 2019. i9, 32gb ram, 8gb Radeon pro 5500m with 2TB ssd. Bought it for 1.9k EUR in sept 2022.\n\nIt was serving me well (albeit running extremely hot) for the last few years. Though occasionally it would shut off with the fans making a quick puff sound. Sometimes rebooting it would make the same puff. Like a car that can’t start… \n\nOnly recently I’ve had trouble charging it. The MacBook would occasionally make the charging sound randomly when plugged in for long periods of time.\n\nNow the battery won’t charge at all and it died to never come back on again. 1 week later I plugged it back in and it had life again…\n\nLong story short, the battery seems to be on its last legs and I’m now thinking about getting rid of it before I get more problems.\n\nIt’s not worth a whole lot these days and its cosmetic condition is fair at best. Not to mention the QWERTZ keyboard that will make the sale harder in the UK.\n\nThe options are a Mac mini m4, Mac Studio m1 ultra / M2 Max or maybe an iMac Pro if I could find it for a good price. \n\nHas anybody recently made the leap from a an Intel Mac to an m chip? What’s the move and should I move on from this oven of a laptop that has fans spinning at max revs 247?\n\nThanks for any responses!",
+        "created_utc": 1731270425.0,
+        "subreddit_name": "mac",
+        "comments": 25
+    },
+    {
+        "title": "home office hardware upgrade advice?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1go9gie/home_office_hardware_upgrade_advice/",
+        "content": "I have a home office in which I do primarily writing work, though I'm beginning to do more with photography and audio/video editing. I have a 2019 MBA 13\" (Intel i5, 16GB RAM, 512GD SSD) which is running quite slow with a Dell 4K UHD external monitor hooked up to it; to be honest, it runs slow even when used without peripherals. The SSD is nearly full, which could well be part of the problem. The MBA also often has trouble waking from sleep, etc. Other peripherals include a webcam, Keychron keyboard, wired mouse, external HD, and occasional others.\n\nGiven all the cables hooked up to the MBA at my desk, I used an ancient 11-inch MBA (2014, maybe? and no longer OS-updatable) when I traveled cross-country recently.\n\nMany of the apps I use for my work can be cross-platform, but at least one important piece of software I need is MacOS only, so I'm sticking to Apple products for now.\n\nI have a small budget (\\~ $1000-1500) to upgrade my tech. I'm thinking about going with a Mac Mini to use at my desk, and then using my 2019 MBA as an actual laptop when I'm working outside the office. I also have an iPad Mini 6 that I use frequently, though that's mostly to read books and play games.\n\nWhat hardware solution would you suggest? Is Mac Mini the way to go (and which one)? Should I look at a new laptop instead? Thanks for your help!\n\n  \nETA: I'm hoping to make a purchase during the upcoming Black Friday / Cyber Monday sales. (Does Apple participate in those? Am I better off buying through Best Buy or elsewhere?)",
+        "created_utc": 1731269002.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "2014 Mac Mini (URL included) as a home network / Google Drive sync?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1go7bs9/2014_mac_mini_url_included_as_a_home_network/",
+        "content": "Hi there,\n\nMy wife and I run a small business from home - we both have M1 Macbook Pros. We'd love a way to access the same file storage on our network, and have that storage space be Google Drive. That way everything is synced and kept up to date.  So if im downloading a file online for work, I can save it straight down onto the Mac Mini synced Google Drive space, and not into my local Download files which is a blackhole.\n\nWe use Google Workspace so sadly Google Drive is non negotiable for the cloud space.\n\nWill this 2014 Mac Mini fit the bill and be somewhat future proof from being \"invisible\" to our M1 Macs? \n\n  \nMy though process:\n\n1. Setup the 2014 Mac Mini has an accessible storage space on our home network\n2. Install Google Drive for Desktop on that Mac Mini\n3. Add that Mac Mini as a findable drive on our M1 macbook pros (via wifi). \n4. Use the Mac Mini as our central place to save all our client work etc.\n\nOpen to suggestions on better workflow - here is the Mac Mini I was looking at! We're on a budget so these fancy $2000 network setups are a bit overkill for us.\n\n[https://uk.webuy.com/product-detail?id=SDESAPPMM7102B&categoryName=DESKTOPS-APPLE-MAC&superCatName=COMPUTING&title=&queryID=99B35994F715002797849A4F3586004C&position=3](https://uk.webuy.com/product-detail?id=SDESAPPMM7102B&categoryName=DESKTOPS-APPLE-MAC&superCatName=COMPUTING&title=&queryID=99B35994F715002797849A4F3586004C&position=3)",
+        "created_utc": 1731263516.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "System Settings app stutters in MacOS 15.1. Didn't happen before in Sonoma. ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1go5vlf/system_settings_app_stutters_in_macos_151_didnt/",
+        "content": "System Settings app stutters in MacOS 15.1 and feels really laggy and unpolished especially noticeable in the \"rubber band\" animation. Same behaviour in music app as well. [https://imgur.com/eGVqmsv](https://imgur.com/eGVqmsv)",
+        "created_utc": 1731259788.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Bit goofy, just bought a Mac Mini M4 (base), to replace my M1 MacBook Air (8gb RAM). Should I trade in my MacBook? ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gnua0w/bit_goofy_just_bought_a_mac_mini_m4_base_to/",
+        "content": "So earlier this year I bought a MacBook Air 2020 M1  8gb RAM 256gb (my first Mac computer ever) off a friend of a friend for $250 (really sweet deal less than 50 charging cycles if I recall). I mainly bought it to help the dude out, but also because I love to edit my photographs using Lightroom and figured I would give it a shot as before I was only using my iPad Air M1 which I was finding was pretty decent in itself. I really liked the hot keys and the desktop app is just a bit more intuitive. For context, I had my MacBook Air hooked up to my 4k monitor and I never take it on the go anywhere, I reserve that for my iPad. Anywho I really liked how Lightroom worked on the MacBook only caveat is that you can very much tell the 8gb of ram was holding it back, which kind of tickled my brain trying to tell me it would be sweet if I can upgrade. \n\nThen I saw Mac mini M4, figured I only use my Air docked, and the 16gb of ram would be a boost; and that a potential trade in for my 2020 air + the education pricing put my total out of pocket at $161. Pulled the trigger, and now I am here sitting with my assumptions being realized now typing on my Mac mini M4. \n\n  \nNow for my question... kind of second guessing my decision to send in my MacBook Air 2020 M1 for trade in. I got it for so cheap ($250) and the trade in value after inspection is expected to be $350. Obviously I would not use it docked probably ever again, but I think now that it is not my primary device I would maybe consider it being a travel device? Again might be redundant in that sense too because I have my iPad Air M1 and can even use Lightroom in a pinch for that too.\n\n  \nJust curious what you guys, think or what you guys would do. ",
+        "created_utc": 1731219219.0,
+        "subreddit_name": "mac",
+        "comments": 17
     }
 ]

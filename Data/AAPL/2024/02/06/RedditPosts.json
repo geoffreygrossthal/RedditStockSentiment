@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Wedbush: Apple 'renaissance' inbound after Vision Pro launch",
+        "score": 1330,
+        "url": "https://appleinsider.com/articles/24/02/04/apple-renaissance-inbound-after-vision-pro-launch-success",
+        "content": "",
+        "created_utc": 1707187238.0,
+        "subreddit_name": "apple",
+        "comments": 560
+    },
+    {
+        "title": "Apple Vision Pro clickbaiters are breaking a California vehicle law: No video screens in front of drivers' seats",
+        "score": 1268,
+        "url": "https://www.sfgate.com/tech/article/apple-vision-pro-tesla-cops-18651393.php",
+        "content": "",
+        "created_utc": 1707246480.0,
+        "subreddit_name": "apple",
+        "comments": 148
+    },
+    {
+        "title": "With iOS 17.4 beta in the EU, no browser can install PWA apps, even Safari",
+        "score": 733,
+        "url": "https://twitter.com/mysk_co/status/1753094942992306333",
+        "content": "From twitter post:\n\n“Finally, iOS treats all browsers equally when it comes to PWAs. Previously, only Safari was able to install and run PWA apps. With iOS 17.4 beta in the EU, no browser can install PWA apps, even Safari. It seems PWAs have been disabled entirely. \n\nOh yes, when you set a third-party browser as the default browser and then you delete it, iOS sets Safari as the default browser.”",
+        "created_utc": 1707252542.0,
+        "subreddit_name": "apple",
+        "comments": 267
+    }
+]

@@ -34,5 +34,32 @@
         "created_utc": 1722487975.0,
         "subreddit_name": "stocks",
         "comments": 100
+    },
+    {
+        "title": "Apple reports third quarter results",
+        "score": 1214,
+        "url": "https://www.apple.com/newsroom/2024/08/apple-reports-third-quarter-results/",
+        "content": "",
+        "created_utc": 1722544433.0,
+        "subreddit_name": "apple",
+        "comments": 240
+    },
+    {
+        "title": "Google Maps and Waze Updated With New iPhone and CarPlay Features",
+        "score": 1106,
+        "url": "https://www.macrumors.com/2024/08/01/google-maps-waze-new-carplay-features/",
+        "content": "",
+        "created_utc": 1722523476.0,
+        "subreddit_name": "apple",
+        "comments": 231
+    },
+    {
+        "title": "iPhone 16 Pro White, Gray, and Dark Black Colors Shown in New Image",
+        "score": 639,
+        "url": "https://www.macrumors.com/2024/08/01/iphone-16-pro-colors-shown-leaked-image/",
+        "content": "",
+        "created_utc": 1722523395.0,
+        "subreddit_name": "apple",
+        "comments": 344
     }
 ]

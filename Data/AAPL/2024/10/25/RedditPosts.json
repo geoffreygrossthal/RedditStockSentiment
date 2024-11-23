@@ -151,5 +151,122 @@
         "created_utc": 1729850436.0,
         "subreddit_name": "apple",
         "comments": 32
+    },
+    {
+        "title": "Apple Dares Anyone to Find a Problem With Its Darling AI, Offers $1 Million Bounty | If you find anything wrong with Apple Intelligence’s Private Cloud Compute you can net between $50,000 up to $1 million.",
+        "score": 753,
+        "url": "https://gizmodo.com/apple-dares-anyone-to-find-a-problem-with-its-darling-ai-offers-1-million-bounty-2000516513",
+        "content": "",
+        "created_utc": 1729867796.0,
+        "subreddit_name": "technology",
+        "comments": 120
+    },
+    {
+        "title": "Apple will pay you up to $1 million if you can hack into Apple Intelligence servers",
+        "score": 403,
+        "url": "https://www.zdnet.com/article/apple-will-pay-you-up-to-1-million-if-you-can-hack-into-its-apple-intelligence-servers/",
+        "content": "",
+        "created_utc": 1729899695.0,
+        "subreddit_name": "technology",
+        "comments": 58
+    },
+    {
+        "title": "Smartphone buyers meh on AI, care much more about battery life | A survey found that only a relatively small minority of consumers are currently using AI features on their smartphones , and it doesn’t yet seem to be a purchase driver",
+        "score": 142,
+        "url": "https://9to5mac.com/2024/10/25/smartphone-buyers-meh-on-ai-care-much-more-about-battery-life/",
+        "content": "",
+        "created_utc": 1729868738.0,
+        "subreddit_name": "technology",
+        "comments": 56
+    },
+    {
+        "title": "Amazon seizes domains used in rogue Remote Desktop campaign to steal data",
+        "score": 72,
+        "url": "https://www.bleepingcomputer.com/news/security/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/",
+        "content": "",
+        "created_utc": 1729882183.0,
+        "subreddit_name": "technology",
+        "comments": 0
+    },
+    {
+        "title": "Samsung phone users under attack, Google warns -- \"A nasty bug in Samsung's mobile chips is being exploited by miscreants as part of an exploit chain to escalate privileges and then remotely execute arbitrary code, according to Google security researchers.\" \"affects Samsung Exynos mobile processors\"",
+        "score": 46,
+        "url": "https://www.theregister.com/2024/10/24/samsung_phone_eop_attacks/",
+        "content": "",
+        "created_utc": 1729865231.0,
+        "subreddit_name": "technology",
+        "comments": 4
+    },
+    {
+        "title": "Macbook Pro 15” 2011 advice ",
+        "score": 64,
+        "url": "https://i.redd.it/unhku9w09uwd1.jpeg",
+        "content": "Hello , i just bought a macbook pro 2011 15 inch with 2.2 i7 12GB ram and an amd gpu , from what i have read they are very unreliable and i wanted to know a way to prevent damaging the gpu , i am using oclp with monterey and i turned on the accelerations, the temps on the intel were high so i have to replace  the thermal paste. \n\nThe gpu from what i see its working fine for now , should i just disable it for preserving it and use the integrated one , ?\nOn day to day basics should feel a difference without it? \nAnd if you guys have some tips on optimizing the oclp to manage the OS better , I didn’t find anything online for those kind of questions. ",
+        "created_utc": 1729834141.0,
+        "subreddit_name": "mac",
+        "comments": 37
+    },
+    {
+        "title": "VirtualBox on Apple Silicon",
+        "score": 17,
+        "url": "https://www.reddit.com/gallery/1gbpcoo",
+        "content": "This is my second post on the topic, since VirtualBox has Apple Silicon support in the latest version and it’s the software recommended by the university (we’re gonna use it in exams) I decided to try to use it instead of VMware or UTM. I installed it but I couldn’t find the ARM64 version of the Ubuntu ISO I need to run the VM.\nA video on YouTube downloaded it from this website but when I go to the website there is no “Desktop” option. And I could only find the AMD64 version on the official Ubuntu website. Where can I find the image? ",
+        "created_utc": 1729844448.0,
+        "subreddit_name": "mac",
+        "comments": 28
+    },
+    {
+        "title": "MacBook 💻 Pro mid-2012 Sierra doesn’t recognize floppy discs",
+        "score": 14,
+        "url": "https://i.redd.it/cv1v013v2uwd1.jpeg",
+        "content": "Hey guys, do you know why my MacBook 💻 Pro mid-2012 Sierra doesn’t recognize floppy discs? I’ve bought a Sony pcga-ufd5, it works on windows but not on my MacBook 😭\n\nDo I need to install a special driver? I do not found anything on Sony website!\n\nhttps://www.sony.lu/fr/electronics/support/accessories-personal-computer-accessories/pcga-ufd5\n\nMany thanks 😊 for your help!",
+        "created_utc": 1729832068.0,
+        "subreddit_name": "mac",
+        "comments": 28
+    },
+    {
+        "title": "2017 iMac suddenly very slow",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1gbhh1c/2017_imac_suddenly_very_slow/",
+        "content": "Hoping somebody here has some suggestions on how to get back to my old operating speed. Apologies in advance for the long post, just trying to include all the details and what I've done so far....\n\niMac is 2017  (Model iMac18,3)  \n27\" 5K Retina  \n3.8 GHz Quad Core Intel Core i5  \n24GB RAM  \n2.12TB Fusion drive (1.2 TB free)  \nVentura 13.7\n\nLiterally overnight my mac has become unusably slow. Last Sat it was working fine, on Sun it was crawling. It was taking several minutes to respond to anything (even moving/minimising windows), showing no back ground picture, not loading anything (at least I didn't wait long enough, I gave up after about an hour).\n\nI rebooted, same behaviour. Booting took ages. Over 15 minutes (again, I just left it and did other stuff, so no exact time). Eventually manged to open Activity Monitor, showed less than 10% CPU usage, 7GB or less of RAM usage. Edit to add: systems would sit for a while, going slow, then reboot itself.\n\nBooted in Recovery (cmd+option+R), ran first aid on the drives, it did report an issue with the HDD portion, but said I needed to run first aid from within recovery. I was in Recovery (internet loaded one I'm pretty sure).\n\nSafe boot wasn't any faster.\n\nI ended up wiping and formatting the drives (i.e. both bits of the fusion drive), then had to re-fusion them (otherwise resoring from time machine didn't want to work, not enough space on the 128GB SSD). Fresh install of Ventura, restored from time machine backup.\n\nStill very slow, but slightly improved. Takes several minutes to boot up, where it used to take less than a minute. Opening a program is painfully slow, can't play a video in quicktime at all. I can move windows and minimise them instantly, but anything that seems to require thinking about just doesn't happen, or does slow very slowly (still low CPU and RAM usage)\n\nSMART drive monitor details don't show any issues.\n\nCurrently, after mucking about with it for ages, it takes just over a minute to get to the login screen. Then 2 minutes of spinning circle before it prompts for password for a 2nd time, then another 2 minutes before my desktop starts to load (sidebar only, no icons/menu etc.), icons there another 30 seconds later, menu bar a bit after that.\n\nI'm guessing the spinny HDD bit of the fusion drive is showing it's age?  \nBest to upgrade to an SSD?\n\nAny other idea for what may be causing the slow down?\n\nI've seen the instructions for putting in an internal SSD, which don't scare me too much (I'm and electronics engineer, just not on computers), but also using an external USB C SSD drive looks cheaper, easier and less likely to break something.\n\nIs there any advantage to going the internal method?\n\nEdited for spolling miskates\n\n  \nUPDATE edit: See message below. It was the fusion drive, replaced it with a 2TB M.2 SSD in a Thunderbolt enclosure and all is good. Thanks all!",
+        "created_utc": 1729815397.0,
+        "subreddit_name": "mac",
+        "comments": 18
+    },
+    {
+        "title": "Upgrading old computer to Mac mini - logistics questions..",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gc5mk8/upgrading_old_computer_to_mac_mini_logistics/",
+        "content": "So I've got a 2015 27\" iMac that I absolutely love - but alas 'tis no longer supported and will need to upgraded.  I do believe I've settled on moving away from the all in one iMac approach, replacing it with a MacMini + various components (monitor, external storage, etc).\n\nAs I think through some implications (it's been a minute since I've replaced my desktop...) - as I go from a 2TB iMac to a MacMini that has far less on-board storage - In a scenario where I add incremental storage via multiple external hard drives (I'm thinking of using two 2TB external SSD's - one to run applications/store information, and one as a backup drive) - how do I best manage a migration?  When 2015 iMac was bought, there was a handy migration manager that simply moved data from whatever my older model was to the 2015 model - and as 2015 model has enough on-board storage - it wasn't a problem.\n\nHow do I think about what that looks like today?  Does the modern migration manager (or whatever it's called - the utility that allows you to seamlessly move your profile/data from the old thing to the new thing) - allow for migrating that data from a single, large capacity hard drive to multiple, smaller hard drives?\n\nHow do I best think about this?  \nThank you!",
+        "created_utc": 1729892752.0,
+        "subreddit_name": "mac",
+        "comments": 11
+    },
+    {
+        "title": "M1 Max 16” Powerbook External Monitor Ghosting",
+        "score": 3,
+        "url": "https://www.dropbox.com/scl/fi/euzpimq4vxtlh3usougpq/External-Monitor.mp4?rlkey=ndo3bfjzudk62jxan8ttfm8yo&dl=0",
+        "content": "First, sorry for the extremely crappy iPhone video… tried capturing the issue on screen in mirror mode as well as extended but for some reason it wouldn’t show. You can basically get the gist by watching the cursor.\n\nIssue: Have a ViewSonic VX3276-4K-MHD 32 Inch 4K UHD Monitor that I am testing as an external monitor with an M1 Max Powerbook running Monterey 12.6.9. I’m getting what I can only describe as ghosting when moving windows, the cursor, scrolling websites… etc. I’ve tried connecting the monitor to the Mac with an HDMI to Thunderbolt cable inserted on the right side of the Mac by the HDMI port. I also tried both thunderbolt ports on the left side. I’ve tried 2 different HDMI to HDMI cables connected to the HDMI port on the Mac with the same results. I actually have 2 of these ViewSonic VX3276-4K monitors. When I connect to the other one with the HDMI to Thunderbolt there is no issue on the second monitor.\n\nBoth monitors are connected to a 2010 5,1 Mac Pro desktop with an AMD Radeon RX 5600 XT… I’m using the DisplayPort on one to connect to the graphics card and the HDMI on the other. When testing the problem monitor I was manually switching between the 5,1 and M1 Max via the onboard monitor menu. I also did try and pull the DisplayPort cable connected to the 5,1 to see if that made a difference… it didn’t.\n\nOther things tried, adjusting brightness, switching refresh rate and switching resolution via BetterDisplay app.\n\nI’m at a loss as why one monitor would connect fine and the other wouldn’t. I would appreciate any input.\n\nTLDR: Ghosting on Viewsonic monitor connected to an M1 Max 16” Powerbook running Monterey 12.6.9\n",
+        "created_utc": 1729873197.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Refurbishing imacs",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gbxjm0/refurbishing_imacs/",
+        "content": "Hey guys I'm attempting to refurbish 3 imacs but they still have the previous accounts on, I've wiped the HDDs and done a reinstallation of macOS through the internet recovery, however the accounts (that I can't access) are still on there. Does anyone know how I can reinstall macOS and remove the accounts so that I can sell these imacs on?\n",
+        "created_utc": 1729871624.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Should I go back to Monterey",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gboj6i/should_i_go_back_to_monterey/",
+        "content": "I am using 2015 MBP and running Sequoia with OCLP but Apple's native apps(Safari, Music, Settings) keep on quitting when I type something. If I restart it it becomes ok, but it comes up again and again. But it's not like I can't live with this. Should I keep using Sequoia or should I go back to Monterey? Any opinions appreciated!",
+        "created_utc": 1729840579.0,
+        "subreddit_name": "mac",
+        "comments": 4
     }
 ]

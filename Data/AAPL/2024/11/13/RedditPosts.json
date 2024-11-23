@@ -160,5 +160,149 @@
         "created_utc": 1731495636.0,
         "subreddit_name": "apple",
         "comments": 49
+    },
+    {
+        "title": "Mac Studio M1 Ultra vs Macbook Pro M4 Max",
+        "score": 324,
+        "url": "https://i.redd.it/hjdxtr6kpq0e1.jpeg",
+        "content": "Hi all,\n\nSince 2022 I own an Mac Studio M1 Ultra. This Mac always has been a beast and I wouldn’t prefer anything else. But I have to trade it in for a Macbook because I’m going to travel and work more remote. \n\nA bit of backstory what I do with this Mac:\nI’m a videographer/editor and use my Mac mainly for editing in Premiere Pro and After Effects. I work with big projects including multiple (10-15) camera’s (Sony, RED, etc.). I edit with 8K footage and a lot of effects. I also do some effects and rotoscoping in After Effects. Beside that no heavy 3D modeling or something like that. \n\nWhat to compare?\n\nMac Studio M1 Ultra (€4599):\n32-core Neural Engine\n48-core GPU\n20-core CPU\n64GB RAM\n1TB SSD\n\nvs\n\nMacbook Pro M4 Max - 14 inch (€3799):\n16-core Neural Engine\n32-core GPU\n14-core CPU\n36GB RAM\n1TB SSD\n\nvs\n\nMacbook Pro M4 Max - 16 inch (€4899):\n16-core Neural Engine\n40-core GPU\n16-core CPU\n64GB\n1TB SSD\n\n—\n\nI’m curious what y’all think about this. I have a feeling I’m losing quite a lot of power comparing the Ultra vs Max chips (less cores). Also doubting what is more important (GPU, CPU, RAM, Neural Engine)?\n\nThanks in advance",
+        "created_utc": 1731534666.0,
+        "subreddit_name": "mac",
+        "comments": 32
+    },
+    {
+        "title": "Don’t put up with Studio Display backlight bleed, get it serviced!",
+        "score": 286,
+        "url": "https://www.reddit.com/gallery/1gq49lh",
+        "content": "Getting my Studio Display serviced brought a ton of new life to my Mac experience! \n\nBetween being aware of IPS panel limitations (some backlight bleed is inevitable), and the daunting prospect of having to haul such a big device into getting service (and the wait times associated), I put off doing anything for a long time.\n\nI put it off, trying to tell myself that I’ll get a new panel eventually, that it is not worth the hassle, that backlight bleed is unavoidable anyways.\n\nLet me tell you, don’t listen to that nonsense. Get it serviced! It was a breeze to use the Apple Support app and start a text conversation. Apple agent was incredibly friendly and helpful, not only offering someone to come pick up the monitor, but also explaining a bit of the technical reasons (fault adhesive) behind the issue and ensuring the replacement part was available for the service center.\n\nI ended up taking the monitor in to a shop rather than having them pick it up, and 24 hours later, the monitor was ready to be picked up. No cost, all under the limited warranty (even though I also have AppleCare+).\n\n It was a breeze, and the difference it makes is MASSIVE. I hope someone see this and finally takes the plunge to fixing their device rather than putting up with something that is “not that big of a deal”. You won’t regret it, and Apple’s support is truly top notch. ",
+        "created_utc": 1731470369.0,
+        "subreddit_name": "mac",
+        "comments": 31
+    },
+    {
+        "title": "iMac is $100 off on Amazon right now",
+        "score": 31,
+        "url": "https://www.reddit.com/r/mac/comments/1gqjfzg/imac_is_100_off_on_amazon_right_now/",
+        "content": "Just thought I’d share that the new gen of iMacs (M4, 16gb) are currently discounted by $100 in certain colors on Amazon.\n\nhttps://www.amazon.com/Apple-2024-Desktop-Computer-8-core/dp/B0DL75531G/",
+        "created_utc": 1731521640.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "2011 iMac boots up to a screen like this and nothing else. What could be the issue?",
+        "score": 20,
+        "url": "https://www.reddit.com/gallery/1gqm1ds",
+        "content": "",
+        "created_utc": 1731528123.0,
+        "subreddit_name": "mac",
+        "comments": 11
+    },
+    {
+        "title": "Shadow/marks on screen",
+        "score": 7,
+        "url": "https://www.reddit.com/gallery/1gqazj6",
+        "content": "Hi, \nI recently bought a refurbished MacBook, and have only now noticed small shadows/glitches on the screen. Quick google search shows a few people with similar issues, my main concern is, will it get worse? Is it a sign of a more serious problem, or do they just stay that way?\n\nI have the opportunity to return the MacBook, but 1; I got a really good deal on it, and I’d hate to miss out on that if they only offer a refund, and 2; I’ve had a really bad experience sending high cost items via couriers recently, and am still fighting to get my money back… so the thought of going through that again gives me the fear. \n\nI’ve included some pics, tbh, I can live with it if that’s all it’s going to be, but I thought I’d ask, if anyone has had a similar experience   \n\nThanks. ",
+        "created_utc": 1731498089.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Woke up from sleep and saw this, anyone know anything about it?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/mac/comments/1gqiuu9/woke_up_from_sleep_and_saw_this_anyone_know/",
+        "content": "https://preview.redd.it/787ja9b3ip0e1.jpg?width=1264&format=pjpg&auto=webp&s=f992a0b619fae086f7eefda30d6bba3cc282d2e6\n\nBit of google searching seems to indicate that it may be for bug reporting to Apple but I wanted to see if anyone here is more familiar with this.",
+        "created_utc": 1731520232.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "MacBook Air M1: 65% Battery Drain in 6 Hours with No Use – Any Fixes?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/mac/comments/1gq9grq/macbook_air_m1_65_battery_drain_in_6_hours_with/",
+        "content": "https://preview.redd.it/so17p3g44n0e1.png?width=1654&format=png&auto=webp&s=d7c9fdd40b705509924f480cee01e69fdc8551b9\n\nI got a MacBook Air M1 last month, and it’s been great until today. It got really hot, even though I didn’t use it. Battery stats said the Settings app was impacting battery, so I opened it and saw there’s an update (15.1). Any ideas on how to fix this or figure out what caused it?\n\n**UPDATE:**\n\nThe problem appears to be fixed for now.\n\n[Good battery since yesterday](https://preview.redd.it/4s0q4uiymu0e1.png?width=1654&format=png&auto=webp&s=edffb2ba1ffbc081856b175c357addc042ef02ce)\n\nHere is what I did just in case if someone has this problem in the future.\n\n* Installed the update - The Macbook did a restart.\n* Force closed all the open apps fro the docs. Right click  >> Quit.\n* Changed auto update to the following settings.\n\n[Auto update settings](https://preview.redd.it/bfwxbk24ou0e1.png?width=1654&format=png&auto=webp&s=d509eb0fc4f31018aec91eb7652afbf3fd78b74e)\n\n* Shutdown the Macbook (Not restart).\n* Powered on the Macbook.\n* Charged the Mac for upto full and and probably an hour over it.\n* Disconnected the charging cable.\n* I didn't turn off the wifi\n* I didn't turn off bluetooth\n* I didn't turn off my Mac, it stays in sleep mode always.",
+        "created_utc": 1731491730.0,
+        "subreddit_name": "mac",
+        "comments": 19
+    },
+    {
+        "title": "Am I missing something? Buying MacBook Air ",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gqk8zq/am_i_missing_something_buying_macbook_air/",
+        "content": "Looking at buying a 15” M3 MB Air 16gb, 512gb SSD\n\nOn Apple I can get the student discount and it’s $1500. I found the same specs on BestBuy $1300. \n\nAm I missing something? Why is BB $200 cheaper? It’s new and I have the option to add AppleCare on BB. ",
+        "created_utc": 1731523659.0,
+        "subreddit_name": "mac",
+        "comments": 15
+    },
+    {
+        "title": "Oldest Macbook I should buy",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gq2gdh/oldest_macbook_i_should_buy/",
+        "content": "Hi everyone! \nI know next to nothing about computers/OS, but I need a new laptop. I’ve never had a MacBook but am looking at potentially switching over. I’m looking at used/refurb and was wondering how old of laptops I should be looking at without being ridiculous. I’ve seen lots of 2015-17 models being sold refurbished for 400-700 bucks and wanted to know if that makes sense. Also, as far as running new iOS updates, what expectations should I have for older models? \n\nEdit: air vs pro?? Any advice on that is also very welcome LOL \n\nThanks so much in advance :)\n",
+        "created_utc": 1731464668.0,
+        "subreddit_name": "mac",
+        "comments": 25
+    },
+    {
+        "title": "No storage suddenly on Macbook Air - help please",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gqpqdn/no_storage_suddenly_on_macbook_air_help_please/",
+        "content": "It is a 2017 MacBook Air on macOS Montgomery. It says that around half of my storage (around 50GB) is being used by \"System Data\". It didn't used to be that much? How do I minimize the amount of storage \"System Data\" uses?",
+        "created_utc": 1731537543.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Applications storage says 600gb.. actually 60gb ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gqhp7v/applications_storage_says_600gb_actually_60gb/",
+        "content": "I'm having issues with storage space, most of which I keep on external hard drives.\n\nHowever, yesterday I cleared out some space and today I was trying to export a PP file when my mac said I needed to clear space to export.\n\nI checked my storage and my Applications are taking up 600gb of space and icloud drive 500gb.. on a 1TB  capacity. So apparently I have in total over 1400gb on a 1TB drive which IDK whats going on. I'm sorting the icloud out atm.\n\nIt's the Applications and I've done some research and most people say \"It's probably cause I have 600gb applications:. I do not, I have 60gb of Applications. The largest being Ableton at 5.45gb, followed by Adobe programmes, eaach around 4 - 5gb. What's strange is yesterday when I cleared out the space it said I had 60gb of Apps and now today 600gb. I have not downloaded anything in that time, have no games or anything like that.\n\nDoes anyone have a solution, I have tried a few different things, including an third party space cleaner but no luck. I can't export my work and it won't even let me transfer files onto a external hard drive as I have no space. Most of the stuff I got rid of yesterday so I don't have much else I can clear out.\n\nThanks!\n\nhttps://preview.redd.it/37lx26iaap0e1.png?width=498&format=png&auto=webp&s=c34dab8f32da8cd8f9654eee8e89af190e8a9ec0",
+        "created_utc": 1731517393.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Transcend JetDrive Lite - Automounting?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gqgyzh/transcend_jetdrive_lite_automounting/",
+        "content": "Hi all, I've seen various posts from others complaining that when their MacBook goes to sleep the SD card disappears and doesn't re-mount without being physically removed and re-inserted. That's precisely what's happening with mine.\n\nHowever others have reported success by doing the following:\n\n>  \nGo to:  \nSystem Settings  \n\\> Privacy & Security  \n\\> Scroll down to “Allow Accessories to connect”  \n\\> Set it to “Always” or \"Automatically when unlocked”\n\nOr alternatively using an app like Jettison in the background to manage sleep and external volume mounting/unmounting.\n\nUnfortunately neither of these options work for me and I loose the SD card every time I close the lid on MacBook.\n\nI'm using a MacBook Pro 16\" M3 Max running MacOS X Sonoma 14.7 with a 512MB Transcend JetDrive Lite 330.\n\nI know there are other apps that do similar to Jettison, but I don't want to pay for them if they'll also fail to work.\n\nAm I making a procedural mistake? Currently I don't eject/unmount the drive before sleep or closing the lid. I thought this wasn't necessary, but is this what Jettison expect the user to do?",
+        "created_utc": 1731515576.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "HP Series 527sh Monitor - 27in good enough for mac mini and music production ?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gqfanp/hp_series_527sh_monitor_27in_good_enough_for_mac/",
+        "content": "Hey everyone,\n\nI just bought a new Mac Mini, and I’m looking for a good monitor to pair with it. I’m coming from a 21.5” non-Retina iMac from 2015, and I’ve always been pretty happy with the display quality on that. I use my computer mainly for making music and browsing the internet, so I’m not super demanding about high-end color accuracy or gaming specs.\n\nAfter some browsing, I found the **HP Series 5 - 527sh Monitor (27”)** for a pretty reasonable price (currently under £139). It looks nice and seems like a good deal, but I’m wondering if anyone here has experience with it or knows of better options within this price range.\n\nI’m not super familiar with things like IPS, sRGB, or PPI – what do I really need to consider for general use and music production? Any advice or recommendations are super appreciated!\n\nThanks in advance for any help!",
+        "created_utc": 1731511333.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "Will setting up new MacBook w/ iPhone Apple ID cause MacBook to start downloading all my apps?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gq6kiv/will_setting_up_new_macbook_w_iphone_apple_id/",
+        "content": "I’ve had iPhone/ipads for years.. but never a MacBook. \n\nIf I setup a new MacBook with my iPhone AppleId, will the MacBook start auto downloading all the apps that are on my iPhone/iPad? I don’t want it to. \n\nI get that I’ll be able to access what’s on my iCloud, but I don’t want all the iPhone apps on the MacBook.",
+        "created_utc": 1731478691.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Apple drops soldered storage for 2024 Mac Mini | iFixit teardown finds a removable SSD. Time to party like its 2010?",
+        "score": 4057,
+        "url": "https://www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/",
+        "content": "",
+        "created_utc": 1731507479.0,
+        "subreddit_name": "gadgets",
+        "comments": 339
+    },
+    {
+        "title": "These Guys Hacked AirPods to Give Their Grandmas Hearing Aids",
+        "score": 1729,
+        "url": "https://www.wired.com/story/apple-airpods-hearing-aid-hack/",
+        "content": "",
+        "created_utc": 1731533351.0,
+        "subreddit_name": "technews",
+        "comments": 155
     }
 ]

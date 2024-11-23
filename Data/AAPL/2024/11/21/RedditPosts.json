@@ -133,5 +133,221 @@
         "created_utc": 1732186829.0,
         "subreddit_name": "apple",
         "comments": 34
+    },
+    {
+        "title": "Apple Pay, Cash App, and other digital wallets will be regulated more like banks now",
+        "score": 416,
+        "url": "https://www.theverge.com/2024/11/21/24302322/apple-pay-cash-app-paypal-regulated-banks-cfpb",
+        "content": "",
+        "created_utc": 1732206057.0,
+        "subreddit_name": "technology",
+        "comments": 10
+    },
+    {
+        "title": "Apple is reportedly building a more conversational Siri powered by LLMs | TechCrunch",
+        "score": 103,
+        "url": "https://techcrunch.com/2024/11/21/apple-is-reportedly-building-a-more-conversational-siri-powered-by-llms/",
+        "content": "",
+        "created_utc": 1732227853.0,
+        "subreddit_name": "technology",
+        "comments": 33
+    },
+    {
+        "title": "Apple to be treated like a bank – Consumer Financial Protection Bureau",
+        "score": 92,
+        "url": "https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/",
+        "content": "",
+        "created_utc": 1732197083.0,
+        "subreddit_name": "technology",
+        "comments": 7
+    },
+    {
+        "title": "Why I Switched Back to a 16” MacBook Pro After Trying the 14” – Lessons Learned",
+        "score": 246,
+        "url": "https://www.reddit.com/r/mac/comments/1gwcvc2/why_i_switched_back_to_a_16_macbook_pro_after/",
+        "content": "After almost 10 years as an Apple fan and several MacBook Pros under my belt, I was eagerly waiting to upgrade my 16\" i7 to the new M4 MacBook Pro. When the day finally came, I went all-in and ordered a 14” M4 Pro with 12 cores and 48GB of RAM. I’d read countless reviews and posts, particularly about screen size, and many convinced me that the 14” would be the perfect compromise between portability and usability—it’s only 2 inches smaller, after all.\n\nWhen it arrived, I was like a kid on Christmas morning. But soon, something started to feel... off. Despite adjusting the display resolution, I just couldn’t get used to the smaller screen. It constantly felt cramped, like I was working on a laptop that didn’t fit the scale of the applications I use daily.\n\nThis morning, I made the decision to return the 14” and upgrade to the 16”. Yes, it’s bulkier and heavier, but the moment I started using it, it felt like *home*.\n\nI wanted to share this experience for anyone debating between the two sizes. If you work a lot with multiple windows, need to edit text across various apps, or require a clear overview of multiple pages, the 16” is absolutely worth considering. I wish I’d stuck with what I knew worked for me in the first place.\n\nThat said, I’m blown away by the new M4 chip—coming from the latest Intel, the speed is night and day. As for RAM, going from 16GB to 48GB has been a game-changer. I briefly considered settling for 24GB, but if you’re someone who keeps dozens of Chrome tabs, documents, and applications open at once, the difference is noticeable. It’s unbelievably fast.\n\nHope this helps someone make their decision. Have a great day!",
+        "created_utc": 1732183427.0,
+        "subreddit_name": "mac",
+        "comments": 130
+    },
+    {
+        "title": "Deal alert - Apple Mac Mini 2024 M4 $499.99 on Amazon",
+        "score": 181,
+        "url": "https://www.reddit.com/r/mac/comments/1gwjpk1/deal_alert_apple_mac_mini_2024_m4_49999_on_amazon/",
+        "content": "# Apple Mac Mini 2024 M4 $499.99\n\nListed for $559 with a $59.01 coupon. $499 total.\n\n[https://amzn.to/3V6uZNd](https://amzn.to/3V6uZNd)",
+        "created_utc": 1732207423.0,
+        "subreddit_name": "mac",
+        "comments": 47
+    },
+    {
+        "title": "With thunderbolt 5, why would I pay for internal storage instead of getting an external drive?",
+        "score": 126,
+        "url": "https://www.reddit.com/r/mac/comments/1gwng3d/with_thunderbolt_5_why_would_i_pay_for_internal/",
+        "content": "I'm interested in a Mac Mini, or possibly a Mac Studio when it's released next year. I do a lot of GPU intensive data analysis and I edit a bit of video. I plan to upgrade the ram to around 48/64Gb, but the price apple is asking for storage is ridiculous. I feel like there must be something I'm missing.\n\nI'm debating on going with the base internal storage and getting a nice 2 or 4Tb external thunderbolt drive. Why is this potentially a bad idea? Or is it a great idea and I have just drank the apple kool-aid?",
+        "created_utc": 1732216071.0,
+        "subreddit_name": "mac",
+        "comments": 152
+    },
+    {
+        "title": "My experience switching to MacOS and optimizing a 4K monitor",
+        "score": 96,
+        "url": "https://www.reddit.com/r/mac/comments/1gwlmpy/my_experience_switching_to_macos_and_optimizing_a/",
+        "content": "I am a lifelong Windows user and just bought my first Mac, a MacBook Air 15\" M3 16GB/512GB in Silver. I plan to use it on the go sometimes but really wanted to use it at home on my existing setup. I contemplated a M4 Mac Mini, but opted for this for the portability option. \n\nAnyway, once I set up my external monitor, I was initially not happy with how my 4K display looked, especially next to the incredible built-in display on the MacBook. The colors were washed out, the text wasn't clear, and it was significantly worse-looking than the built-in display. I went down a rabbit hole and made several tweaks to get it optimized and now it looks amazing. I figured that this post may help someone else who is looking to do a similar set up or is trying to tweak their 4K display to look its best.\n\n\\* Disclaimer: I am not an expert, just someone who spent a few hours working on this and am happy with the results. Others may have more to contribute.\n\n\\---\n\nFor my setup, I have a 28\" 4K Philips Display and am using a Lenovo ThinkPad USB-C Hybrid Dock (40AF0135US) with the latest Firmware. I have used this for a while with both my work and personal laptops, both Windows machines. These steps would work for a direct connection to an external monitor too.\n\nTo get set up, because of my dock, I had to install DisplayLink Drivers for MacOS from the Synaptics website which got the second display working. For the record, once that is installed, the dock works perfectly with the M3 Air, including charging.\n\nAfter that, it just didn't look right and I made several tweaks to the monitor settings and in MacOS that changed everything and now it looks amazing. Almost as good as the built-in display. Here's what I did:\n\n1. **Enable HiDPI resolutions:** This is a feature of DisplayLink that needs to be turned on, but can also be done through other apps like BetterDisplay if you're not using g a dock. Once enabled, I set my 4K monitor to the 1440p setting which is actually the OS rendering everything to 5120 x 2880 (2x 1440p) and then scaling down to fit the screen. This improved things a bit but some things were still off.\n2. **Strip out monitor settings:** I went to a basic 80% Brightness, 50% Contrast, 50% Sharpness, 2.2 Gamma, and turned off all color modes, SmartContrast/SmartUniformity and all other Smart and monitor-specific features. That way I was getting the most raw form of the monitor without adjustment.\n3. **Color adjustment:** Make sure MacOS Display settings have the monitor set to its default color profile, mine was the model # of the monitor. With the monitors side by side, I tweaked the color in the monitor's settings. While it looked good in sRGB, it didn't allow brightness adjustment and was still a little off. Instead I set custom RGB to R-100, G-100, B-95 very closely resembled the tone on the built-in display. Different monitors may vary in the adjustments and values needed to look like the Mac display.\n4. **Font Smoothing:** Even with the colors right, I struggled with the sharpness. I could only achieve too fuzzy or too harsh, and couldn't get the right balance. The color was vivid and nice, but the text just looked off no matter what I changed. Ultimately I kept the monitor sharpness at 50 which was too fuzzy and found the answer in two commands. I turned on CGFontRenderingFontSmoothing and turned on AppleFontSmoothing to 1 which makes the text sharper with minimal anti-aliasing. AppleFontSmoothing can also be set to 2 or 3, but 1 achieved the result I was hoping for. This setting has no noticeable impact not the built-in display but absolutely transformed the text on the external display. Here are the steps I took:\n   * Open Terminal and paste/execute each of the below commands\n   * `defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO`\n   * `defaults write -g AppleFontSmoothing -int 1`\n   * Restart the computer for the changes to take effect.\n\nFor me, the above adjustments changed everything, especially the final step. I was pretty unhappy with the 4K monitor initially and wondered what I had gotten myself into. I worried I'd have to drop a huge amount of money on a Studio Display to be happy with it, but this got me to where I needed to be. I may make additional small tweaks here and there, but I am very happy now. Hopefully this helps someone else and you can benefit from the hours I put into this. If you have any other tips, feel free to comment them.",
+        "created_utc": 1732211859.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "20 years of windows, switched to Mac today ",
+        "score": 89,
+        "url": "https://www.reddit.com/r/mac/comments/1gwovm4/20_years_of_windows_switched_to_mac_today/",
+        "content": "I have been using windows computers for 20 years and decided today to get a MacBook Pro M1 Pro 16 inch. My experience has been incredible. How quick it is, seamless, smooth, I can’t believe I haven’t had one of these all my life. My phone works amazingly on it too (I have an iPhone and an iPad). I used to think so poorly of MacBooks but I completely understand why people have them now. This thing is a productivity monster. Loving it and can see myself buying more Mac’s long into the future. ",
+        "created_utc": 1732219597.0,
+        "subreddit_name": "mac",
+        "comments": 95
+    },
+    {
+        "title": "My favorite macOS apps",
+        "score": 50,
+        "url": "https://switowski.com/blog/my-favorite-macos-apps-2024/",
+        "content": "",
+        "created_utc": 1732176478.0,
+        "subreddit_name": "mac",
+        "comments": 15
+    },
+    {
+        "title": "Reduce or disable Menu Bar blur for Wallpapers on Desktop? ",
+        "score": 6,
+        "url": "https://i.redd.it/j2fnu5v2hb2e1.jpeg",
+        "content": "As you can see i have this cool DC wallpaper on my MacBook, but i think it would look even better without the menu bar blur effect. I would like the wallpaper to fill the whole screen. I thought “Fill Screen“ would disable this. I get that this probably exists to assure menu bar visibility but it’s kinda annoying if you just want to look at your wallpaper.",
+        "created_utc": 1732221907.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Is there any way to lock the computer into a single Webpage, Mid 2011 iMac on 10.13.6",
+        "score": 7,
+        "url": "https://www.reddit.com/r/mac/comments/1gwg94v/is_there_any_way_to_lock_the_computer_into_a/",
+        "content": "I’m a wedding photographer that’s looking to set up a booth at a local bridal expo show. My most recent show was my first and I used the iMac to display my work in a looped keynote, but this time I want to have the iMac serve as a station for perspective clients to type their name and contact info for a raffle. I’ve got a hidden webpage in my site that functions perfectly for this, but I need to somehow find a way to lock the iMac so users can’t leave Safari (or the webpage for that matter)\n\nAre there any solutions or suggestions on how to accomplish this?",
+        "created_utc": 1732195685.0,
+        "subreddit_name": "mac",
+        "comments": 18
+    },
+    {
+        "title": "Multi Mac Users…",
+        "score": 6,
+        "url": "https://www.reddit.com/r/mac/comments/1gw5y2e/multi_mac_users/",
+        "content": "So I have a question for the multi Mac users…meaning those that utilize a MacBook as well as a Mac Studio/Mac Mini/Mac Pro. I have been a Mac user for about 15 years now, but I’ve only used 1 device at a time during my use. I started out with 2011 27in iMac, then I was gifted everso light 17in MacBook Pro 🤣 when the iMac crapped itself. \n\nMy question is, how are you maintaining your work on both? Ex. You’re out and about or at work and you’re working on a document, spreadsheet, or presentation on your MacBook…then you go home…do you finish the document on the laptop, or do you continue on the Mac desktop? If so, how are you doing this? Are you saving everything to iCloud, or is there another way to accomplish this? I recently purchased the new M4 MacBook Pro as well as an M4 Mac Mini. I bought the Mac Mini to use in my home office thinking it would force me to stick to “office hours” and not lay on the couch or in bed working on my laptop all night. \n\nSo how are you guys doing this (if you’re doing it at all)?",
+        "created_utc": 1732157149.0,
+        "subreddit_name": "mac",
+        "comments": 41
+    },
+    {
+        "title": "How Can I Install MacOS onto my Mac without an OS?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gwtxj8/how_can_i_install_macos_onto_my_mac_without_an_os/",
+        "content": "I messed up and accidentally deleted my MacOS when trying to install Windows through Boot Camp Assistant. When I restart my computer and press option r to do internet recovery, it is stuck on 24:00. After searching it up it appears that internet recovery only works on Macs after 2012, but mine is mid-2011. I have heard I can buy a dvd to install MacOS, but is there another way to install MacOS High Sierra back onto my Mac?\n\nAll help is appreciated!\n\nEDIT: Thank you all for your helpful replies! I ended up doing a booting up Lion onto my Mac with a usb and updating it up to High Sierra! I though all hope had bee lost!\n\nThank you kind strangers!!!",
+        "created_utc": 1732232638.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "2014 iMac 27 5k OK to buy?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gw9uxi/2014_imac_27_5k_ok_to_buy/",
+        "content": "As title, need something just for internet browsing and logging into to email, bank, buying things etc. Is it safe to buy and will Apple keep it updated or is it left with no updates now and exposed to security risks not worth taking?",
+        "created_utc": 1732170285.0,
+        "subreddit_name": "mac",
+        "comments": 8
+    },
+    {
+        "title": "Boot Loop?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwrivw/boot_loop/",
+        "content": "Hoping this is the right place. \n\nI have a macbook pro (2021 I think? Not sure) \n\nI’ve had windows 10 or 11 (once again not sure) on it for months with no issues at all.\n\nToday, I updated bootcamp using the built-in system updater program in windows. Now I can’t boot into MacOS. And it boot loops unless I go into Recovery mode.\n\nA friend whose computer is having the same issue, but our computers haven’t interacted in any way ever, so it’s not a virus. We both updated bootcamp though. \n\nWe think it is a “broken seal” in the system because I went into terminal and found this on her computer. \n\nCurrently booting into Internet recovery mode but it’s stuck loading (💀).\n\nPlease PLEASE help 🙏\n\nEDIT: Solved via 4 labourous hours of reinstalling Ventura and crying a lot 😭👍",
+        "created_utc": 1732226247.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "MacMini M4 - Can I connect two Dell 34\" wide screen monitors?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwjgq8/macmini_m4_can_i_connect_two_dell_34_wide_screen/",
+        "content": "I am new to this and tried to google this info but failed.\n\nPlanning on buying MacMini M4. It has 1 hdmi port but multiple thunderbolt ports. Can those thunderbolt ports be used to connect to Monitors?\n\n  \nI have two dell 34\" wide screen monitors which I was hoping to connect to this mac mini.\n\n  \nMore info :   \nUbuntu Desktop has Displayport only  \nMonitors have DisplayPort, HDMIPort, USB-C port.  \n  \n  \nAlso, is there KVM switch that works best with this configuration?",
+        "created_utc": 1732206833.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Migrating from onto a newer Mac - cleanest, most optimal approaches?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwhh4e/migrating_from_onto_a_newer_mac_cleanest_most/",
+        "content": "Currently running an M1 Mac Mini with latest Sequoia. This was set up using macOS' migration tools from my previous iMac (Intel chip) which I had for about 5 years. And before that, another iMac.\n\nBasically I've always used migration tools to go from one machine to another.\n\nBut I'm about to buy a Mac Studio M1 Max and I'm considering starting afresh.... install all software from scratch, let the thing index fully. BTW all my photos, music etc is on external drives\n\nIs there any real benefit it in this, given how 'smart' macOS is these days? Am I just better off using a Mac cleaner app on my current machine, then just doing an auto migration (and save some work)? \n\nOpinions please! Thanks",
+        "created_utc": 1732199116.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Is it safe to use my MacBook closed with 2 Studio Displays?\n",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwfi0x/is_it_safe_to_use_my_macbook_closed_with_2_studio/",
+        "content": "I have a concern about using my MacBook closed while connected to two Studio Displays. Is it safe for the built-in screen if the MacBook is closed? Sometimes, when I hold my MacBook, it gets pretty hot, and I’m worried it might affect or damage the built-in monitor. My MacBook Pro has an M1 Max chip. I’ve heard of apps like Lunar and BetterDisplay that can put the monitor to sleep. Are those safe to use? Any suggestions would be appreciated!",
+        "created_utc": 1732193371.0,
+        "subreddit_name": "mac",
+        "comments": 21
+    },
+    {
+        "title": "Need urgent help: Macbook pro (Late 2013) only stays on when connected to HDMI?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwb42w/need_urgent_help_macbook_pro_late_2013_only_stays/",
+        "content": "I’m having issues with my MacBook Pro (Late 2013) and could really use some advice. Here’s what’s happening:\n\n1. **Freezing and Turning Off Without HDMI:** My MacBook only stays on when it’s connected to an external display via HDMI. If I disconnect the HDMI or try to start the laptop without it, it works for a few seconds but then freezes, showing a bluish/black screen before turning off within a minute.\n2. **Random Sleep or Shutdown with HDMI:** Even when connected to HDMI and charging, the laptop goes into sleep mode or turns off after about 10 minutes of inactivity, despite being plugged in. (I did change my settings to always stay on when charging) \n3. **Temperature and Performance Checks:** I’ve been monitoring the fan speed and CPU temperature using apps, and everything seems fine. The temperature typically stays between 45°C and 65°C, so overheating doesn’t seem to be the issue. My fans seem to average at 2000 RPM. \n\nDoes anyone know what might be causing these problems or how to fix them? Any advice would be greatly appreciated!",
+        "created_utc": 1732175529.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "It it worth replacing my MacBook screen?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gwa9oc/it_it_worth_replacing_my_macbook_screen/",
+        "content": "Apple support said $1049AUD to replace the screen on my MacBook Pro m1 13 inch.  m3 MacBook Pro is $1850AUD on their refurbished site. Would I be better off getting a new MacBook or replacing the screen?\n\nWould really love to upgrade but I love my touchbar",
+        "created_utc": 1732171951.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Experience with first Mac Mini (M4 Base Model)",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gw8scl/experience_with_first_mac_mini_m4_base_model/",
+        "content": "Hi\n\nI bought my first Mac Mini with the release of the M4 Base Model and i ahve to say i love it so far. My previous experience with Apple products were Ipod Tocuh 2G and 4G until i lost my 4G two years after it came out in 2012, than i bought my first Ipad in 2020. The only reason i bought a Pro over an Air was the USB C Port and it also broke this year. I actually using an Air with M1 so far and i noticed some differences way i would go with a Pro the next time. Flashlight, Screen Brightness, Thunderbolt etc. etc. Witht he release of the first gen of Apple Silicon i bought a MacBook Pro 13 (M1) and hated it. I guess 13.3 inches are just not my thing, i used it to play around with Mac OS, but never really tried to adapt to it and used my other devices more than it. As a tech person i am i wanted to give it another try, at least i wanted to have one device running Mac OS and the last 3 months i was blown away by the performance, especially transfeer speeds and im only using Sandisk Pro with max speed of roughly 1000mbit/s. I wonder why my Win11 device is so much slower? Ofc i dont expect the same speed from a machine with this specs:\n\nCPU: AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor  \nRAM: 32GB RAM  \nGPU: Asus DUAL OC GeForce RTX 3070 8 GB  \nMB: Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard  \nStorage 500 GB M.2 PCIe 4.0 X4\n\nIs my machine so outdated in comparison or why are my speeds so slow in comparison. Thank god i got rid of all my HDD drives for now.\n\nI seriously considering pickung up a Mac Studio next year as a main work machine, that i will beef up with storage and more RAM.",
+        "created_utc": 1732166322.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Planning on getting my very first Machintosh",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gw8ort/planning_on_getting_my_very_first_machintosh/",
+        "content": "Lifetime Windows user just looking to spice things up and get to know a different environment. The sober look of Mac OS seems good to avoid distractions and do more work.\n\nI know I could get a better PC with less, but I want a fancy laptop with a good battery life (and battery performance). I don't want a noisy tower bitcoin miner target.\n\nI'll not leave Android whatsoever but I wanna give Mac a try. Also it's better to learn how to manage different systems.\n\nWhat I plan to do is draw, animate (2D) and maybe music production.\nAlso playing console emulators, not full-pc games.\n\nSuggestions?",
+        "created_utc": 1732165966.0,
+        "subreddit_name": "mac",
+        "comments": 8
+    },
+    {
+        "title": "Why won’t my devices connect to my Mac after the iOS 15 Sequoia update?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gw8c97/why_wont_my_devices_connect_to_my_mac_after_the/",
+        "content": "I attempted to connect to my focus, right Scarlet solo and WebCam to my 14 inch MacBook Pro after the Mac update. My Mac is not recognizing any device I plug into it. Does anyone have any idea how I can go about fixing this issue?",
+        "created_utc": 1732164774.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Apple pledges USD 100 million Indonesia investment to lift iPhone 16 ban",
+        "score": 2988,
+        "url": "https://www.engadget.com/big-tech/apple-pledges-100-million-indonesia-investment-to-lift-iphone-16-ban-162217627.html",
+        "content": "",
+        "created_utc": 1732208932.0,
+        "subreddit_name": "gadgets",
+        "comments": 165
     }
 ]

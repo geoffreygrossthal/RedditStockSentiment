@@ -106,5 +106,158 @@
         "created_utc": 1731150024.0,
         "subreddit_name": "apple",
         "comments": 62
+    },
+    {
+        "title": "Got my family’s old iMac G2 up and running!",
+        "score": 234,
+        "url": "https://www.reddit.com/gallery/1gndo5a",
+        "content": "Now to play club pengui- oh…",
+        "created_utc": 1731169287.0,
+        "subreddit_name": "mac",
+        "comments": 24
+    },
+    {
+        "title": "Mac Mini (non-pro) display support for 4k, since that’s the display resolution you probably already have",
+        "score": 70,
+        "url": "https://www.reddit.com/r/mac/comments/1gn2vvb/mac_mini_nonpro_display_support_for_4k_since/",
+        "content": "I kinda dislike that Apple describes the display performance in terms of displays that are very not common, like 5k and 6k. So I tested with a more common resolution.\n\nI “tested” the display support for the base M4 non-pro Mac Mini with my 4k 144fps display, which has 4 inputs. The mini will drive any 3 of the inputs at once, and the 4th one to be plugged in gets ignored. \n\nFurther, the Mini will connect to two of them at 4k144, but for the third monitor, it will only give 4k60. This is in line with what I was expecting. \n\nAlso, these results are for testing with 4-lane DisplayPort alt mode on the Thunderbolt 4 ports. If you use a non-Thunderbolt hub that has any USB 3 connectivity, that hub is using only two of the lanes for DisplayPort data, and is reserving the other two for USB 3 data. And this apparently causes the 4k frame rate to be limited to 60 FPS from that output. I assume this means that the Mac doesn’t use DSC, in the same way it doesn’t use MST. \n\nSo, use 4-lane hubs (kinda rare, but I can provide a link) or Thunderbolt hubs (kinda $$$) if you’re not going to direct-connect to your higher-performance monitors. \n\nAlso, for power output, the rear ports are required to supply 15w each, and I got all three of them supplying 10-11w simultaneously. On the front ports, one was able to supply 12w, and while doing so, if the other one pulled more than 5w, the port shut down. \n\nWhile all of those were happening, I ran a CPU and GPU benchmark. And doing all that together, I got the power-draw at the wall up to 121 watts. It is rated for 155 watts, and I assume most of what’s left is for the extra cores on the M4 Pro.",
+        "created_utc": 1731129420.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Upgrading from 2019 intel iMac ",
+        "score": 47,
+        "url": "https://www.reddit.com/gallery/1gnbc9y",
+        "content": "Decided to upgrade my intel iMac 🖥️ from 2019 to this. While I would have liked to have more storage than the 512gb my resources are limited. I have external storage so I’m optimistic this will work out for me. ",
+        "created_utc": 1731162721.0,
+        "subreddit_name": "mac",
+        "comments": 17
+    },
+    {
+        "title": "Potential mods for iMac and Mac Mini M4",
+        "score": 42,
+        "url": "https://www.reddit.com/gallery/1gnl5ol",
+        "content": "(I’m not a pro at drawing, modeling, just quick scribbles on my iPad). So, I thought of some potential mods for the two machines, if not already done by someone else.\n\n1. iMac SSD attachment.\n2. Mac Mini bottom base.\n\n",
+        "created_utc": 1731189680.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Apple should name an upcoming version of MacOS \"Calico\"",
+        "score": 32,
+        "url": "https://www.reddit.com/r/mac/comments/1gmyy0t/apple_should_name_an_upcoming_version_of_macos/",
+        "content": "Apple has been naming its MacOS releases after locales in California for some time. \n\nNot sure if we'll ever get MacOS Golden Gate, MacOS Humboldt, MacOS Santa Anita Canyons, MacOS Marina, MacOS Bakersfield Derricks, MacOS Vernon, or MacOS LA River, but I'd love if we could get ***MacOS Calico,*** initially named after the now-mostly-defunct mining town...\n\nBut then, when a minor update of Calico comes later, Apple can throw in a new wallpaper of a Calico cat, and they can go back to naming new MacOS versions after cats! ",
+        "created_utc": 1731116225.0,
+        "subreddit_name": "mac",
+        "comments": 44
+    },
+    {
+        "title": "80% charge limit",
+        "score": 13,
+        "url": "https://www.reddit.com/r/mac/comments/1gnkqoy/80_charge_limit/",
+        "content": "I was disappointed to find Apple didn't add the 80% charge limit feature to the new M4 MacBook Pro. The feature was first introduced with iPhone 15, and expanded to iPad with the current M4 iPad Pro. I assumed they'd add it with this upgrade, but that doesn't appear to be the case. Considering many users use their MacBooks plugged in all day long, of all these devices an 80% charge limit would have made the most sense here. I guess I'll have to stick with CoconutBattery for a while longer. ",
+        "created_utc": 1731188521.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "High efficiency core usage and consistently higher SSD readings since installing 15.1 although Apple Intelligence is not enabled. Is my Mac indexing / preparing itself for Apple intelligence, despite it being turned off at the moment?",
+        "score": 11,
+        "url": "https://www.reddit.com/gallery/1gnhdns",
+        "content": "",
+        "created_utc": 1731179252.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "14\" MacBook Pro M4 Pro vs M4 Max",
+        "score": 10,
+        "url": "https://www.reddit.com/r/mac/comments/1gmxi2g/14_macbook_pro_m4_pro_vs_m4_max/",
+        "content": "Hi all, just looking for a little guidance please! I'm coming from a 2017 Intel MBP and am looking at either the M4 Pro or M4 Max MBP to be my creative powerhouse. I'm deadset on getting a 14\" and one of the M4 models and preordered the M4 Pro with 14 core CPU and 20 core GPU with 48GB of unified memory. But lately I've been considering cancelling my order and instead going for the M4 Max with 16 core CPU, 40 core GPU and 48GB of unified memory instead. I know either will be a massive step up for me, but I wanna make sure I'm making the right choice and I don't have any prior experience with Apple silicon.\n\nI spend probably 60% of my time doing RAW photo editing in Lightroom Classic, 20% of my time doing music production in Logic Pro X, and 20% of my time video editing in DaVinci Resolve. For most of my work, I think the M4 Pro will be more than capable, but my main concern comes to video editing - particularly when it comes to future-proofing. For video editing, I currently shoot 4K 10-bit 4:2:2 in Sony's XAVC-S codec and I colour grade quite heavily with multiple LUTs and a handful of nodes with various effects like the occasional noise reduction or halation effect. From my research, I gather the M4 Pro should be able to handle all of this pretty well, but I could see myself upgrading to shooting 4K RAW with the same heavy colour grading a few years down the track and wonder if the M4 Pro would be enough to handle that smoothly without having to resort to proxies?\n\nOn another note; I was originally considering jumping straight to the M4 Max for future-proofing seeing as I have the cash for it, but I'm aware that the Max chip in the 14\" has the worst battery life, and seeing as I move around a lot, battery life is very important to me. Not just for how many hours I get out of it, but also for the battery cycle count, as I plan on using this for at least 5+ years and want as much battery as possible without having to plug into anything. So if the M4 Pro can do everything I need now and in the future well enough, I'd very much like to avoid the Max. \n\nI know it's obviously still very early days with these machines, but would love any insight people have as I have no experience with any of the new Apple silicon macs. Sorry this was a long post 😅 Thanks so much in advance!",
+        "created_utc": 1731111890.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Can we consolidate two Macs to one?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/mac/comments/1gnhii8/can_we_consolidate_two_macs_to_one/",
+        "content": "My husband and I have two MacBook Pros with two different Apple IDs. They are both over 10 years old, so we are looking to upgrade. If we were to get one new MacBook, is there a way to copy the info and settings from each computer onto the new one with separate users? And still be logged into our own Apple ids? ",
+        "created_utc": 1731179631.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Mac Mini M4 Base vs Macbook Pro 14\" M3 Pro Base",
+        "score": 5,
+        "url": "https://i.redd.it/is61k2id9xzd1.png",
+        "content": "",
+        "created_utc": 1731178193.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "MacBook Pro M4 vs M4 Pro Battery Life",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gn3zjg/macbook_pro_m4_vs_m4_pro_battery_life/",
+        "content": "I’m doing research to pick the right M4 MacBook Pro for me. I’ve got two builds I am deciding between. Everything is the same except one is the M4 and the other is the M4 Pro. The difference in price is $300. I am willing to spend the extra $300 to get better CPU and GPU performance but I think it’s likely I won’t be making use of that extra power.\n\nMy question is, is there any significant impact on battery life between the M4 and M4 Pro? I heard the Pro has less efficiency cores. I’d like to know if getting the Pro is actually a downgrade if I am not going to use the extra power it offers.\n\nThe main thing I would use it for is fusion 360 and cura for 3D printing. I figured the extra CPU and GPU performance would be nice, especially for future proofing. My current device is a 2016 MacBook Pro and I intend to keep my next one for a while too.\n\nThanks in advance!",
+        "created_utc": 1731133737.0,
+        "subreddit_name": "mac",
+        "comments": 13
+    },
+    {
+        "title": "having a nightmare trying to upgrade macbook pro from catalina to big sur someone please help!",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gnl1vu/having_a_nightmare_trying_to_upgrade_macbook_pro/",
+        "content": "I have a 2014 Macbook pro and finally cleared plenty of space on it to update to Big sur. It took a while for it to download then just before upgrading it came up with a message saying can’t be upgraded due to something that wasn’t available or could be found. Before I could properly read it, it had gone ahead and done the upgrade.\n\nIt took about 20 minutes, restarted itself lord knows how many times. Then asked me a couple of things to confirm which I did and then nothing happened… it just opened straight back up to catalina on the old system and now having to go through the whole process again by redownloading the update. I’ve have been seeing that loads of people have been experiencing problems upgrading to big sur please can anyone help?? ",
+        "created_utc": 1731189384.0,
+        "subreddit_name": "mac",
+        "comments": 8
+    },
+    {
+        "title": "Apple Magic Keyboard for Mac, third party options",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gniwkq/apple_magic_keyboard_for_mac_third_party_options/",
+        "content": "Is there any third party case, or cover options that make it more ergonomic? That tilts the back up, adds wrist support, etc. Im an author, and I love the way Apple keyboards type, and I would love the Touch ID feature when I put my MacBook in desktop mode, but I just can't use an apple keyboard for long the way it is. It's flat, too close to the desk, no wrist support it becomes uncomfortable too quickly. Suggestions?",
+        "created_utc": 1731183416.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Time Machine Could Not Complete Backup -\"Some Files Were Unavailable Message\"",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gnfcql/time_machine_could_not_complete_backup_some_files/",
+        "content": "MacBook Pro M2 16GB\n\nEver since I upgraded to macOS 15.1 I periodically get this error message. Nothing has changed except for the OS upgrade. This occurs at some point on both Backup drives. Once I see this error message I just perform the backup manually and have no problem. It looks like it is happening when the laptop has gone into sleep state. I never see this problem if I'm using the laptop and a backup happens. I also have no idea which files are causing the problem. Both backup drives have a Bkup partition and no space issues.\n\nAnyone else encounter this problem?\n\nhttps://preview.redd.it/p3jg56w6vwzd1.png?width=1548&format=png&auto=webp&s=b5663e00c7eb907f35823d3a7fee72988e84aaa3\n\n  \n",
+        "created_utc": 1731173816.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Users that switched from Windows to Mac\n",
+        "score": 1,
+        "url": "https://www.reddit.com/r/mac/comments/1gn5ppn/users_that_switched_from_windows_to_mac/",
+        "content": "Hello! I'm considering switching to a Mac but am not sure which Mac model would be the best fit. I'm especially unsure about the different types of Mac RAM, specifically the unified memory, and the variety of cores.\n\nHere’s my current daily usage on my Windows PC: I usually have around 20 Chrome tabs open, run Photoshop and Lightroom, do some 1080p to 4K video editing, and listen to YouTube Music in the background. I don’t play games, so that’s not a concern.\n\nMy current Windows PC is admittedly a bit outdated for today’s standards. It does okay for the most part, though it struggles when I open 20 Chrome tabs or when rendering video footage. It’s workable, but I’d like something more efficient.\n\nWhat would you recommend as a Mac or non-portable Apple desktop that can handle my needs and provide a bit of an upgrade? Thanks!\n\nhttps://preview.redd.it/nwsubbq27uzd1.png?width=503&format=png&auto=webp&s=19c0191051646b7cf85cbb810ee7107a4f6b24ed\n\nhttps://preview.redd.it/ujchjcq27uzd1.png?width=788&format=png&auto=webp&s=0fd254b5dc1875f2e9b4951ce34f75ba680c5ddb\n\nhttps://preview.redd.it/2ji9ceq27uzd1.png?width=791&format=png&auto=webp&s=23b502e2365c20ecac479f86c4654ef5ea72076c\n\nhttps://preview.redd.it/83gc0fq27uzd1.png?width=417&format=png&auto=webp&s=a751772f56ba680ee24ba64b74246a7f802c2880\n\nhttps://preview.redd.it/69s97gq27uzd1.png?width=438&format=png&auto=webp&s=cde0bb7ad9bc79009c85554381fb84a8991edbc8\n\nhttps://preview.redd.it/ambuaiq27uzd1.png?width=438&format=png&auto=webp&s=477acf8d69ce9cec457bce980a991a9ba51b9419\n\nhttps://preview.redd.it/4msp5hq27uzd1.png?width=795&format=png&auto=webp&s=44f12d973378f48b8217d9ded6fc3384a64b6fd8\n\nhttps://preview.redd.it/vs94jiq27uzd1.png?width=820&format=png&auto=webp&s=bf5b84df9fd46a0e0146bc8a935f58b181b38509\n\n",
+        "created_utc": 1731141140.0,
+        "subreddit_name": "mac",
+        "comments": 20
+    },
+    {
+        "title": "Exploring thermal mod options for M4 Mac Mini",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gn4l4g/exploring_thermal_mod_options_for_m4_mac_mini/",
+        "content": "https://preview.redd.it/pidmr97crtzd1.png?width=544&format=png&auto=webp&s=d3c4740396f8acad896547f1e8bef028f42f0d77\n\nHere's a zoomed-in (sorry for non-matching orientation here) chip/heatsink picture collected from MaxTech's YT video. Visible potential of improving thermals, hence potential perf boost on this already tiny beast. \n\nPotential options I see,\n\n1. bit more spreaded thermal paste for better contact with open copper we see on right.\n\n2. thin copper shims for the memory chips, the past for them is visibly very thick. This could be more like 2018\\~2022 macbook air like solution.\n\n3. liquid metal on the compute side. extremely thin padding around the copper spreader part should offer good insulation for preventing spillover.",
+        "created_utc": 1731136211.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Monitor for Macbook air M1",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gn2vrm/monitor_for_macbook_air_m1/",
+        "content": "My budget is honestly like $200 (AUD), and I understand that I won't be getting something amazing with my budget. I just need something to last till the end of high school. I looked at previous people asking this, but all of them were out of my budget, or the people asking them were doing things like Photoshop/editing. ?",
+        "created_utc": 1731129409.0,
+        "subreddit_name": "mac",
+        "comments": 0
     }
 ]

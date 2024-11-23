@@ -142,5 +142,194 @@
         "created_utc": 1731841230.0,
         "subreddit_name": "apple",
         "comments": 29
+    },
+    {
+        "title": "Lost your sense of direction? Turn off your phone and you’ll soon reconnect | Life and style",
+        "score": 67,
+        "url": "https://www.theguardian.com/lifeandstyle/2024/nov/17/lost-your-sense-of-direction-turn-off-your-phone-and-youll-soon-reconnect",
+        "content": "",
+        "created_utc": 1731871829.0,
+        "subreddit_name": "technology",
+        "comments": 20
+    },
+    {
+        "title": "MacBook stolen in burglary",
+        "score": 513,
+        "url": "https://i.redd.it/g67aq18pbh1e1.jpeg",
+        "content": "My flat in Paris was burgled yesterday and my MacBook seems to be located 3 kilometres from my address, along with my partner's. Unfortunately, despite the report of the break-in and what Find My says, I'm afraid I won't be able to get my work equipment back, and all of my precious work, part of which isn’t stored in iCloud.\n\nAny suggestions?",
+        "created_utc": 1731856891.0,
+        "subreddit_name": "mac",
+        "comments": 85
+    },
+    {
+        "title": "Two Mac Mini M4s - Universal Control - The ultimate upgrade? ",
+        "score": 75,
+        "url": "https://www.reddit.com/r/mac/comments/1gtnw7s/two_mac_mini_m4s_universal_control_the_ultimate/",
+        "content": "https://preview.redd.it/4ar6677o1j1e1.png?width=1080&format=png&auto=webp&s=16729d512c16f13ebcad149ed2705beec0403516\n\nAs you might have seen before you can get two mac mini's for the price of 1 upgraded mac mini.  It's meant to highlight the insane prices for upgrades, but then I thought about it some more...\n\nWhat if you simply did buy two mac minis? Here's the setup I'm thinking about,\n\n\\- Two Monitor Setup  \n\\- Two Mac Mini M4 Base models (256gb SSD, 16GB RAM)  \n\\- Each Mac Mini is dedicated to one monitor  \n\\- Using Universal Control, control both with one mouse and keyboard.\n\nSo now instead of one upgraded mac mini, you have a distributed desktop setup to completely offload certain workloads to an entirely different computer.\n\nI haven't used universal control, but I'm curious if anyone has done this with two macs and if it's actually a smooth experience.  I saw some videos where there's a little bit of latency when doing drag and drop, between the two.   But this idea of the best upgrade for a mac mini is actually another mac mini is something I might actually consider doing.  I.e. start off with one and if I'm needing some power, buy another.\n\n  \nEDIT: \n\nThanks all for the input,  I ended up biting the bullet and just going for a single M4 with 512 SSD and 24GB RAM.  I think for me personally, I wouldn't want to deal with the finicky UC issues.  \n\n",
+        "created_utc": 1731878154.0,
+        "subreddit_name": "mac",
+        "comments": 24
+    },
+    {
+        "title": "How does one \"truly\" master MacOS?",
+        "score": 63,
+        "url": "https://www.reddit.com/r/mac/comments/1gtqju1/how_does_one_truly_master_macos/",
+        "content": "I've used Mac for a couple years now and want to know the OS better. I'm starting to look into using/learning terminal, but I'm wondering if there are more important things other than cmd+space?",
+        "created_utc": 1731885323.0,
+        "subreddit_name": "mac",
+        "comments": 65
+    },
+    {
+        "title": "Panic Medic Boot ",
+        "score": 30,
+        "url": "https://i.redd.it/o2kqrbibsd1e1.jpeg",
+        "content": "Hey, I got this Problem today with my 2020 Intel I-5 Macbook Pro, I have tried everything but so for to no prevail. In my last attempt, I went into recovery mode erased the hard drive and tried to install the Mac OS again but my laptop kept rebooting itself, I have tried doing it with the internet recovery option( strangely it doesn’t reboot during the internet recovery process but then afterwards when it goes into the to reinstall the OS it again shuts down. Does anyone how to fix it?",
+        "created_utc": 1731814053.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "iMovie on MacMini A1103, difficulties exporting",
+        "score": 29,
+        "url": "https://www.reddit.com/gallery/1gtf84w",
+        "content": "Got around to boot up an old MacMini A1103, which gave me the opportunity to import some MiniDV tapes I really want to digitize. Everything went smooth up until the point of copying/exporting the tape transfers to a flashdrive so I can use them on my modern laptop. Everytime I try to save the clips onto this flashdrive the process takes a long time just to be interrupted and cancelled. I've been trying simple drag and drop or compressing via the QuickTime option, to no end. Any tips on how to effectively get the DV tape clips I successfully imported into an external USB device ? Thank you ",
+        "created_utc": 1731855272.0,
+        "subreddit_name": "mac",
+        "comments": 32
+    },
+    {
+        "title": "I Need help ",
+        "score": 17,
+        "url": "https://www.reddit.com/gallery/1gtohhf",
+        "content": "So this 2011 MacBook pro Is the ultimate laptop except for these Lines Is It a gpu or display issue since my HD 6750m still works when i opened It and touched the connector nothing happened and the Lines are not still they move",
+        "created_utc": 1731879707.0,
+        "subreddit_name": "mac",
+        "comments": 30
+    },
+    {
+        "title": "Apple MacBook Air M1 battery",
+        "score": 14,
+        "url": "https://i.redd.it/8d1rzpp32f1e1.jpeg",
+        "content": "Is it possible that I have not original battery?",
+        "created_utc": 1731829452.0,
+        "subreddit_name": "mac",
+        "comments": 19
+    },
+    {
+        "title": "Turn off drag windows to menu bar to fill screen, again…",
+        "score": 10,
+        "url": "https://www.reddit.com/r/mac/comments/1gtfiog/turn_off_drag_windows_to_menu_bar_to_fill_screen/",
+        "content": "The latest update turned this annoying trigger back on again.\n\nGo to Settings, Desktop & Dock to turn it off again. 🙄\n\nhttps://preview.redd.it/rdz5fob19h1e1.png?width=876&format=png&auto=webp&s=70936ff1076acaf1834984321a39d34a4a714521",
+        "created_utc": 1731856085.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "M4 Mac Mini - Is the base 256GB storage enough if I have 1TB iCloud Drive?",
+        "score": 10,
+        "url": "https://www.reddit.com/r/mac/comments/1gtdq32/m4_mac_mini_is_the_base_256gb_storage_enough_if_i/",
+        "content": "I never used a Mac and always used Windows and Linux. I am considering the new Mac Mini as it's pretty cheap for the performance it gives. I am alright with 16GB ram but unsure if 256GB of memory is enough. I pay for iCloud Drive (1TB) but only use around 250GB (iPhone).\n\nIf I get the 256GB, and use mainly iCloud drive to store the majority of the data (documents, pics, etcc..), is 256GB enough? Will be mostly for the apps and apps data. Maybe some documents here and there, but nothig heavy. I don't want to spend £200 exra just to get 256GB more memory, pretty expensive.",
+        "created_utc": 1731850652.0,
+        "subreddit_name": "mac",
+        "comments": 41
+    },
+    {
+        "title": "MacBook Pro 2018 15 won’t charge or turn on ",
+        "score": 4,
+        "url": "https://i.redd.it/r5yu8db69j1e1.jpeg",
+        "content": "I woke up this morning and turned my mac on it was low on battery so I went to get the charger and plugged my iPhone in the mac before i charged the mac ,once i plugged the iPhone it went dead no sign of life , i tried SMC and reset nvram and all . it won’t show any sign of life ,my charger works fine I tried it in my friend mac and it works ,i also tried my friend charger and it wont work on my mac ,\nPs: before this , my mac used to go from 20-30% immediately to 1% and it would still work with 1% for more than 1 hour it only got 520 in battery cycles and the status shows normal ",
+        "created_utc": 1731880288.0,
+        "subreddit_name": "mac",
+        "comments": 5
+    },
+    {
+        "title": "Is this as good as it gets for $850?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gtlkv7/is_this_as_good_as_it_gets_for_850/",
+        "content": "I know this is a mac subreddit but I'm asking for some non bias advice please.\n\nBefore I get comments from people from US and UK about how \"you can find one for $400 at bestbuy\" you need to know that in my country this is as good as it gets price wise. Black Friday is a scam in Europe.\n\nIf it had more storage and ram, I wouldn't even think about it, but those specs kinda worry me in 2024. I have a powerful PC for heavy use but I want a portable machine for emails, web browsing and maybe some light FL Studio. Never used mac too so I'm curious to try to learn the OS. It seems to me that an $850 windows laptop will be much worse than the m1 mac. \n\nMy question is remains, this the best deal for $850?\n\nhttps://preview.redd.it/ifp31j8oki1e1.png?width=1471&format=png&auto=webp&s=05699954c1f2e7a4937d1716e09252d90b3fb3bf\n\n\n\n",
+        "created_utc": 1731872042.0,
+        "subreddit_name": "mac",
+        "comments": 20
+    },
+    {
+        "title": "Performance difference between MacBook Pro M4 pro vs Mac mini M4 pro",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gtfbvj/performance_difference_between_macbook_pro_m4_pro/",
+        "content": "I haven't been able to find reviews with relative performance between mac mini and macbook pros using the same chip. I would presume it is very similar given that Apple is touting \"full performance unplugged\" but I am still curious. Anyone aware of such reviews? ",
+        "created_utc": 1731855579.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "What surprised you with mini 4 coming from old intel MacBook?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gteknw/what_surprised_you_with_mini_4_coming_from_old/",
+        "content": "Context:\nI use mba  13  inch early 2015 with 4k 28 in acer monitor, Logitech KB via usb receiver and a new pebble mouse via BT.\n\nI can see that I will need USB- C to HDMI adapter and usb c to usb a converters to plug above usb reciver and a powered USB hub.\n\nQ:\nIf you have made a similar switch what did suprise you? Did you  purchase more items? ",
+        "created_utc": 1731853285.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Macmini vs Mackbook air when you own a work macbook pro",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gt5z4q/macmini_vs_mackbook_air_when_you_own_a_work/",
+        "content": " I am a software developer who has been provided a macbook pro from my company. Recently i have been concerned with privacy and am planning to buy a personal system. I dont really have any crazy requirements in terms of performance but would like to have the option to pull off some heavy workloads (maybe video editing, building code, etc) if i want to in the future. I am into light gaming but have a ps5 for that so not a strong requirement. I am debating between buying a macbook air and a mac mini. \n\nMac mini provides the portability benefit but i would need a display every time i need to use it. While i could use some form of screenshare to use my work mac display to operate the mac mini, it would require providing permissions to my work laptop. I would save some money in this case though!!!\n\nOn the other hand, i could buy a macbook air or pro but i am not very keen on carrying around 2 laptops everytime i travel. \n\nSide note - the reason i am considering the apple ecosystem is since i already am inside their “garden” with an iphone, airpods, ipad, etc. i am open to suggestions though!\n\nThoughts???",
+        "created_utc": 1731818935.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "ISO a monitor for a 2020 MacBook Air.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gtolgq/iso_a_monitor_for_a_2020_macbook_air/",
+        "content": "Sorry in advance if this is the wrong place for this question but it seems like the right subreddit. \n\nJust bought an old M1 MacBook Air. It will be 90% used for school (accounting so a lot of Microsoft office and the like nothing crazy) and the other 10% the occasional internet browsing and streaming but I realized after working on dual monitors for so long I can’t really get jiggy with a 13 inch screen. I’d like to add at least one monitor. Ideally two if I can but in looking around it seems like I’m limited to one extra screen.\n\nMy question is what makes a monitor compatible with this MacBook? I’ve looked around and I can only find recommendations for monitors but what I’d like to do is understand what the requirements are and search for options myself.\n\nThank you in advance. ",
+        "created_utc": 1731880000.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "magic keyboard with or without Touch ID",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gtjqcr/magic_keyboard_with_or_without_touch_id/",
+        "content": "hello everyone\n\nso I wanna get a Magic Keyboard for my desk to replace my Logitech k380 but I'm not sure if the $50 price increase is really worth it since I already have an Apple Watch that unlocks my Mac and does all the Apple Pay thing. I've been reading that Touch ID can be a great QoL improvement but is it really when you add the AW to the equation? thoughts would be appreciated \n\nthanks ",
+        "created_utc": 1731867186.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "How does the student discount work?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gtfsch/how_does_the_student_discount_work/",
+        "content": "I'm thinking about buying the M4 Mini and was wondering how the student discount works. I noticed they didn’t ask for any proof of student status at checkout, so I’m curious if there are any restrictions or limitations when using the discount. Also, do you get the full version of macOS with the purchase?\n I'm new to Mac so this might be a stupid question. \n\n",
+        "created_utc": 1731856841.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Can nano-texture display be found at other retailers?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gteqi9/can_nanotexture_display_be_found_at_other/",
+        "content": "I haven’t seen a MacBook Pro model at other retailers (Costco, Amazon, etc.) with the nano-texture display option. Is this only configurable on Apple’s website? ",
+        "created_utc": 1731853787.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Mac air 2017 Ram issue",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gtbmzz/mac_air_2017_ram_issue/",
+        "content": "Hello. I bought a 2017 Mac in 2019 nov. It has been 5 years now since I got this product. The past two months the after every 1-2 days of regular use, the laptop goes into the red zone on the activity monitor and slows down. From what I've seen online, this is a ram issue. How do I fix this? The chip is soldered into the body of the laptop is what I've found. Would getting an external ssd help? If so, what should I look at when selecting an ssd for this/any reccomendations? I have also come across info about how not all ssd devices are compatible with all laptops. \n\nI can't replace the laptop. I'm open to trying anything else. \n\nIf I keep restarting my laptop everyday to clear up the ram and start a fresh would it help? ",
+        "created_utc": 1731843078.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Mac mini M4 + 4K 32 monitor: scaling impact and RAM recommendations?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gta7yq/mac_mini_m4_4k_32_monitor_scaling_impact_and_ram/",
+        "content": "I’m planning to connect a 32-inch 4K monitor to a Mac mini with the M4 chip using a Thunderbolt 3 cable. I’ve heard that macOS scaling might use more system resources. Is it true that this would improve performance?\n\nIn this case, would it be worth choosing the model with 24GB of RAM to ensure smooth operation?",
+        "created_utc": 1731836860.0,
+        "subreddit_name": "mac",
+        "comments": 3
     }
 ]

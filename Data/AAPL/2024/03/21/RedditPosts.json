@@ -43,5 +43,32 @@
         "created_utc": 1711031637.0,
         "subreddit_name": "apple",
         "comments": 2755
+    },
+    {
+        "title": "Former UPS worker allegedly stole $1.3M worth of Apple products",
+        "score": 1502,
+        "url": "https://9to5mac.com/2024/03/21/former-ups-worker-theft/",
+        "content": "",
+        "created_utc": 1711039337.0,
+        "subreddit_name": "apple",
+        "comments": 145
+    },
+    {
+        "title": "Apple CarPlay is anticompetitive, too, US lawsuit alleges",
+        "score": 1283,
+        "url": "https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key",
+        "content": "",
+        "created_utc": 1711058024.0,
+        "subreddit_name": "apple",
+        "comments": 395
+    },
+    {
+        "title": "Unpatchable vulnerability in Apple chip leaks secret encryption keys",
+        "score": 773,
+        "url": "https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/",
+        "content": "",
+        "created_utc": 1711043804.0,
+        "subreddit_name": "apple",
+        "comments": 159
     }
 ]

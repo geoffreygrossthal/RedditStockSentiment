@@ -97,5 +97,41 @@
         "created_utc": 1732323335.0,
         "subreddit_name": "apple",
         "comments": 62
+    },
+    {
+        "title": "Google stock thoughts ",
+        "score": 0,
+        "url": "https://www.reddit.com/r/stocks/comments/1gy9591/google_stock_thoughts/",
+        "content": " think that google depends on Apple , if apple products fail, or if apple partner with another search engine then Google would fail\n\nEdge and Bing are really good now , comes installed in 80% of the machines sold , if its good enough why bother downloading chrome ? and Bing looks almost exactly the same as google , \n\nChrome Os is failing also, Android might get antitrust..  \n\n\n\nWhat do you think? ",
+        "created_utc": 1732394058.0,
+        "subreddit_name": "stocks",
+        "comments": 53
+    },
+    {
+        "title": "Battery drains to 0% for 2 nights in a row after I update from Sonoma to Sequoia - how to check what apps caused it?",
+        "score": 1,
+        "url": "https://i.redd.it/ia6h24qz8k2e1.jpeg",
+        "content": "2 days ago I was on Sonoma, and regularly just left the MacBook unplugged the whole night, and would pick up again in the morning with no issues.\n\nThen I unfortunately decided to update to the latest Sequoia. And for the last 2 nights its drained to 0%. Usually on iPhone I can click on the green graph and I can see the apps causing the drain on iPhone. But it doesn't show on Mac OS, does anyone have any ideas to get a breakdown of this historical data",
+        "created_utc": 1732328149.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Nano-texture display and outdoors?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/mac/comments/1gxonm4/nanotexture_display_and_outdoors/",
+        "content": "I am looking to buy a new 16” MacBook Pro and I find myself on the fence as to whether to spend the extra money on the nano-texture display. Some people I’ve spoken to say it’s probably not worth it, while others say go for it. \n\nKnowing that my current Intel 16” MacBook Pro is hard to use in strong sunlight, would the nano-texture improve things here?\n\nOther than the outdoors use-case are there other situations where the screen improves things and are there any down sides? \n\n",
+        "created_utc": 1732327041.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "What's a good wireless mouse for Macbooks & Mac Mini?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/mac/comments/1gxo58y/whats_a_good_wireless_mouse_for_macbooks_mac_mini/",
+        "content": "I've looked at Logiech reviews, and many claim that they have input lag. I need something for graphic and web design, and input lag wouldn't be good for this, especially graphic design. Anyone use anything else that's good with low input lag? I'd prefer not to use Apple's mouse.",
+        "created_utc": 1732325488.0,
+        "subreddit_name": "mac",
+        "comments": 6
     }
 ]

@@ -178,5 +178,230 @@
         "created_utc": 1730684474.0,
         "subreddit_name": "apple",
         "comments": 17
+    },
+    {
+        "title": "Laptop, smartphone, and game console prices could soar after the election | Most Americans may not realize popular tech hasn't been hit by China tariffs—yet.",
+        "score": 899,
+        "url": "https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/",
+        "content": "",
+        "created_utc": 1730726686.0,
+        "subreddit_name": "technology",
+        "comments": 236
+    },
+    {
+        "title": "Warren Buffett’s Berkshire Hathaway Slashes Apple Stake Again",
+        "score": 497,
+        "url": "https://www.wsj.com/finance/stocks/berkshire-hathaway-q3-earnings-e0fe2a0b?mod=latest_headlines",
+        "content": "",
+        "created_utc": 1730693190.0,
+        "subreddit_name": "technology",
+        "comments": 62
+    },
+    {
+        "title": "GM software boss: we have ‘high conviction’ ditching CarPlay is the right path | GM’s Baris Cetinok is committed to building a custom experience to rival that of Apple and Google",
+        "score": 279,
+        "url": "https://www.theverge.com/24285581/gm-software-baris-cetinok-apple-carplay-android-auto-google-cars-evs-decoder-podcast",
+        "content": "",
+        "created_utc": 1730742821.0,
+        "subreddit_name": "technology",
+        "comments": 421
+    },
+    {
+        "title": "Microsoft may rebrand its Windows AI features under \"Windows Intelligence,\" following in Apple's footsteps",
+        "score": 98,
+        "url": "https://www.windowscentral.com/microsoft/microsoft-might-rebrand-its-ai-including-copilot-to-windows-intelligence-apples-strategy-fell-too-far-from-the-tree",
+        "content": "",
+        "created_utc": 1730742426.0,
+        "subreddit_name": "technology",
+        "comments": 76
+    },
+    {
+        "title": "Ah Apple, this is going to be fun.  Thunderbolt 5 cable without a “5” symbol just ⚡️. ",
+        "score": 3780,
+        "url": "https://www.reddit.com/gallery/1gja4m1",
+        "content": "Not to mention the bunch of USB2 charging cables of 65W, 96W, 140W, 200W limits… or cables support USB4 but not display port, or support display port but only USB2 speeds, or cables where you can only use one of displayport or usb and fails if you try both, or thunderbolt 4 speed but only 65W or 15W…\n\nAhhhh apple, if you’re going to make a premium cable and charge premium money, this is the one time where I absolutely want an apple logo  on it. 🫠… ",
+        "created_utc": 1730711432.0,
+        "subreddit_name": "mac",
+        "comments": 206
+    },
+    {
+        "title": "Buy 256 GB storage Macs because you can install apps on the external SSD with Sequoia 15.1",
+        "score": 337,
+        "url": "https://www.reddit.com/r/mac/comments/1gj3gha/buy_256_gb_storage_macs_because_you_can_install/",
+        "content": "I recently discovered that with Sequoia 15.1, we can now install apps directly onto an external SSD and use them just like they’re installed on the Mac’s internal storage.\n\nTo set it up:\n\nFirst, format the external SSD as APFS using Disk Utility.\n\nSecond, go to the App Store settings and enable “Download and install large apps to a separate disk.\n\nhttps://preview.redd.it/ub21zyxrpsyd1.png?width=872&format=png&auto=webp&s=fe399a7276d53960e2380a5d366c2b0655a6ed83\n\nThird, select the connected external SSD as the installation location.\n\nFrom now on, any app larger than 1 GB will automatically be installed on the external SSD. This makes upgrading to larger storage Macs—and paying the Apple premium—unnecessary!",
+        "created_utc": 1730685392.0,
+        "subreddit_name": "mac",
+        "comments": 95
+    },
+    {
+        "title": "What app do you feel is missing, or what existing app doesn’t fully solve a problem for you?",
+        "score": 147,
+        "url": "https://i.redd.it/wnis0z33lyyd1.jpeg",
+        "content": "I’d like to try my hand at writing software for macOS and am looking for ideas. I’d be happy if you shared something you need :)",
+        "created_utc": 1730758320.0,
+        "subreddit_name": "mac",
+        "comments": 214
+    },
+    {
+        "title": "Apple return policy",
+        "score": 50,
+        "url": "https://i.redd.it/w87cfe32dyyd1.jpeg",
+        "content": "I initiated a return for a macbook air I bought 12 days ago. It would be the 14th day since I bought it on November 6. But it says on the return page, \"Print a free return shipping label and send this item back to Apple by November 18, 2024.\" \n\nDoes it mean I can sent it on or before that date? Or does it mean apple has to receive it by that time? \n\nI ordered a mac mini m4 pro instead, but it's gonna take a a whole month before I receive it. It would be nice if I could use this mac for a few more days before the mac mini arrives.",
+        "created_utc": 1730755620.0,
+        "subreddit_name": "mac",
+        "comments": 11
+    },
+    {
+        "title": "Haven’t used MacOS since 2018, whats some tips and tricks I should know? ",
+        "score": 41,
+        "url": "https://i.redd.it/e8zga7g1evyd1.jpeg",
+        "content": "As title says, I havent used macos since around 2018, i have finally been able to move back, whats changed and whats new, some of your favourite features, etc, \n\nMy personal favourite feature is sidecar with the ipad, being apple to use the apple pencil’s capabilities on desktop apps is amazing",
+        "created_utc": 1730719632.0,
+        "subreddit_name": "mac",
+        "comments": 40
+    },
+    {
+        "title": "M4 Mac Mini with Ipad for Display ON STARTUP",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gjcfvo/m4_mac_mini_with_ipad_for_display_on_startup/",
+        "content": "Does anyone know if Apple has fixed the issue of using an ipad as an external monitor? Before you had to start up with another monitor and then switch or get a special dongle that allowed this. I would love to keep this setup portable, would love to know if anyone has figured this out. Thanks!",
+        "created_utc": 1730721287.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "M4 Pro 24 GB or 48GB",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gjpc41/m4_pro_24_gb_or_48gb/",
+        "content": "Currently running intel MacBook Pro 15 inch late 2017 base model with 16GB memory.\n\nRunning 6 docker containers, android studio, Xcode, multiple vs code Windows, data grip.\n\nI must buy a new MacBook to keep developing our react native app and backend and my current MacBook is end of life so want to buy a new one.\n\nI am considering the base MacBook Pro 14 inch with M4 Pro buy I am not sure to take the 24GB ram or 48 GB ram version.\n\nI want to run some LLMs locally. So is 48GB a must then?",
+        "created_utc": 1730754537.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "Screen Recoverable? ",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gjnvgi/screen_recoverable/",
+        "content": "Hi! I was leaving my class and laptop slipped off my table and landed closed on its side. I opened it back up and now it has this ring on it. It’s still possible to view stuff on it but it’s frankly a little bothersome. Is there anything that can be done?\n\nhttps://preview.redd.it/ojr4m445zxyd1.jpg?width=4032&format=pjpg&auto=webp&s=ecf4cb155af9f442ae3c77d4b9e60cedd4716e50\n\n",
+        "created_utc": 1730750946.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Will Macbook Pro M3 still be available?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gjcmje/will_macbook_pro_m3_still_be_available/",
+        "content": "Hello everyone,\n\nAs the title says, I just want to know if the Macbook Pro with chip M3 will still be available for purchase on Apple's website or Apple stores. I never really followed the Mac releases, so Idk if I can still buy one directly from Apple after the release of M4 or will the resellers be my unique option? Thanks.\n\nNote: There's no Apple's store in my city, so I can't go there and check by myself :( ",
+        "created_utc": 1730721889.0,
+        "subreddit_name": "mac",
+        "comments": 9
+    },
+    {
+        "title": "Valorant on MacOS",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gj967y/valorant_on_macos/",
+        "content": "I want to buy a macbook and completely switch to macos, but I often play valorant and I would not like to stop playing, so I am wondering if there is any possibility to play on macos or any alternative, for example windows virtualization.",
+        "created_utc": 1730706859.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Is the apple silver color consistent over time?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gj6420/is_the_apple_silver_color_consistent_over_time/",
+        "content": "Hey all, not sure where to ask this. But are the silver Macs (display, mini, iMac, MacBooks) that are silver all consistent over time? Basically if I get a silver MacBook do you know or can you tell me if they'd match an older version of those? Basically I have some peripherals that match old silver Macs and I just want to make sure getting a new silver MacBook is the right call. ",
+        "created_utc": 1730694183.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "I turned my MacBook Pro Japanese Layout into English Adapted Layout",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gjsfrq/i_turned_my_macbook_pro_japanese_layout_into/",
+        "content": "Hello!\n\nI have a question about remapping the remaining Japanese keys - specifically the ones on both sides of the spacebar and the key to the left of the delete key.\n\nI tried using Karabiner Elements, but unfortunately it caused battery drain on my MacBook while shut down, so I'd like an alternative solution.\n\nCan somebody help me?\n\nhttps://preview.redd.it/4f8gld2oxyyd1.jpg?width=4032&format=pjpg&auto=webp&s=8c5743eae8a7bef421fcdfc842c7e7aaa489424d\n\nhttps://preview.redd.it/uijcxf2oxyyd1.jpg?width=3840&format=pjpg&auto=webp&s=9db0931e5fdfe4228d44ce02220b388aa8a96d2d",
+        "created_utc": 1730762469.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Need a monitor.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gjjv5s/need_a_monitor/",
+        "content": "Hiya.\n\nI am a photographer who also plays video games, and I’m wanting to get a good monitor for my Macbook Pro so i can edit on a larger screen.\n\nThe 5K Studio display is beautiful, but it isn’t 60hz. It hurts my brain to go from a 120Hz phone and 120Hz laptop to a 60Hz monitor.\n\nSo what i’m looking for is:\nColor accurate monitor (close to Macbook pro screen)\n27 inch\nUsb-C power delivery\n144hz\nSomewhat good looking, I don’t want an RGB gamer monitor.\n\nI’ve looked into the Dough Spectrum as it’s sold on Amazon now, also the philips momentum 279m1rv.\n\nWhat do you guys suggest? I would get the Studio Display but it is not 120hz…",
+        "created_utc": 1730741204.0,
+        "subreddit_name": "mac",
+        "comments": 3
+    },
+    {
+        "title": "What is your subtle, but favourite macOS feature?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gjheeg/what_is_your_subtle_but_favourite_macos_feature/",
+        "content": "Mine is three finger text select and three finger drag. \nI’ve set four fingers to switch between desktops and three fingers for drag and selection. This makes my life so damn easy. \n\nShare yours to boost each other’s productivity. ",
+        "created_utc": 1730735261.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "iPhone Mirroring, proximity?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gjeu5b/iphone_mirroring_proximity/",
+        "content": "Does your iPhone need to be close for mirroring to work? How close? Or on the same WiFi network or anything?",
+        "created_utc": 1730728678.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "MacPro (2013-6,1) and Sequoia ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gj3aky/macpro_201361_and_sequoia/",
+        "content": "So I used Open Core Legacy Patcher to get Sequoia on my Mac Pro.\n\nI’ll probably be selling this once my new Mac Mini arrives.  If I do a full reset on the drive, I’m guessing I’ll lose the OCLP stuff that makes Sequoia work.  \n\nIs there a safe way to reset this and let the new owner keep Sequoia?",
+        "created_utc": 1730684864.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "Mac Safari PIP Rewind",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gj35cm/mac_safari_pip_rewind/",
+        "content": "Is there a way to rewind the video you are watching in PIP on Safari? I noticed the PIP on iPad and iPhone have a pause button along with the rewind and fast forward (10 to 15 seconds). Is there a way to do this with Mac's Safari PIP? I'm trying to watch lectures in PIP and I would love to be able to rewind with the press of a button.",
+        "created_utc": 1730684412.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "iMac Pro 2017 bought last November.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gj24co/imac_pro_2017_bought_last_november/",
+        "content": "my order from best buy came with 2x of ram :)\n\nyes its a refurb but whatever:) I just love this machine:\n\nhttps://preview.redd.it/iktdu9pg8syd1.png?width=1654&format=png&auto=webp&s=45657d2dabe69ca1e9ac6f1d7e60b8ab7e381636\n\nhttps://preview.redd.it/qnznv6pg8syd1.png?width=550&format=png&auto=webp&s=349711addefc2b6437e156f3545c78e8e81482b5\n\n",
+        "created_utc": 1730681299.0,
+        "subreddit_name": "mac",
+        "comments": 4
+    },
+    {
+        "title": "Apple's M4 Max is the single-core performance king in Geekbench 6 — M4 Max beats the Core Ultra 9 285K and Ryzen 9 9950X",
+        "score": 2517,
+        "url": "https://www.tomshardware.com/pc-components/cpus/apples-m4-max-is-the-single-core-performance-king-in-geekbench-6-m4-max-beats-the-core-ultra-9-285k-and-ryzen-9-9950x",
+        "content": "",
+        "created_utc": 1730728442.0,
+        "subreddit_name": "gadgets",
+        "comments": 727
+    },
+    {
+        "title": "EU commission assessing whether the iPad offers sufficient interoperability with third-party headphones and 'smart pens' ",
+        "score": 397,
+        "url": "https://9to5mac.com/2024/11/04/eu-ipad-third-party-accessories-compatibility-dma/",
+        "content": "",
+        "created_utc": 1730735075.0,
+        "subreddit_name": "gadgets",
+        "comments": 77
+    },
+    {
+        "title": "Apple's iPhone 17 And iPhone 17 Air Set To Feature 120Hz LTPO Displays: Report",
+        "score": 3,
+        "url": "https://in.mashable.com/tech/84633/apples-iphone-17-and-iphone-17-air-set-to-feature-120hz-ltpo-displays-report",
+        "content": "",
+        "created_utc": 1730702558.0,
+        "subreddit_name": "technews",
+        "comments": 31
     }
 ]

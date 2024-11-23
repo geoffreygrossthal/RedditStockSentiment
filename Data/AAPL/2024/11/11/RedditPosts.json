@@ -304,5 +304,176 @@
         "created_utc": 1731322837.0,
         "subreddit_name": "apple",
         "comments": 51
+    },
+    {
+        "title": "Apple will let you share AirTag locations with others",
+        "score": 110,
+        "url": "https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations",
+        "content": "",
+        "created_utc": 1731342855.0,
+        "subreddit_name": "technology",
+        "comments": 5
+    },
+    {
+        "title": "I wish the MacBook Air came in these colours.",
+        "score": 1065,
+        "url": "https://i.redd.it/egvnqxukz70e1.jpeg",
+        "content": "I loved the red iMac. I wish they had a red version of the MacBook Air.",
+        "created_utc": 1731308005.0,
+        "subreddit_name": "mac",
+        "comments": 64
+    },
+    {
+        "title": "Every so often, someone on r/Mac and r/macOS asks why their Mac is 1080p and not 4K. I wrote and published a blog post to hopefully make it easier.",
+        "score": 344,
+        "url": "https://griffindavidson.com/blog/mac-displays.html",
+        "content": "Let me know if I’m missing anything! And please share with future Redditors that ask this question inevitably again!",
+        "created_utc": 1731284511.0,
+        "subreddit_name": "mac",
+        "comments": 86
+    },
+    {
+        "title": "Why does my Mac not charge even though the charger is in",
+        "score": 39,
+        "url": "https://i.redd.it/a5wu5487r90e1.jpeg",
+        "content": "",
+        "created_utc": 1731329400.0,
+        "subreddit_name": "mac",
+        "comments": 60
+    },
+    {
+        "title": "debated between purple and pink",
+        "score": 33,
+        "url": "https://i.redd.it/jklgrq8qv60e1.jpeg",
+        "content": "I don’t like the color red at all so the fact that the back of the iMac is now truly pink I went with that color ! Also it’s going to take a week to arrive because I chose the Arabic/English keyboard 😊 ",
+        "created_utc": 1731294605.0,
+        "subreddit_name": "mac",
+        "comments": 12
+    },
+    {
+        "title": "How do you feel about Mac keyboards and mice?",
+        "score": 30,
+        "url": "https://www.reddit.com/r/mac/comments/1gp0l66/how_do_you_feel_about_mac_keyboards_and_mice/",
+        "content": "This is semi related to yesterday's post. I bought a Mac Mini and I'm planning to just use the keyboard and mouse I already have, at least at first. I would like the Mac layout, but I understand the small differences, like the super key and ctrl situation on a standard keyboard. Do you enjoy using the first party keyboards, or did you upgrade to something like a mechanical keyboard with Mac layout? What's the advantage to Apple mice over others?",
+        "created_utc": 1731352882.0,
+        "subreddit_name": "mac",
+        "comments": 223
+    },
+    {
+        "title": "Should I get a Mac Mini?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/mac/comments/1gowauy/should_i_get_a_mac_mini/",
+        "content": "Should I go from an Ubuntu laptop to a Mac Mini? I really like the form factor because the only places I'll take it are hotels with TVs (I already have a wireless mouse and keyboard to pair it with). I'll be using it for pretty much working, like KiCAD and Blender, and for some gaming. My current PC isn't much powerful so I have to stream games online, and it has some serious problems. Also I can use it with my iPad with iCloud, I already have 50GB.",
+        "created_utc": 1731342660.0,
+        "subreddit_name": "mac",
+        "comments": 13
+    },
+    {
+        "title": "Right side of Macbook Air M1 is dimmer then the rest of the display",
+        "score": 4,
+        "url": "https://i.redd.it/xp2vvqavr70e1.jpeg",
+        "content": "the screen goes dimmer a second after boot up so i’m thinking it maybe a software issue.",
+        "created_utc": 1731305412.0,
+        "subreddit_name": "mac",
+        "comments": 13
+    },
+    {
+        "title": "27 inch 4k or 27 inch 1440p monitor for mac?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/mac/comments/1gokywc/27_inch_4k_or_27_inch_1440p_monitor_for_mac/",
+        "content": "Which is the sweet spot for macos to not have any scaling issues anymore? I heard there's some scaling issue going on with 4k monitors. But many of you recommend 4k. So what's the matter with scaling? I am so confused as I am new to Mac🙂🙂help a brother out guys",
+        "created_utc": 1731302981.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Macbook Air M2 Accented Chars, how do I turn this off?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gp0l2t/macbook_air_m2_accented_chars_how_do_i_turn_this/",
+        "content": "Quick question; I noticed after the recent OS update, I have accented chars turned on. I am not sure how it got turned on to begin with but before, I could type something like \"ooohhhhh\" by holding down both o and h, but now if I hold down any letter for longer than a few seconds, it brings up the accented chars to choose a letter from. How do I turn this off, or just get to what I had it as before? I don't use any bluetooth or plugged in devices either. ",
+        "created_utc": 1731352876.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "About to buy my first Mac, former Windows user and current Linux user.",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1gohzcj/about_to_buy_my_first_mac_former_windows_user_and/",
+        "content": "So I've used Windows since I was a kid, had an already old iMac in the 00s, used eMacs in high school. Basically, I'm switching to escape Windows. I occasionally make music, and the main thing I miss from using Windows is Ableton. The only methods I've seen to run it through Wine are convoluted, and frankly don't seem worth it.\n\nI'm pretty set on buying the latest Mac Mini with 10 core GPU/CPU, 16 GB RAM, etc. It seems like the best option for my uses. I guess the point of this post is to just to start a discussion. What do you enjoy most about using Mac over other OS, or just general use and experiences?\n\nEdit: I brought up Wine because I switched to Linux last year.",
+        "created_utc": 1731292871.0,
+        "subreddit_name": "mac",
+        "comments": 44
+    },
+    {
+        "title": "HELP- I need the right adapter to use my monitor and charger my Macbook Air",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gozmlp/help_i_need_the_right_adapter_to_use_my_monitor/",
+        "content": "Hi - Yes I'm dumb, but I know when I need to seek help. I have a work provided mac book air. They have a yubi key in one of my usb-c ports. I have a usb-c charger, and usb-c extra monitor plug that I need to use simultaneously. I've purchased two adapters, one was from amazon [https://www.amazon.com/dp/B0CH9JPNZM?ref=ppx\\_yo2ov\\_dt\\_b\\_fed\\_asin\\_title&th=1](https://www.amazon.com/dp/B0CH9JPNZM?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) and it didn't work. And just bought the Belkin USB-C Data + Charger Adapter [https://www.belkin.com/p/usb-c-data-charge-adapter/WCZ002btWH.html?utm\\_source=google&utm\\_medium=paid&gad\\_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595g3TzPq2IWiVaMXJcffUefIX20MpquK2QV\\_ySuKS\\_lzQogoUr6OOGsaAic4EALw\\_wcB](https://www.belkin.com/p/usb-c-data-charge-adapter/WCZ002btWH.html?utm_source=google&utm_medium=paid&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595g3TzPq2IWiVaMXJcffUefIX20MpquK2QV_ySuKS_lzQogoUr6OOGsaAic4EALw_wcB) . This one charges the computer, but doesn't activate my extra monitor. What do I need to buy?",
+        "created_utc": 1731350584.0,
+        "subreddit_name": "mac",
+        "comments": 1
+    },
+    {
+        "title": "2015 macbook air not booting correctly?",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1goy58r",
+        "content": "I need to know if I'm totally screwed or if this is fixable\n\nI updated this old macbook air from El capitan to Monterey but now it isn't starting\n\nThe screen is damaged, so I have it displayed on my TV. It's been plugged into the charger for all of this. \nI can't get it to start in recovery mode (cmd+R) at all, and trying to boot in safe mode (hold shift on restart) doesn't do anything either.\n\nIf I let it try to boot regularly, it shows a default login page but never prompts a password, and I hit enter and it opens to my desk top, except it's just the image. No icons, no task bar, no menu bar. Nothing.\n\nI've tried the shortcuts to reset PRAM and SMC but that hasn't changed anything. \nThe only other thing I saw to maybe try is a Bootable usb but I believe I would need another Mac for that, and this one is the only one in the house. \n\nI only kind of know what I'm doing, I've been googling and reading a lot before trying anything, but I don't know what else I can do.",
+        "created_utc": 1731347065.0,
+        "subreddit_name": "mac",
+        "comments": 0
+    },
+    {
+        "title": "Can't install Ubuntu 22.04 or 24.04 on Parallels Desktop 20 with M4 Pro.",
+        "score": 3,
+        "url": "https://www.reddit.com/r/mac/comments/1goun8s/cant_install_ubuntu_2204_or_2404_on_parallels/",
+        "content": "Hi,\n\ncan you install Ubuntu 22.04 or 24.04 ARM Desktop/Server with the latest version of Parallels Desktop 20 on your M4 (Pro)? I can't. The installer always states an error. Also Windows 10 LTSC does not work. I get a kernel panic.\n\nAnybody having the same issues?",
+        "created_utc": 1731338516.0,
+        "subreddit_name": "mac",
+        "comments": 7
+    },
+    {
+        "title": "macmini with 256 storage",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1golv3m/macmini_with_256_storage/",
+        "content": "I thinking to but macmini with m4 chip and i will buy 2tb external ssd with it samsung t9 will the 256 gb variant enough for me in a web developer and also i do light video editing ",
+        "created_utc": 1731306288.0,
+        "subreddit_name": "mac",
+        "comments": 14
+    },
+    {
+        "title": "Disconnecting from NAS",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gojxn5/disconnecting_from_nas/",
+        "content": "Picked up a new Mac mini M4 and a Synology 1522+ with the main purpose to run Plex. I’ve been having an issue with the volume disconnecting from the Mac seemingly randomly. Sleep is disabled and I even tried using the Amphetamine app feature “keep alive” but not having any luck. Has anyone else ran into a similar issue and have any solution or advice? I’m running macOS 15.1. \n\n*Update*\nI enabled NFS on the Synology and mounted it on the Mac using “ConnectMeNow v4”. It’s been 12+ hours and no issues so far. ",
+        "created_utc": 1731299380.0,
+        "subreddit_name": "mac",
+        "comments": 6
+    },
+    {
+        "title": "Best dual device docking station?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/mac/comments/1gohw7i/best_dual_device_docking_station/",
+        "content": "For those of you who have a work MacBook Pro and a second mac personal device (mini but want to add the new mini pro) at home. Whats the bets docking station for jumping back and forth? I’ve got dual monitors - use same keyboard and mouse for both devices and I’m beyond ready to upgrade the docking. Whats the bets solution most use?",
+        "created_utc": 1731292597.0,
+        "subreddit_name": "mac",
+        "comments": 2
+    },
+    {
+        "title": "Apple explains why the M4 Mac mini power button is located on the bottom",
+        "score": 1471,
+        "url": "https://9to5mac.com/2024/11/11/m4-mac-mini-power-button/",
+        "content": "",
+        "created_utc": 1731356662.0,
+        "subreddit_name": "gadgets",
+        "comments": 796
+    },
+    {
+        "title": "Apple’s Strict Requirements Of Delivering A Stellar AR Experience To A Pair Of Smart Glasses Is At Least Five Years Away",
+        "score": 323,
+        "url": "https://wccftech.com/apple-smart-glasses-with-quality-ar-experience-five-years-away/",
+        "content": "",
+        "created_utc": 1731343477.0,
+        "subreddit_name": "gadgets",
+        "comments": 39
     }
 ]

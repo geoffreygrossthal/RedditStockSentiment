@@ -7,5 +7,32 @@
         "created_utc": 1722786679.0,
         "subreddit_name": "wallstreetbets",
         "comments": 1292
+    },
+    {
+        "title": "Report: M4 MacBook Pro, Mac mini, and iMac on track for this year",
+        "score": 1042,
+        "url": "https://9to5mac.com/2024/08/04/report-m4-macbook-pro-mac-mini-and-imac-on-track-for-this-year/",
+        "content": "",
+        "created_utc": 1722812884.0,
+        "subreddit_name": "apple",
+        "comments": 338
+    },
+    {
+        "title": "Apple Intelligence Has a Long Way to Go to Match Its Marketing Hype",
+        "score": 807,
+        "url": "https://www.bloomberg.com/news/newsletters/2024-08-04/apple-intelligence-early-preview-in-call-recording-safari-summaries-new-siri-lzfk2949?srnd=undefined",
+        "content": "",
+        "created_utc": 1722775623.0,
+        "subreddit_name": "apple",
+        "comments": 247
+    },
+    {
+        "title": "Finally launched my first iOS app",
+        "score": 638,
+        "url": "https://www.reddit.com/r/apple/comments/1ejpikz/finally_launched_my_first_ios_app/",
+        "content": "Hi everyone! I'd like to share a bit of my story and show my very first app I launched last week.\n\nI’m a web developer at my day job. Been doing it for almost 15 years, and while I mostly enjoy webdev, I’ve always been an Apple fan and for a big chunk of my career I was watching from the sidelines at all the awesome stuff happening in the Apple dev community.\n\nAt some point, I even started to feel a bit like an impostor tbh: watching WWDC sessions, following Swift news but doing nothing to actually apply all of this in practice. Why even waste time on this instead of improving the skills that pay bills?\n\nI made a few attempts to build an iOS app over the years, but it never went anywhere. Retrospectively, I understood that those projects were too ambitious for a single person to build, and I could not sustain motivation.\n\nSo last year I decided to build something with a more reasonable scope. On paper, it was a simple habit-tracking app that uses calendar grids (GitHub-style, if you're a developer). Over time, of course, the scope grew, it was not that simple anymore and it took me 9 months to design and build the first version.\n\nThe app's name is Checker. You can now [download it on the App Store](https://apps.apple.com/app/id6502667826).\n\nIf you decide to try it out, feel free to reach out with any feedback you might have. I have a ton of features planned for the app and feel excited to finally have something to contribute to the community.\n\nHave a great Sunday everyone!\n\n  \nPS. Sorry if you've seen this post already, it got removed last week after an hour or so.",
+        "created_utc": 1722756228.0,
+        "subreddit_name": "apple",
+        "comments": 219
     }
 ]
