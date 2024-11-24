@@ -147,6 +147,7 @@ def post_saved(reddit_post, stock_ticker):
                     return True
     return False
 
+########### To run this file only ##############
 # # Subreddit names (finance + stock-related + popular news + tech)
 # subreddit_names = [
 #     "aapl", "stocks", "wallstreetbets", "apple", "Daytrading"
