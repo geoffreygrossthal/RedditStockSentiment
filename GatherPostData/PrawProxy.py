@@ -5,7 +5,7 @@ import sys
 import re
 import os
 import re
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
 # Ensure that the root path and other necessary paths are included
 root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -92,7 +92,7 @@ def get_posts(subreddit_name, time_filter, limit):
             subreddit_name=subreddit_name,
             comments=submission.num_comments
         )
-
+        print("Running post collection script, analysis will run next")
         if contains_keywords(post, stock_tickers):
             if not post_saved(post, "AAPL"):
                 insert_reddit_post_into_folders(post, "AAPL")
@@ -147,16 +147,27 @@ def post_saved(reddit_post, stock_ticker):
                     return True
     return False
 
-# Subreddit names (finance + stock-related + popular news + tech)
-subreddit_names = [
-    "aapl", "stocks", "wallstreetbets", "apple", "Daytrading",
-    "worldnews", "news", "technology"
-]
+# # Subreddit names (finance + stock-related + popular news + tech)
+# subreddit_names = [
+#     "aapl", "stocks", "wallstreetbets", "apple", "Daytrading"
+# ]
 
-# Time filters (all, year, month, week, day)
-time_filters = ['all', 'year', 'month', 'week', 'day']
+# # Time filters (all, year, month, week, day)
+# time_filters = ['year', 'month', 'day']
 
-# Loop through subreddits and time filters
-for subreddit_name in subreddit_names:
-    for time_filter in time_filters:
-        get_posts(subreddit_name=subreddit_name, time_filter=time_filter, limit=3000)
+# # Loop through subreddits and time filters
+# for subreddit_name in subreddit_names:
+#     for time_filter in time_filters:
+#         get_posts(subreddit_name=subreddit_name, time_filter=time_filter, limit=3000)
+
+def run_data_collection():
+    subreddit_names = [
+        "aapl", "stocks", "wallstreetbets", "apple", "Daytrading"
+    ]
+
+    time_filters = ['year', 'month', 'day']
+
+    # Loop through subreddits and time filters
+    for subreddit_name in subreddit_names:
+        for time_filter in time_filters:
+            get_posts(subreddit_name=subreddit_name, time_filter=time_filter, limit=3000)
