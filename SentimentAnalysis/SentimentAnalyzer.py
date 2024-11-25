@@ -8,6 +8,7 @@ import logging
 import os
 
 class StockSentimentAnalyzer:
+    
     def __init__(self, model_type="vader", data_root="../Data"):
         self.model_type = model_type
         self.data_root = data_root

@@ -21,7 +21,7 @@ This project implements a sentiment analysis and trading strategy system that:
 ### 1. Data Collection
 Collect Reddit posts for specified stock tickers:
 ```bash
-python src/PrawProxy.py
+python src/GatherSentiment.py
 ```
 This will:
 - Scrape posts from specified subreddits (stocks, wallstreetbets, investing)
@@ -42,13 +42,15 @@ Features:
 ### 3. Trading Strategy Backtesting
 Test trading strategies based on sentiment scores:
 ```bash
-python src/TradingTickers.py
+python src/Trader.py
 ```
 Functionality:
 - Implements sentiment-based trading signals
 - Backtests strategies with historical price data
 - Calculates performance metrics (ROI, Sharpe ratio, etc.)
 - Generates visualization plots
+
+### 4. TraderBackTest
 
 ## Configuration Options
 

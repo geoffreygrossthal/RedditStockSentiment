@@ -243,15 +243,14 @@ def analyze_thresholds(ticker, sentiment_data, start_date, end_date):
 
 if __name__ == "__main__":
     # Test parameters
-    start_date = '2017-01-01'
+    start_date = '2014-01-01'
     end_date = '2023-12-31'
     buy_threshold = 50
     sell_threshold = -50
     
     # List of tickers from your data directory
     tickers = [
-        'AAPL', 'AMZN', 'GOOGL', 'Meta', 'MSFT', 
-        'NFLX', 'NVDA', 'TSLA', 'V', 'JPM'
+        'AAPL'
     ]
     
     # Store results for all tickers
